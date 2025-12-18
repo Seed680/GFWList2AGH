@@ -89,6 +89,8 @@ function GenerateRules() {
         fi
         if [ "${software_name}" == "adguardhome" ] || [ "${software_name}" == "adguardhome_new" ] || [ "${software_name}" == "domain" ]; then
             file_extension="txt"
+        elif [ "${software_name}" == "clash" ]; then
+            file_extension="yaml"
         elif [ "${software_name}" == "bind9" ] || [ "${software_name}" == "dnsmasq" ] || [ "${software_name}" == "smartdns" ] || [ "${software_name}" == "unbound" ]; then
             file_extension="conf"
         else
@@ -424,6 +426,39 @@ function GenerateRules() {
                 fi
             fi
         ;;
+        clash)
+            function GenerateRulesHeader() {
+                echo "payload:" >> "${file_path}"
+            }
+            function GenerateRulesBody() {
+                if [ "${generate_mode}" == "full" ]; then
+                    if [ "${generate_file}" == "black" ]; then
+                        for gfwlist_data_task in "${!gfwlist_data[@]}"; do
+                            echo "  - DOMAIN-SUFFIX,${gfwlist_data[$gfwlist_data_task]}" >> "${file_path}"
+                        done
+                    elif [ "${generate_file}" == "white" ]; then
+                        for cnacc_data_task in "${!cnacc_data[@]}"; do
+                            echo "  - DOMAIN-SUFFIX,${cnacc_data[$cnacc_data_task]}" >> "${file_path}"
+                        done
+                    fi
+                elif [ "${generate_mode}" == "lite" ]; then
+                    if [ "${generate_file}" == "black" ]; then
+                        for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
+                            echo "  - DOMAIN-SUFFIX,${lite_gfwlist_data[$lite_gfwlist_data_task]}" >> "${file_path}"
+                        done
+                    elif [ "${generate_file}" == "white" ]; then
+                        for lite_cnacc_data_task in "${!lite_cnacc_data[@]}"; do
+                            echo "  - DOMAIN-SUFFIX,${lite_cnacc_data[$lite_cnacc_data_task]}" >> "${file_path}"
+                        done
+                    fi
+                fi
+            }
+            function GenerateRulesProcess() {
+                GenerateRulesHeader
+                GenerateRulesBody
+            }
+            FileName && GenerateRulesProcess
+        ;;
         unbound)
             domestic_dns=(
                 "223.5.5.5@853#dns.alidns.com"
@@ -496,7 +531,11 @@ function OutputData() {
     software_name="smartdns" && generate_file="black" && generate_mode="lite" && foreign_group="foreign" && GenerateRules
     software_name="smartdns" && generate_file="white" && generate_mode="full" && domestic_group="domestic" && GenerateRules
     software_name="smartdns" && generate_file="white" && generate_mode="lite" && domestic_group="domestic" && GenerateRules
-
+    ## Clash (YAML Rule Set)
+    software_name="clash" && generate_file="black" && generate_mode="full" && GenerateRules
+    software_name="clash" && generate_file="black" && generate_mode="lite" && GenerateRules
+    software_name="clash" && generate_file="white" && generate_mode="full" && GenerateRules
+    software_name="clash" && generate_file="white" && generate_mode="lite" && GenerateRules
 
     cd .. && rm -rf ./Temp
     exit 0
