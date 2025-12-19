@@ -2163,6 +2163,7 @@ payload:
   - DOMAIN-SUFFIX,awjq.cc
   - DOMAIN-SUFFIX,aws-iot-hackathon.com
   - DOMAIN-SUFFIX,aws.com
+  - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,awsapprunner.com
   - DOMAIN-SUFFIX,awsapps.com
   - DOMAIN-SUFFIX,awsautopilot.com
@@ -4524,6 +4525,7 @@ payload:
   - DOMAIN-SUFFIX,cmcn.org
   - DOMAIN-SUFFIX,cmegroup.com
   - DOMAIN-SUFFIX,cmoinc.org
+  - DOMAIN-SUFFIX,cmoney.tw
   - DOMAIN-SUFFIX,cmpaas.com
   - DOMAIN-SUFFIX,cms-twdigitalassets.com
   - DOMAIN-SUFFIX,cms.gov
@@ -14217,6 +14219,7 @@ payload:
   - DOMAIN-SUFFIX,ndi.org
   - DOMAIN-SUFFIX,ndr.de
   - DOMAIN-SUFFIX,ndtv.com
+  - DOMAIN-SUFFIX,ne.jp
   - DOMAIN-SUFFIX,near.by
   - DOMAIN-SUFFIX,nebay.net
   - DOMAIN-SUFFIX,nebula-emby.com
@@ -15491,6 +15494,7 @@ payload:
   - DOMAIN-SUFFIX,parstream.net
   - DOMAIN-SUFFIX,parstream.org
   - DOMAIN-SUFFIX,partmaker.com
+  - DOMAIN-SUFFIX,partnerstack.xyz
   - DOMAIN-SUFFIX,partycasino.com
   - DOMAIN-SUFFIX,partylikeits1986.org
   - DOMAIN-SUFFIX,partypoker.com

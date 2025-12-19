@@ -2730,6 +2730,7 @@ payload:
   - DOMAIN-SUFFIX,awlc.ac.uk
   - DOMAIN-SUFFIX,aws-iot-hackathon.com
   - DOMAIN-SUFFIX,aws.com
+  - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,awsapprunner.com
   - DOMAIN-SUFFIX,awsapps.com
   - DOMAIN-SUFFIX,awsautopilot.com
@@ -6199,6 +6200,7 @@ payload:
   - DOMAIN-SUFFIX,cmi.org.tw
   - DOMAIN-SUFFIX,cmmedia.com.tw
   - DOMAIN-SUFFIX,cmoinc.org
+  - DOMAIN-SUFFIX,cmoney.tw
   - DOMAIN-SUFFIX,cmp.hku.hk
   - DOMAIN-SUFFIX,cmpaas.com
   - DOMAIN-SUFFIX,cmpcp.ac.uk
@@ -19494,6 +19496,7 @@ payload:
   - DOMAIN-SUFFIX,ndtv.com
   - DOMAIN-SUFFIX,ne-worcs.ac.uk
   - DOMAIN-SUFFIX,ne-worcscol.ac.uk
+  - DOMAIN-SUFFIX,ne.jp
   - DOMAIN-SUFFIX,neab.ac.uk
   - DOMAIN-SUFFIX,neaco.ac.uk
   - DOMAIN-SUFFIX,near.by
@@ -21428,6 +21431,7 @@ payload:
   - DOMAIN-SUFFIX,particlephysics.ac.uk
   - DOMAIN-SUFFIX,partmaker.com
   - DOMAIN-SUFFIX,partneriaethaberbangor.ac.uk
+  - DOMAIN-SUFFIX,partnerstack.xyz
   - DOMAIN-SUFFIX,partycasino.com
   - DOMAIN-SUFFIX,partylikeits1986.org
   - DOMAIN-SUFFIX,partypoker.com
