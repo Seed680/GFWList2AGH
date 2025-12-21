@@ -8010,6 +8010,8 @@ payload:
   - DOMAIN-SUFFIX,dmed.technology
   - DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
   - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,dmit.io
+  - DOMAIN-SUFFIX,dmit.sh
   - DOMAIN-SUFFIX,dml-lang.org
   - DOMAIN-SUFFIX,dml.ac.uk
   - DOMAIN-SUFFIX,dmm-extension.com
@@ -9230,6 +9232,7 @@ payload:
   - DOMAIN-SUFFIX,entrustdatacard.com
   - DOMAIN-SUFFIX,enveast.ac.uk
   - DOMAIN-SUFFIX,environment-health.ac.uk
+  - DOMAIN-SUFFIX,eotarchive.org
   - DOMAIN-SUFFIX,epa.gov.tw
   - DOMAIN-SUFFIX,epac.to
   - DOMAIN-SUFFIX,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
@@ -11682,6 +11685,7 @@ payload:
   - DOMAIN-SUFFIX,ghettotube.com
   - DOMAIN-SUFFIX,ghidra-sre.org
   - DOMAIN-SUFFIX,ghil.ac.uk
+  - DOMAIN-SUFFIX,ghostarchive.org
   - DOMAIN-SUFFIX,ghostgames.com
   - DOMAIN-SUFFIX,ghostnoteapp.com
   - DOMAIN-SUFFIX,ghostpath.com
@@ -17871,6 +17875,7 @@ payload:
   - DOMAIN-SUFFIX,meme111.com
   - DOMAIN-SUFFIX,memealerts.com
   - DOMAIN-SUFFIX,memehk.com
+  - DOMAIN-SUFFIX,mementoweb.org
   - DOMAIN-SUFFIX,memes.tw
   - DOMAIN-SUFFIX,memorybbs.com
   - DOMAIN-SUFFIX,memri.org
@@ -21806,6 +21811,7 @@ payload:
   - DOMAIN-SUFFIX,performancescience.ac.uk
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,perl.org
+  - DOMAIN-SUFFIX,perma.cc
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,perplexity.com
   - DOMAIN-SUFFIX,persagg.com
@@ -26249,6 +26255,7 @@ payload:
   - DOMAIN-SUFFIX,static-nike.com
   - DOMAIN-SUFFIX,static-verizon.com
   - DOMAIN-SUFFIX,static.fun
+  - DOMAIN-SUFFIX,static.pocketcasts.com
   - DOMAIN-SUFFIX,static.shemalez.com
   - DOMAIN-SUFFIX,static.siege-amazon.com
   - DOMAIN-SUFFIX,static01.nyt.com
@@ -30259,6 +30266,7 @@ payload:
   - DOMAIN-SUFFIX,webcams.tv
   - DOMAIN-SUFFIX,webcamtubexxx.com
   - DOMAIN-SUFFIX,webchannel-alkalimakersuite-pa.clients6.google.com
+  - DOMAIN-SUFFIX,webcitation.org
   - DOMAIN-SUFFIX,webevader.org
   - DOMAIN-SUFFIX,webex.ca
   - DOMAIN-SUFFIX,webex.co.in

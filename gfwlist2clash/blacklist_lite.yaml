@@ -5728,6 +5728,8 @@ payload:
   - DOMAIN-SUFFIX,dmcdn.net
   - DOMAIN-SUFFIX,dmed.technology
   - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,dmit.io
+  - DOMAIN-SUFFIX,dmit.sh
   - DOMAIN-SUFFIX,dml-lang.org
   - DOMAIN-SUFFIX,dmm-extension.com
   - DOMAIN-SUFFIX,dmm.com
@@ -6577,6 +6579,7 @@ payload:
   - DOMAIN-SUFFIX,entrust.com
   - DOMAIN-SUFFIX,entrust.net
   - DOMAIN-SUFFIX,entrustdatacard.com
+  - DOMAIN-SUFFIX,eotarchive.org
   - DOMAIN-SUFFIX,epac.to
   - DOMAIN-SUFFIX,epic.network
   - DOMAIN-SUFFIX,epicbrowser.com
@@ -8569,6 +8572,7 @@ payload:
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,ghettotube.com
   - DOMAIN-SUFFIX,ghidra-sre.org
+  - DOMAIN-SUFFIX,ghostarchive.org
   - DOMAIN-SUFFIX,ghostgames.com
   - DOMAIN-SUFFIX,ghostnoteapp.com
   - DOMAIN-SUFFIX,ghostpath.com
@@ -12991,6 +12995,7 @@ payload:
   - DOMAIN-SUFFIX,meme111.com
   - DOMAIN-SUFFIX,memealerts.com
   - DOMAIN-SUFFIX,memehk.com
+  - DOMAIN-SUFFIX,mementoweb.org
   - DOMAIN-SUFFIX,memes.tw
   - DOMAIN-SUFFIX,memorybbs.com
   - DOMAIN-SUFFIX,memri.org
@@ -15789,6 +15794,7 @@ payload:
   - DOMAIN-SUFFIX,perfectvpn.net
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,perl.org
+  - DOMAIN-SUFFIX,perma.cc
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,perplexity.com
   - DOMAIN-SUFFIX,persagg.com
@@ -21715,6 +21721,7 @@ payload:
   - DOMAIN-SUFFIX,webcammedellin.co
   - DOMAIN-SUFFIX,webcams.tv
   - DOMAIN-SUFFIX,webcamtubexxx.com
+  - DOMAIN-SUFFIX,webcitation.org
   - DOMAIN-SUFFIX,webevader.org
   - DOMAIN-SUFFIX,webex.ca
   - DOMAIN-SUFFIX,webex.com
