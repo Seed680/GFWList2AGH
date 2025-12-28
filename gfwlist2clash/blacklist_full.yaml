@@ -8102,7 +8102,6 @@ payload:
   - DOMAIN-SUFFIX,doclercdn.com
   - DOMAIN-SUFFIX,docs.cfw.lbyczf.com
   - DOMAIN-SUFFIX,docs.com
-  - DOMAIN-SUFFIX,docs.deno.com
   - DOMAIN-SUFFIX,docs.new
   - DOMAIN-SUFFIX,docs.rs
   - DOMAIN-SUFFIX,doctor-videos.com
@@ -11362,6 +11361,7 @@ payload:
   - DOMAIN-SUFFIX,gao1.cc
   - DOMAIN-SUFFIX,gaofuwu.cc
   - DOMAIN-SUFFIX,gaoming.net
+  - DOMAIN-SUFFIX,gaopi.net
   - DOMAIN-SUFFIX,gaozhisheng.net
   - DOMAIN-SUFFIX,gaozhisheng.org
   - DOMAIN-SUFFIX,gaozs18.buzz
@@ -15114,6 +15114,7 @@ payload:
   - DOMAIN-SUFFIX,issitedownrightnow.com
   - DOMAIN-SUFFIX,issquaredown.com
   - DOMAIN-SUFFIX,issquareup.com
+  - DOMAIN-SUFFIX,issues.chromium.org
   - DOMAIN-SUFFIX,issuu.com
   - DOMAIN-SUFFIX,istar.ac.uk
   - DOMAIN-SUFFIX,istars.co.nz
