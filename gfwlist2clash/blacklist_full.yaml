@@ -2142,6 +2142,7 @@ payload:
   - DOMAIN-SUFFIX,archivx.to
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,archlinuxarm.org
+  - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,archway.ac.uk
   - DOMAIN-SUFFIX,arcom.ac.uk
   - DOMAIN-SUFFIX,arcraiders.com
@@ -11937,6 +11938,7 @@ payload:
   - DOMAIN-SUFFIX,gockhuatviet.com
   - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,godalming.ac.uk
+  - DOMAIN-SUFFIX,godbolt.org
   - DOMAIN-SUFFIX,godfootsteps.org
   - DOMAIN-SUFFIX,godns.work
   - DOMAIN-SUFFIX,godoc.org
@@ -24221,6 +24223,7 @@ payload:
   - DOMAIN-SUFFIX,samsunghealth.com
   - DOMAIN-SUFFIX,samsungiotcloud.com
   - DOMAIN-SUFFIX,samsungknox.com
+  - DOMAIN-SUFFIX,samsungosp.com
   - DOMAIN-SUFFIX,samsungqbe.com
   - DOMAIN-SUFFIX,samsungrs.com
   - DOMAIN-SUFFIX,sandisk.ae
