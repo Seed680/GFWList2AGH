@@ -4788,6 +4788,8 @@ payload:
   - DOMAIN-SUFFIX,bumptunes.com
   - DOMAIN-SUFFIX,bunbunhk.com
   - DOMAIN-SUFFIX,bunka.go.jp
+  - DOMAIN-SUFFIX,bunny.net
+  - DOMAIN-SUFFIX,bunnycdn.com
   - DOMAIN-SUFFIX,bunnylust.com
   - DOMAIN-SUFFIX,burningcamel.com
   - DOMAIN-SUFFIX,burnley.ac.uk
@@ -21697,6 +21699,7 @@ payload:
   - DOMAIN-SUFFIX,pdproxy.com
   - DOMAIN-SUFFIX,pds.ac.uk
   - DOMAIN-SUFFIX,pds.nasa.gov
+  - DOMAIN-SUFFIX,pdst.fm
   - DOMAIN-SUFFIX,pdxbmw.com
   - DOMAIN-SUFFIX,peace.ca
   - DOMAIN-SUFFIX,peacefire.org
@@ -28876,6 +28879,7 @@ payload:
   - DOMAIN-SUFFIX,uol.ac.uk
   - DOMAIN-SUFFIX,uos.ac.uk
   - DOMAIN-SUFFIX,uoutside.org
+  - DOMAIN-SUFFIX,up.audio
   - DOMAIN-SUFFIX,up.gcp.googlers.com
   - DOMAIN-SUFFIX,up01.cc
   - DOMAIN-SUFFIX,upa.ac.uk

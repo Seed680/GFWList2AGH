@@ -3611,6 +3611,8 @@ payload:
   - DOMAIN-SUFFIX,bumptop.org
   - DOMAIN-SUFFIX,bumptunes.com
   - DOMAIN-SUFFIX,bunbunhk.com
+  - DOMAIN-SUFFIX,bunny.net
+  - DOMAIN-SUFFIX,bunnycdn.com
   - DOMAIN-SUFFIX,bunnylust.com
   - DOMAIN-SUFFIX,burningcamel.com
   - DOMAIN-SUFFIX,busayari.com
@@ -15721,6 +15723,7 @@ payload:
   - DOMAIN-SUFFIX,pdfexpert.com
   - DOMAIN-SUFFIX,pdncommunity.com
   - DOMAIN-SUFFIX,pdproxy.com
+  - DOMAIN-SUFFIX,pdst.fm
   - DOMAIN-SUFFIX,pdxbmw.com
   - DOMAIN-SUFFIX,peace.ca
   - DOMAIN-SUFFIX,peacefire.org
@@ -20665,6 +20668,7 @@ payload:
   - DOMAIN-SUFFIX,uocn.org
   - DOMAIN-SUFFIX,uoherald.com
   - DOMAIN-SUFFIX,uoutside.org
+  - DOMAIN-SUFFIX,up.audio
   - DOMAIN-SUFFIX,up01.cc
   - DOMAIN-SUFFIX,upbit.com
   - DOMAIN-SUFFIX,updatestar.com
