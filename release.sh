@@ -33,13 +33,16 @@ function GetData() {
         cnacc_trusted=(
             "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf"
             "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf"
+            "https://raw.githubusercontent.com/neodevpro/neodevhost/refs/heads/master/allow"
         )
+        
         gfwlist_base64=(
             "https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt"
             "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
             "https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt"
         )
         gfwlist_domain=(
+        "https://raw.githubusercontent.com/neodevpro/neodevhost/refs/heads/master/block"
             "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
             "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt"
             "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
@@ -50,7 +53,7 @@ function GetData() {
             "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
         )
         gfwlist2agh_modify=(
-            "https://raw.githubusercontent.com/madswaord/GFWList2AGH/refs/heads/source/data/data_modify.txt"
+            "https://raw.githubusercontent.com/Seed680/GFWList2AGH/refs/heads/source/data/data_modify.txt"
         )
     rm -rf ./gfwlist2* ./Temp && mkdir ./Temp && cd ./Temp
     for cnacc_domain_task in "${!cnacc_domain[@]}"; do
