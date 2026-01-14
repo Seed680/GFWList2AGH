@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,00oo00.com
   - DOMAIN-SUFFIX,00p034d0dw.com
   - DOMAIN-SUFFIX,00px.net
+  - DOMAIN-SUFFIX,01.org
   - DOMAIN-SUFFIX,0101122.com
   - DOMAIN-SUFFIX,010teacher.com
   - DOMAIN-SUFFIX,011211.cn
@@ -226,6 +227,7 @@ payload:
   - DOMAIN-SUFFIX,1-cl0ud.com
   - DOMAIN-SUFFIX,1-class.jp
   - DOMAIN-SUFFIX,1-creative-1.com
+  - DOMAIN-SUFFIX,10.tt
   - DOMAIN-SUFFIX,100-flannelman.com
   - DOMAIN-SUFFIX,10000recipe.com
   - DOMAIN-SUFFIX,1000farmacie.it
@@ -508,6 +510,7 @@ payload:
   - DOMAIN-SUFFIX,16pr72tb5.de
   - DOMAIN-SUFFIX,16qijf.cn
   - DOMAIN-SUFFIX,16vcd.com
+  - DOMAIN-SUFFIX,17.live
   - DOMAIN-SUFFIX,170.icu
   - DOMAIN-SUFFIX,17022993.xyz
   - DOMAIN-SUFFIX,1717gs.com
@@ -1258,7 +1261,6 @@ payload:
   - DOMAIN-SUFFIX,2zm4.cn
   - DOMAIN-SUFFIX,2znp09oa.com
   - DOMAIN-SUFFIX,3-a.net
-  - DOMAIN-SUFFIX,3.cn
   - DOMAIN-SUFFIX,3.dk
   - DOMAIN-SUFFIX,3.se
   - DOMAIN-SUFFIX,300daytravel.com
@@ -1411,7 +1413,6 @@ payload:
   - DOMAIN-SUFFIX,36d1ef387c.com
   - DOMAIN-SUFFIX,36pn.com
   - DOMAIN-SUFFIX,36rain.com
-  - DOMAIN-SUFFIX,37.com
   - DOMAIN-SUFFIX,37066957.xyz
   - DOMAIN-SUFFIX,371dk.com
   - DOMAIN-SUFFIX,37243211.xyz
@@ -1445,7 +1446,6 @@ payload:
   - DOMAIN-SUFFIX,3890e014d2.com
   - DOMAIN-SUFFIX,38ds89f8.de
   - DOMAIN-SUFFIX,38ursg.cn
-  - DOMAIN-SUFFIX,39.net
   - DOMAIN-SUFFIX,3917.com
   - DOMAIN-SUFFIX,39330.bet
   - DOMAIN-SUFFIX,3936fb9cdf.com
@@ -1899,7 +1899,7 @@ payload:
   - DOMAIN-SUFFIX,50southcapital.com
   - DOMAIN-SUFFIX,50w.me
   - DOMAIN-SUFFIX,50webs.com
-  - DOMAIN-SUFFIX,51.la
+  - DOMAIN-SUFFIX,51.ca
   - DOMAIN-SUFFIX,5101c555fc.com
   - DOMAIN-SUFFIX,510599.com
   - DOMAIN-SUFFIX,510mall.com
@@ -2013,7 +2013,6 @@ payload:
   - DOMAIN-SUFFIX,548f23e472.com
   - DOMAIN-SUFFIX,54nb.com
   - DOMAIN-SUFFIX,55-trk-srv.com
-  - DOMAIN-SUFFIX,55.la
   - DOMAIN-SUFFIX,550909.com
   - DOMAIN-SUFFIX,550sky.com
   - DOMAIN-SUFFIX,5534a1fe5d.com
@@ -2034,7 +2033,6 @@ payload:
   - DOMAIN-SUFFIX,55f4605f6d.com
   - DOMAIN-SUFFIX,55labs.com
   - DOMAIN-SUFFIX,55truck.com
-  - DOMAIN-SUFFIX,56.com
   - DOMAIN-SUFFIX,5603.net
   - DOMAIN-SUFFIX,5608c7633c.com
   - DOMAIN-SUFFIX,5634.com
@@ -2059,7 +2057,6 @@ payload:
   - DOMAIN-SUFFIX,57m1j.cn
   - DOMAIN-SUFFIX,57m1j.com
   - DOMAIN-SUFFIX,57m2em0y.xyz
-  - DOMAIN-SUFFIX,58.com
   - DOMAIN-SUFFIX,5812afc7cb.com
   - DOMAIN-SUFFIX,5814889.com
   - DOMAIN-SUFFIX,582582.com
@@ -2282,6 +2279,7 @@ payload:
   - DOMAIN-SUFFIX,65r3g.cn
   - DOMAIN-SUFFIX,65twenty.com
   - DOMAIN-SUFFIX,66-trk-srv.com
+  - DOMAIN-SUFFIX,66.ca
   - DOMAIN-SUFFIX,6604.org
   - DOMAIN-SUFFIX,66077.cn
   - DOMAIN-SUFFIX,661291.com
@@ -2488,7 +2486,6 @@ payload:
   - DOMAIN-SUFFIX,70e.me
   - DOMAIN-SUFFIX,70e19ee52e.com
   - DOMAIN-SUFFIX,70yst.com
-  - DOMAIN-SUFFIX,71.am
   - DOMAIN-SUFFIX,71100.net
   - DOMAIN-SUFFIX,7116966.com
   - DOMAIN-SUFFIX,711983.com
@@ -2946,6 +2943,7 @@ payload:
   - DOMAIN-SUFFIX,88xm.tv
   - DOMAIN-SUFFIX,88xqq.com
   - DOMAIN-SUFFIX,89-64.org
+  - DOMAIN-SUFFIX,89.com
   - DOMAIN-SUFFIX,890ae888.com
   - DOMAIN-SUFFIX,890x.com
   - DOMAIN-SUFFIX,892155.com
@@ -3104,7 +3102,6 @@ payload:
   - DOMAIN-SUFFIX,90qxskdmn9.com
   - DOMAIN-SUFFIX,90seconds.asia
   - DOMAIN-SUFFIX,91-cg.com
-  - DOMAIN-SUFFIX,91.com
   - DOMAIN-SUFFIX,910weixin.com
   - DOMAIN-SUFFIX,911cha.com
   - DOMAIN-SUFFIX,9158918.com
