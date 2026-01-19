@@ -12543,6 +12543,7 @@ payload:
   - DOMAIN-SUFFIX,amdotibet.com
   - DOMAIN-SUFFIX,ameblo.jp
   - DOMAIN-SUFFIX,amec-inc.com
+  - DOMAIN-SUFFIX,amecj.com
   - DOMAIN-SUFFIX,amegroups.org
   - DOMAIN-SUFFIX,ameisx.com
   - DOMAIN-SUFFIX,amemv.com
@@ -52401,7 +52402,7 @@ payload:
   - DOMAIN-SUFFIX,hknet-inc.com
   - DOMAIN-SUFFIX,hkoke.com
   - DOMAIN-SUFFIX,hkpep.com
-  - DOMAIN-SUFFIX,hkping.igamecj.com
+  - DOMAIN-SUFFIX,hkping.ig360.cn
   - DOMAIN-SUFFIX,hkproperty.com
   - DOMAIN-SUFFIX,hkqbh.com
   - DOMAIN-SUFFIX,hkroyal.com
