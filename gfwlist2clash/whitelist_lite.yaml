@@ -9722,6 +9722,7 @@ payload:
   - DOMAIN-SUFFIX,adnyg.com
   - DOMAIN-SUFFIX,adobe-tool.com
   - DOMAIN-SUFFIX,adobeae.com
+  - DOMAIN-SUFFIX,adobedtm.com
   - DOMAIN-SUFFIX,adobeedu.com
   - DOMAIN-SUFFIX,adoebike.com
   - DOMAIN-SUFFIX,adollo.com
@@ -32819,6 +32820,7 @@ payload:
   - DOMAIN-SUFFIX,edspay.com
   - DOMAIN-SUFFIX,edt2017.com
   - DOMAIN-SUFFIX,edt2018.com
+  - DOMAIN-SUFFIX,edtm.com
   - DOMAIN-SUFFIX,edtsoft.com
   - DOMAIN-SUFFIX,edty.com
   - DOMAIN-SUFFIX,edu-cj.com
@@ -39840,7 +39842,6 @@ payload:
   - DOMAIN-SUFFIX,gk-cn.com
   - DOMAIN-SUFFIX,gk-net.com
   - DOMAIN-SUFFIX,gk-z.com
-  - DOMAIN-SUFFIX,gk.com
   - DOMAIN-SUFFIX,gk.ink
   - DOMAIN-SUFFIX,gk.link
   - DOMAIN-SUFFIX,gk100.com
@@ -81766,6 +81767,7 @@ payload:
   - DOMAIN-SUFFIX,redmart.com
   - DOMAIN-SUFFIX,redmou.com
   - DOMAIN-SUFFIX,rednetdns.com
+  - DOMAIN-SUFFIX,rednotecdn.com
   - DOMAIN-SUFFIX,redocn.com
   - DOMAIN-SUFFIX,redodopower.com
   - DOMAIN-SUFFIX,redoop.com
