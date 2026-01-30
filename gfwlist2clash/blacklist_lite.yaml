@@ -9589,6 +9589,7 @@ payload:
   - DOMAIN-SUFFIX,atknvcdnfckpb.website
   - DOMAIN-SUFFIX,atkoxjrndvsct.online
   - DOMAIN-SUFFIX,atkpaitsh.net
+  - DOMAIN-SUFFIX,atl-paas.net
   - DOMAIN-SUFFIX,atlanta.net
   - DOMAIN-SUFFIX,atlanta168.com
   - DOMAIN-SUFFIX,atlantaminidealers.com
@@ -9603,6 +9604,7 @@ payload:
   - DOMAIN-SUFFIX,atlasmission.com
   - DOMAIN-SUFFIX,atlasonepoint.com
   - DOMAIN-SUFFIX,atlaspost.com
+  - DOMAIN-SUFFIX,atlassian-dev.net
   - DOMAIN-SUFFIX,atlassian.net
   - DOMAIN-SUFFIX,atlastravel.com
   - DOMAIN-SUFFIX,atlastwo.com
@@ -35137,6 +35139,9 @@ payload:
   - DOMAIN-SUFFIX,fougaijime.net
   - DOMAIN-SUFFIX,foumm.com
   - DOMAIN-SUFFIX,found.app
+  - DOMAIN-SUFFIX,foundationdns.com
+  - DOMAIN-SUFFIX,foundationdns.net
+  - DOMAIN-SUFFIX,foundationdns.org
   - DOMAIN-SUFFIX,foundationhorny.com
   - DOMAIN-SUFFIX,foundationsoft.com
   - DOMAIN-SUFFIX,founderyet.com
@@ -49307,6 +49312,7 @@ payload:
   - DOMAIN-SUFFIX,jipvtxdxtrnsh.website
   - DOMAIN-SUFFIX,jipxzz.icu
   - DOMAIN-SUFFIX,jiquezkmdgqny.website
+  - DOMAIN-SUFFIX,jira.com
   - DOMAIN-SUFFIX,jirafe.com
   - DOMAIN-SUFFIX,jiruan.net
   - DOMAIN-SUFFIX,jisbar.com
@@ -84238,6 +84244,7 @@ payload:
   - DOMAIN-SUFFIX,smashwords.com
   - DOMAIN-SUFFIX,smazesacronyx.com
   - DOMAIN-SUFFIX,smbzsbsahhxaj.online
+  - DOMAIN-SUFFIX,smc.tf
   - DOMAIN-SUFFIX,smcdxffhlkifc.site
   - DOMAIN-SUFFIX,smchbooks.com
   - DOMAIN-SUFFIX,smcouxfjydhwz.site
@@ -85991,6 +85998,7 @@ payload:
   - DOMAIN-SUFFIX,sryfmerwefrwj.icu
   - DOMAIN-SUFFIX,srytiqervsgbi.space
   - DOMAIN-SUFFIX,ss-01.com
+  - DOMAIN-SUFFIX,ss-inf.net
   - DOMAIN-SUFFIX,ss-link.com
   - DOMAIN-SUFFIX,ss0uu1lpirig.com
   - DOMAIN-SUFFIX,ss2.us
@@ -91946,7 +91954,6 @@ payload:
   - DOMAIN-SUFFIX,tr-rollers.xyz
   - DOMAIN-SUFFIX,tr-usual.xyz
   - DOMAIN-SUFFIX,tr.com
-  - DOMAIN-SUFFIX,trac.tf
   - DOMAIN-SUFFIX,tracdelight.com
   - DOMAIN-SUFFIX,tracdelight.io
   - DOMAIN-SUFFIX,trace-2000.com
