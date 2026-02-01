@@ -7642,6 +7642,7 @@ payload:
   - DOMAIN-SUFFIX,7-vk.com
   - DOMAIN-SUFFIX,7-wx.com
   - DOMAIN-SUFFIX,70.cc
+  - DOMAIN-SUFFIX,70.com
   - DOMAIN-SUFFIX,70.net
   - DOMAIN-SUFFIX,700618.com
   - DOMAIN-SUFFIX,70098.com
@@ -72627,6 +72628,7 @@ payload:
   - DOMAIN-SUFFIX,lvbitte.com
   - DOMAIN-SUFFIX,lvbogas.com
   - DOMAIN-SUFFIX,lvcai.biz
+  - DOMAIN-SUFFIX,lvcampaign.com
   - DOMAIN-SUFFIX,lvcchong.com
   - DOMAIN-SUFFIX,lvchanghuanbao.com
   - DOMAIN-SUFFIX,lvchayun.com
@@ -76419,7 +76421,6 @@ payload:
   - DOMAIN-SUFFIX,mkto-ab690180.com
   - DOMAIN-SUFFIX,mkto-abj0022.com
   - DOMAIN-SUFFIX,mkto-abm0229.com
-  - DOMAIN-SUFFIX,mkto-d0170.com
   - DOMAIN-SUFFIX,mkto-g0180.com
   - DOMAIN-SUFFIX,mkto-l0088.com
   - DOMAIN-SUFFIX,mkto-lon030291.com
@@ -104936,6 +104937,7 @@ payload:
   - DOMAIN-SUFFIX,tp-data.com
   - DOMAIN-SUFFIX,tp-emea.exactag.com
   - DOMAIN-SUFFIX,tp-hivi.com
+  - DOMAIN-SUFFIX,tp.louisvuitton.com
   - DOMAIN-SUFFIX,tp24.com
   - DOMAIN-SUFFIX,tp82.com
   - DOMAIN-SUFFIX,tpadx.com
