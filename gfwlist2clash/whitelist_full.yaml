@@ -2836,7 +2836,6 @@ payload:
   - DOMAIN-SUFFIX,1fangchan.com
   - DOMAIN-SUFFIX,1fenlei.com
   - DOMAIN-SUFFIX,1fgqfml.oloadcdn.net
-  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1flash.net
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
@@ -17751,6 +17750,7 @@ payload:
   - DOMAIN-SUFFIX,bfzzmj.com
   - DOMAIN-SUFFIX,bg.gravatar.com
   - DOMAIN-SUFFIX,bg.playstation.com
+  - DOMAIN-SUFFIX,bg.v4.a.dl.ws.microsoft.co1fichier.com
   - DOMAIN-SUFFIX,bg.v4.a.dl.ws.microsoft.com
   - DOMAIN-SUFFIX,bg.v4.emdl.ws.microsoft.com
   - DOMAIN-SUFFIX,bg.wikipedia.com
@@ -33810,6 +33810,7 @@ payload:
   - DOMAIN-SUFFIX,djiang.net
   - DOMAIN-SUFFIX,djiavip.com
   - DOMAIN-SUFFIX,djicdn.com
+  - DOMAIN-SUFFIX,djigate.com
   - DOMAIN-SUFFIX,djigo-hk.djiservice.org
   - DOMAIN-SUFFIX,djigo.djicdn.com
   - DOMAIN-SUFFIX,djigoapi.djiservice.org
@@ -79363,7 +79364,7 @@ payload:
   - DOMAIN-SUFFIX,news.yahoo.com
   - DOMAIN-SUFFIX,news.ycombinator.com
   - DOMAIN-SUFFIX,news18a.com
-  - DOMAIN-SUFFIX,newsapi.com.au
+  - DOMAIN-SUFFIX,newsa360.cn
   - DOMAIN-SUFFIX,newsapp01.com
   - DOMAIN-SUFFIX,newsccn.com
   - DOMAIN-SUFFIX,newscctv.net
@@ -84279,6 +84280,7 @@ payload:
   - DOMAIN-SUFFIX,phyy.com
   - DOMAIN-SUFFIX,phzg.com
   - DOMAIN-SUFFIX,pi-hole.net
+  - DOMAIN-SUFFIX,pi.com.au
   - DOMAIN-SUFFIX,pi.pardot.com
   - DOMAIN-SUFFIX,pi7.com
   - DOMAIN-SUFFIX,piaget-hello.com

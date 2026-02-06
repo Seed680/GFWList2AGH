@@ -2764,7 +2764,6 @@ payload:
   - DOMAIN-SUFFIX,1f11.com
   - DOMAIN-SUFFIX,1fangchan.com
   - DOMAIN-SUFFIX,1fenlei.com
-  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1flash.net
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
@@ -21063,6 +21062,7 @@ payload:
   - DOMAIN-SUFFIX,cfnotes.com
   - DOMAIN-SUFFIX,cfogc.com
   - DOMAIN-SUFFIX,cfogc.net
+  - DOMAIN-SUFFIX,cfpa.team
   - DOMAIN-SUFFIX,cfrlr.com
   - DOMAIN-SUFFIX,cfsbcn.com
   - DOMAIN-SUFFIX,cfscar.com
@@ -30769,6 +30769,7 @@ payload:
   - DOMAIN-SUFFIX,djiang.net
   - DOMAIN-SUFFIX,djiavip.com
   - DOMAIN-SUFFIX,djicdn.com
+  - DOMAIN-SUFFIX,djigate.com
   - DOMAIN-SUFFIX,djiits.com
   - DOMAIN-SUFFIX,djiops.com
   - DOMAIN-SUFFIX,djiservice.org
@@ -33704,6 +33705,7 @@ payload:
   - DOMAIN-SUFFIX,egovsum.com
   - DOMAIN-SUFFIX,egpctiz.com
   - DOMAIN-SUFFIX,egpharm.com
+  - DOMAIN-SUFFIX,egqch.link
   - DOMAIN-SUFFIX,egqkxzd.com
   - DOMAIN-SUFFIX,egreatworld.com
   - DOMAIN-SUFFIX,egret-labs.org
@@ -73411,6 +73413,7 @@ payload:
   - DOMAIN-SUFFIX,newrizon.com
   - DOMAIN-SUFFIX,news-cdn.site
   - DOMAIN-SUFFIX,news18a.com
+  - DOMAIN-SUFFIX,newsa360.cn
   - DOMAIN-SUFFIX,newsapp01.com
   - DOMAIN-SUFFIX,newsccn.com
   - DOMAIN-SUFFIX,newscctv.net
