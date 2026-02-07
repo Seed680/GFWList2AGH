@@ -2764,6 +2764,7 @@ payload:
   - DOMAIN-SUFFIX,1f11.com
   - DOMAIN-SUFFIX,1fangchan.com
   - DOMAIN-SUFFIX,1fenlei.com
+  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1flash.net
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
@@ -73413,7 +73414,6 @@ payload:
   - DOMAIN-SUFFIX,newrizon.com
   - DOMAIN-SUFFIX,news-cdn.site
   - DOMAIN-SUFFIX,news18a.com
-  - DOMAIN-SUFFIX,newsa360.cn
   - DOMAIN-SUFFIX,newsapp01.com
   - DOMAIN-SUFFIX,newsccn.com
   - DOMAIN-SUFFIX,newscctv.net
