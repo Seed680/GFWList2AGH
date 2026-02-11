@@ -36168,7 +36168,6 @@ payload:
   - DOMAIN-SUFFIX,e2esoft.com
   - DOMAIN-SUFFIX,e2say.com
   - DOMAIN-SUFFIX,e3489.cd.akamaiedge.net
-  - DOMAIN-SUFFIX,e360.cn
   - DOMAIN-SUFFIX,e360e.com
   - DOMAIN-SUFFIX,e365mall.com
   - DOMAIN-SUFFIX,e3861.com
@@ -38423,6 +38422,7 @@ payload:
   - DOMAIN-SUFFIX,exasic.com
   - DOMAIN-SUFFIX,exbaotuan.com
   - DOMAIN-SUFFIX,exbapp.com
+  - DOMAIN-SUFFIX,exblog.jp
   - DOMAIN-SUFFIX,exbot.net
   - DOMAIN-SUFFIX,exc-resin.com
   - DOMAIN-SUFFIX,exc118.com
@@ -43829,6 +43829,7 @@ payload:
   - DOMAIN-SUFFIX,gfnormal05aq.com
   - DOMAIN-SUFFIX,gfnormal05ar.com
   - DOMAIN-SUFFIX,gfnormal05as.com
+  - DOMAIN-SUFFIX,gfnormal05at.com
   - DOMAIN-SUFFIX,gfnormal06aa.com
   - DOMAIN-SUFFIX,gfnormal06ab.com
   - DOMAIN-SUFFIX,gfnormal06ac.com
@@ -115737,7 +115738,6 @@ payload:
   - DOMAIN-SUFFIX,xbjtkj.com
   - DOMAIN-SUFFIX,xbkjvip.com
   - DOMAIN-SUFFIX,xblaw.com
-  - DOMAIN-SUFFIX,xblog.jp
   - DOMAIN-SUFFIX,xblou.com
   - DOMAIN-SUFFIX,xblqb.com
   - DOMAIN-SUFFIX,xblqugex.cc
@@ -116228,6 +116228,7 @@ payload:
   - DOMAIN-SUFFIX,xhslink.com
   - DOMAIN-SUFFIX,xhslw.com
   - DOMAIN-SUFFIX,xhsmlt.com
+  - DOMAIN-SUFFIX,xhsrcdn.com
   - DOMAIN-SUFFIX,xhsrmyy.com
   - DOMAIN-SUFFIX,xhsxmt.com
   - DOMAIN-SUFFIX,xhsyqx.com
@@ -127198,6 +127199,7 @@ payload:
   - DOMAIN-SUFFIX,zhipianbang.vip
   - DOMAIN-SUFFIX,zhipin.com
   - DOMAIN-SUFFIX,zhipingke.com
+  - DOMAIN-SUFFIX,zhipucn.com
   - DOMAIN-SUFFIX,zhipuzi.com
   - DOMAIN-SUFFIX,zhiqi.info
   - DOMAIN-SUFFIX,zhiqiang.org
