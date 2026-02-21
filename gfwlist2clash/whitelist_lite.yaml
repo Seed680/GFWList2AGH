@@ -12158,6 +12158,7 @@ payload:
   - DOMAIN-SUFFIX,amazon.st
   - DOMAIN-SUFFIX,amazon.su
   - DOMAIN-SUFFIX,amazon.sv
+  - DOMAIN-SUFFIX,amazon.sx
   - DOMAIN-SUFFIX,amazon.tax
   - DOMAIN-SUFFIX,amazon.tc
   - DOMAIN-SUFFIX,amazon.tel
@@ -17569,7 +17570,6 @@ payload:
   - DOMAIN-SUFFIX,bleacherreport.com
   - DOMAIN-SUFFIX,bleege.com
   - DOMAIN-SUFFIX,bleepingcomputer.com
-  - DOMAIN-SUFFIX,blehill.com
   - DOMAIN-SUFFIX,blemall.com
   - DOMAIN-SUFFIX,blendercn.org
   - DOMAIN-SUFFIX,blessedbin.com
@@ -95050,7 +95050,6 @@ payload:
   - DOMAIN-SUFFIX,thaivor.com
   - DOMAIN-SUFFIX,thaiyellowpagesusa.com
   - DOMAIN-SUFFIX,thakjsbyy.com
-  - DOMAIN-SUFFIX,thamazon.sx
   - DOMAIN-SUFFIX,thamco.com
   - DOMAIN-SUFFIX,thanju.com
   - DOMAIN-SUFFIX,thankbabe.com
