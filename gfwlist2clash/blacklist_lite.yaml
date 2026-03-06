@@ -149,6 +149,7 @@ payload:
   - DOMAIN-SUFFIX,0bd18cc899.com
   - DOMAIN-SUFFIX,0c2bddd1f6.com
   - DOMAIN-SUFFIX,0ca5b8dbfd.com
+  - DOMAIN-SUFFIX,0cademy.com
   - DOMAIN-SUFFIX,0cdn.xyz
   - DOMAIN-SUFFIX,0cec5.com
   - DOMAIN-SUFFIX,0cf.io
@@ -3096,10 +3097,10 @@ payload:
   - DOMAIN-SUFFIX,8h3mc.cn
   - DOMAIN-SUFFIX,8i1xc.cn
   - DOMAIN-SUFFIX,8it.me
-  - DOMAIN-SUFFIX,8j1f0af5.de
   - DOMAIN-SUFFIX,8j24h.cn
   - DOMAIN-SUFFIX,8jfbt5va3r.com
   - DOMAIN-SUFFIX,8jkx.com
+  - DOMAIN-SUFFIX,8jwinvn15.com
   - DOMAIN-SUFFIX,8jzw.com
   - DOMAIN-SUFFIX,8k00000.com
   - DOMAIN-SUFFIX,8k88.live
@@ -13113,6 +13114,7 @@ payload:
   - DOMAIN-SUFFIX,bildirimat.com
   - DOMAIN-SUFFIX,bildirnet.com
   - DOMAIN-SUFFIX,bildirt.com
+  - DOMAIN-SUFFIX,bilebet.com
   - DOMAIN-SUFFIX,bilfinans.no
   - DOMAIN-SUFFIX,bilh.org
   - DOMAIN-SUFFIX,bili2.cc
@@ -16604,6 +16606,7 @@ payload:
   - DOMAIN-SUFFIX,c18f3ffc23.com
   - DOMAIN-SUFFIX,c19ef6cf49.com
   - DOMAIN-SUFFIX,c1exchange.com
+  - DOMAIN-SUFFIX,c1f0af5.de
   - DOMAIN-SUFFIX,c1qm3mg41.com
   - DOMAIN-SUFFIX,c21x8nmdak.com
   - DOMAIN-SUFFIX,c285e18a9b.com
@@ -62548,6 +62551,7 @@ payload:
   - DOMAIN-SUFFIX,myiee.com
   - DOMAIN-SUFFIX,myieldell.com
   - DOMAIN-SUFFIX,myijgzvgluvai.site
+  - DOMAIN-SUFFIX,myikas.com
   - DOMAIN-SUFFIX,myimagetracking.com
   - DOMAIN-SUFFIX,myip.com
   - DOMAIN-SUFFIX,myiphide.com
@@ -72188,7 +72192,9 @@ payload:
   - DOMAIN-SUFFIX,plesk.page
   - DOMAIN-SUFFIX,plewhocaabo.org
   - DOMAIN-SUFFIX,plex.com
+  - DOMAIN-SUFFIX,plex.services
   - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,plexapp.com
   - DOMAIN-SUFFIX,plexop.com
   - DOMAIN-SUFFIX,plexop.net
   - DOMAIN-SUFFIX,plexvpn.pro
@@ -80943,7 +80949,6 @@ payload:
   - DOMAIN-SUFFIX,sarenza.com
   - DOMAIN-SUFFIX,sarov.ws
   - DOMAIN-SUFFIX,sarrowgrivois.com
-  - DOMAIN-SUFFIX,sas.com
   - DOMAIN-SUFFIX,sas15k01.com
   - DOMAIN-SUFFIX,sasa889.com
   - DOMAIN-SUFFIX,sascdn.com
