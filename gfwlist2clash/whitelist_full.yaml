@@ -15366,7 +15366,6 @@ payload:
   - DOMAIN-SUFFIX,apple-x2.xyz
   - DOMAIN-SUFFIX,apple.cn
   - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,apple.com.akadns.net
   - DOMAIN-SUFFIX,apple.com.cdn20.com
   - DOMAIN-SUFFIX,apple.com.cn
   - DOMAIN-SUFFIX,apple.com.edgekey.net
@@ -19170,7 +19169,6 @@ payload:
   - DOMAIN-SUFFIX,bighollywood.breitbart.com
   - DOMAIN-SUFFIX,bigjpg.com
   - DOMAIN-SUFFIX,biglistofwebsites.com
-  - DOMAIN-SUFFIX,biglobe.ne.jp
   - DOMAIN-SUFFIX,bigniu.com
   - DOMAIN-SUFFIX,bignox.com
   - DOMAIN-SUFFIX,bigo.sg
@@ -46223,6 +46221,7 @@ payload:
   - DOMAIN-SUFFIX,globaltradecoo.com
   - DOMAIN-SUFFIX,globalvisa888.com
   - DOMAIN-SUFFIX,globalx-nest.com
+  - DOMAIN-SUFFIX,globe.ne.jp
   - DOMAIN-SUFFIX,globebill.com
   - DOMAIN-SUFFIX,globecancer.com
   - DOMAIN-SUFFIX,globeedu.com
@@ -80720,7 +80719,6 @@ payload:
   - DOMAIN-SUFFIX,ndzls.net
   - DOMAIN-SUFFIX,ne01.com
   - DOMAIN-SUFFIX,ne21.com
-  - DOMAIN-SUFFIX,ne360.cn
   - DOMAIN-SUFFIX,ne365.com
   - DOMAIN-SUFFIX,ne56.com
   - DOMAIN-SUFFIX,neapme.com
@@ -114912,7 +114910,6 @@ payload:
   - DOMAIN-SUFFIX,ws.pusherapp.com
   - DOMAIN-SUFFIX,ws.sandbox.coinbase.com
   - DOMAIN-SUFFIX,ws.spot.im
-  - DOMAIN-SUFFIX,ws.ycombinator.com
   - DOMAIN-SUFFIX,wsaf.net
   - DOMAIN-SUFFIX,wsandos.com
   - DOMAIN-SUFFIX,wsbedu.com
