@@ -19169,6 +19169,7 @@ payload:
   - DOMAIN-SUFFIX,bighollywood.breitbart.com
   - DOMAIN-SUFFIX,bigjpg.com
   - DOMAIN-SUFFIX,biglistofwebsites.com
+  - DOMAIN-SUFFIX,biglobe.ne.jp
   - DOMAIN-SUFFIX,bigniu.com
   - DOMAIN-SUFFIX,bignox.com
   - DOMAIN-SUFFIX,bigo.sg
@@ -46221,7 +46222,6 @@ payload:
   - DOMAIN-SUFFIX,globaltradecoo.com
   - DOMAIN-SUFFIX,globalvisa888.com
   - DOMAIN-SUFFIX,globalx-nest.com
-  - DOMAIN-SUFFIX,globe.ne.jp
   - DOMAIN-SUFFIX,globebill.com
   - DOMAIN-SUFFIX,globecancer.com
   - DOMAIN-SUFFIX,globeedu.com
