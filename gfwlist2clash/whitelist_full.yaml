@@ -23738,6 +23738,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.medium.com
   - DOMAIN-SUFFIX,cdn.mplxtms.com
   - DOMAIN-SUFFIX,cdn.mxpnl.com
+  - DOMAIN-SUFFIX,cdn.naver.com
   - DOMAIN-SUFFIX,cdn.onesignal.com
   - DOMAIN-SUFFIX,cdn.opinionlab.com
   - DOMAIN-SUFFIX,cdn.optimizely.com
