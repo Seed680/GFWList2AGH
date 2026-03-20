@@ -23726,7 +23726,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.jetbrains.com
   - DOMAIN-SUFFIX,cdn.jscloudflare.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net.cdn.cloudflare.net
-  - DOMAIN-SUFFIX,cdn.jsdelivr360.cn
   - DOMAIN-SUFFIX,cdn.jwplayer.com
   - DOMAIN-SUFFIX,cdn.keycdn.com
   - DOMAIN-SUFFIX,cdn.lilyemby.com
