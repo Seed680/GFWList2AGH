@@ -12172,6 +12172,7 @@ payload:
   - DOMAIN-SUFFIX,ai-yuanjing.com
   - DOMAIN-SUFFIX,ai.cc
   - DOMAIN-SUFFIX,ai.ly
+  - DOMAIN-SUFFIX,ai.shouji.360.cn
   - DOMAIN-SUFFIX,ai.srv
   - DOMAIN-SUFFIX,ai.zhaomi.cn
   - DOMAIN-SUFFIX,ai012.com
@@ -14290,6 +14291,7 @@ payload:
   - DOMAIN-SUFFIX,anhuisjx.com
   - DOMAIN-SUFFIX,anhuisuya.com
   - DOMAIN-SUFFIX,anhuiwine.com
+  - DOMAIN-SUFFIX,anhuiyun.com
   - DOMAIN-SUFFIX,anhuizk.com
   - DOMAIN-SUFFIX,ani-sh.com
   - DOMAIN-SUFFIX,ani.sh
@@ -31601,6 +31603,7 @@ payload:
   - DOMAIN-SUFFIX,ctdns.com.cn
   - DOMAIN-SUFFIX,ctdns.net
   - DOMAIN-SUFFIX,ctdns.org
+  - DOMAIN-SUFFIX,ctdsb.clouddiffuse.xyz
   - DOMAIN-SUFFIX,ctdsb.com
   - DOMAIN-SUFFIX,ctdsb.net
   - DOMAIN-SUFFIX,ctdzsk.com
@@ -53407,7 +53410,7 @@ payload:
   - DOMAIN-SUFFIX,help-m.line.me
   - DOMAIN-SUFFIX,help-w.com
   - DOMAIN-SUFFIX,help.apple.com.edgekey.net
-  - DOMAIN-SUFFIX,help.appsumo.com
+  - DOMAIN-SUFFIX,help.appsumo.com360.cn
   - DOMAIN-SUFFIX,help.content.samsung.com
   - DOMAIN-SUFFIX,help.crunchyroll.com
   - DOMAIN-SUFFIX,help.cryptopia.co.nz
@@ -62289,6 +62292,7 @@ payload:
   - DOMAIN-SUFFIX,iyz168.com
   - DOMAIN-SUFFIX,izacholsm.com
   - DOMAIN-SUFFIX,izaodao.com
+  - DOMAIN-SUFFIX,izattime.qcomgeo2.com
   - DOMAIN-SUFFIX,izazamall.com
   - DOMAIN-SUFFIX,izb.pub
   - DOMAIN-SUFFIX,izdatatech.com
@@ -72289,6 +72293,7 @@ payload:
   - DOMAIN-SUFFIX,link-ai.tech
   - DOMAIN-SUFFIX,link-nemo.com
   - DOMAIN-SUFFIX,link-trans.com
+  - DOMAIN-SUFFIX,link.axios.com
   - DOMAIN-SUFFIX,link.betclic.com
   - DOMAIN-SUFFIX,link.dailycaller.com
   - DOMAIN-SUFFIX,link.dana.id
@@ -121021,6 +121026,7 @@ payload:
   - DOMAIN-SUFFIX,xtqarzip.com
   - DOMAIN-SUFFIX,xtransfer.com
   - DOMAIN-SUFFIX,xtrapowercn.com
+  - DOMAIN-SUFFIX,xtratime.qcomgeo2.com
   - DOMAIN-SUFFIX,xtrc.net
   - DOMAIN-SUFFIX,xtrunc.com
   - DOMAIN-SUFFIX,xtsfuke.com
