@@ -40131,6 +40131,7 @@ payload:
   - DOMAIN-SUFFIX,f.youku.com
   - DOMAIN-SUFFIX,f000.backblazeb2.com
   - DOMAIN-SUFFIX,f002.backblazeb2.com
+  - DOMAIN-SUFFIX,f003.backblazeb2.com
   - DOMAIN-SUFFIX,f008.com
   - DOMAIN-SUFFIX,f015dfc4510292.beer
   - DOMAIN-SUFFIX,f049443d111032.beer
@@ -82744,9 +82745,9 @@ payload:
   - DOMAIN-SUFFIX,notetao.com
   - DOMAIN-SUFFIX,notetech.org
   - DOMAIN-SUFFIX,noteworthy.medium.com
+  - DOMAIN-SUFFIX,notice.360.cn
   - DOMAIN-SUFFIX,notice.game.xiaomi.com
   - DOMAIN-SUFFIX,notice.line.me
-  - DOMAIN-SUFFIX,notice.samsungcloudsolution.com
   - DOMAIN-SUFFIX,notice.xbox.com
   - DOMAIN-SUFFIX,notice2.line.me
   - DOMAIN-SUFFIX,noticecdn.samsungcloudsolution.com
