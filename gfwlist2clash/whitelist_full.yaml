@@ -40062,6 +40062,7 @@ payload:
   - DOMAIN-SUFFIX,fiio.net
   - DOMAIN-SUFFIX,filament.io
   - DOMAIN-SUFFIX,filcochina.com
+  - DOMAIN-SUFFIX,file-contents-abc.obs.cn-north-4.myhuaweicloud.com
   - DOMAIN-SUFFIX,file-extensions.org
   - DOMAIN-SUFFIX,file-igamecj.akamaized.net
   - DOMAIN-SUFFIX,file.hhtv.cc
@@ -90208,6 +90209,7 @@ payload:
   - DOMAIN-SUFFIX,scjz-led.com
   - DOMAIN-SUFFIX,scjzjyjc.com
   - DOMAIN-SUFFIX,scjzy.net
+  - DOMAIN-SUFFIX,sckg.com
   - DOMAIN-SUFFIX,sckje.com
   - DOMAIN-SUFFIX,sckrskj.com
   - DOMAIN-SUFFIX,sckxjd.com
@@ -117131,7 +117133,6 @@ payload:
   - DOMAIN-SUFFIX,xztsjf.com
   - DOMAIN-SUFFIX,xztzb.com
   - DOMAIN-SUFFIX,xzuan.com
-  - DOMAIN-SUFFIX,xzvfd.xyz
   - DOMAIN-SUFFIX,xzw.com
   - DOMAIN-SUFFIX,xzw.pw
   - DOMAIN-SUFFIX,xzwanda.com
