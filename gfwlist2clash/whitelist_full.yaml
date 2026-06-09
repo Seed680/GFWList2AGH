@@ -36002,7 +36002,6 @@ payload:
   - DOMAIN-SUFFIX,e32a01b94145bb23.com
   - DOMAIN-SUFFIX,e3489.cd.akamaiedge.net
   - DOMAIN-SUFFIX,e3492587711012.beer
-  - DOMAIN-SUFFIX,e360.cn
   - DOMAIN-SUFFIX,e360e.com
   - DOMAIN-SUFFIX,e363172a110241.beer
   - DOMAIN-SUFFIX,e365mall.com
@@ -38282,6 +38281,7 @@ payload:
   - DOMAIN-SUFFIX,exaphotons.com
   - DOMAIN-SUFFIX,exbaotuan.com
   - DOMAIN-SUFFIX,exbapp.com
+  - DOMAIN-SUFFIX,exblog.jp
   - DOMAIN-SUFFIX,exbot.net
   - DOMAIN-SUFFIX,exc-resin.com
   - DOMAIN-SUFFIX,excake.com
@@ -112668,7 +112668,6 @@ payload:
   - DOMAIN-SUFFIX,xbk.icu
   - DOMAIN-SUFFIX,xbkjvip.com
   - DOMAIN-SUFFIX,xblaw.com
-  - DOMAIN-SUFFIX,xblog.jp
   - DOMAIN-SUFFIX,xblou.com
   - DOMAIN-SUFFIX,xblqb.com
   - DOMAIN-SUFFIX,xblqugex.cc
@@ -126820,3 +126819,4 @@ payload:
   - DOMAIN-SUFFIX,zzzyyy.com
   - DOMAIN-SUFFIX,zzzzaaaa.com
   - DOMAIN-SUFFIX,zzzzzz.me
+  - DOMAIN-SUFFIX,zzzzzzzz.vk.com
