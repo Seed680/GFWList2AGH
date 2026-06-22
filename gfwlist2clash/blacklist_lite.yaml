@@ -1680,6 +1680,7 @@ payload:
   - DOMAIN-SUFFIX,3bet.biz
   - DOMAIN-SUFFIX,3bet.la
   - DOMAIN-SUFFIX,3bet.ph
+  - DOMAIN-SUFFIX,3bet.sh
   - DOMAIN-SUFFIX,3bet.ski
   - DOMAIN-SUFFIX,3bet.so
   - DOMAIN-SUFFIX,3bet.tech
@@ -6066,7 +6067,6 @@ payload:
   - DOMAIN-SUFFIX,adxpub.com
   - DOMAIN-SUFFIX,adxquare.com
   - DOMAIN-SUFFIX,adxscope.com
-  - DOMAIN-SUFFIX,adxsenmeng.com
   - DOMAIN-SUFFIX,adxsource.com
   - DOMAIN-SUFFIX,adxsrver.com
   - DOMAIN-SUFFIX,adxxx.biz
@@ -11585,6 +11585,7 @@ payload:
   - DOMAIN-SUFFIX,ball88.com
   - DOMAIN-SUFFIX,ball88.day
   - DOMAIN-SUFFIX,ball88.fun
+  - DOMAIN-SUFFIX,ball88.games
   - DOMAIN-SUFFIX,ball88.mobi
   - DOMAIN-SUFFIX,ball88.red
   - DOMAIN-SUFFIX,ball88.to
@@ -24879,6 +24880,8 @@ payload:
   - DOMAIN-SUFFIX,debet.lc
   - DOMAIN-SUFFIX,debet.lv
   - DOMAIN-SUFFIX,debet.moi
+  - DOMAIN-SUFFIX,debet.mp
+  - DOMAIN-SUFFIX,debet.mw
   - DOMAIN-SUFFIX,debet.net
   - DOMAIN-SUFFIX,debet.sc
   - DOMAIN-SUFFIX,debet.so
@@ -29143,7 +29146,6 @@ payload:
   - DOMAIN-SUFFIX,eastrk-dn.com
   - DOMAIN-SUFFIX,eastrk-lg.com
   - DOMAIN-SUFFIX,eastsandiegonews.com
-  - DOMAIN-SUFFIX,eastsbvtimes.com
   - DOMAIN-SUFFIX,eastsfvtoday.com
   - DOMAIN-SUFFIX,eastsierranews.com
   - DOMAIN-SUFFIX,eastslcnews.com
@@ -34887,6 +34889,7 @@ payload:
   - DOMAIN-SUFFIX,five88.net
   - DOMAIN-SUFFIX,five88.ng
   - DOMAIN-SUFFIX,five88.nl
+  - DOMAIN-SUFFIX,five88.ro
   - DOMAIN-SUFFIX,five88.sale
   - DOMAIN-SUFFIX,five88.show
   - DOMAIN-SUFFIX,five88.sx
@@ -35704,7 +35707,6 @@ payload:
   - DOMAIN-SUFFIX,forbestravelguide.com
   - DOMAIN-SUFFIX,forbidcrenels.com
   - DOMAIN-SUFFIX,forbiddenasian.com
-  - DOMAIN-SUFFIX,forbiddenknowledgetv.net
   - DOMAIN-SUFFIX,forbiddenmomsarchive.com
   - DOMAIN-SUFFIX,forbin.com
   - DOMAIN-SUFFIX,forcas.com
@@ -36429,7 +36431,6 @@ payload:
   - DOMAIN-SUFFIX,freedomchina.info
   - DOMAIN-SUFFIX,freedomcollection.org
   - DOMAIN-SUFFIX,freedomcte.com
-  - DOMAIN-SUFFIX,freedomdaily.com
   - DOMAIN-SUFFIX,freedomfordsales.ca
   - DOMAIN-SUFFIX,freedomgrail.com
   - DOMAIN-SUFFIX,freedomhongkong.org
@@ -38278,6 +38279,7 @@ payload:
   - DOMAIN-SUFFIX,gemwin.ink
   - DOMAIN-SUFFIX,gemwin.is
   - DOMAIN-SUFFIX,gemwin.lc
+  - DOMAIN-SUFFIX,gemwin.lv
   - DOMAIN-SUFFIX,gemwin.my
   - DOMAIN-SUFFIX,gemwin.nz
   - DOMAIN-SUFFIX,gemwin.page
@@ -38772,7 +38774,6 @@ payload:
   - DOMAIN-SUFFIX,gfzyoomgfbnws.space
   - DOMAIN-SUFFIX,gg.bet
   - DOMAIN-SUFFIX,gg.deals
-  - DOMAIN-SUFFIX,gg146.bet
   - DOMAIN-SUFFIX,gg2888.com
   - DOMAIN-SUFFIX,ggai12171cp.com
   - DOMAIN-SUFFIX,ggai12181cp.com
@@ -39819,7 +39820,9 @@ payload:
   - DOMAIN-SUFFIX,gofrogs.com
   - DOMAIN-SUFFIX,gofucker.com
   - DOMAIN-SUFFIX,gofuckmenow.com
+  - DOMAIN-SUFFIX,gog-services.com
   - DOMAIN-SUFFIX,gog.com
+  - DOMAIN-SUFFIX,gogalaxy.com
   - DOMAIN-SUFFIX,gogeawrbp.com
   - DOMAIN-SUFFIX,gogettaxi.org
   - DOMAIN-SUFFIX,gogle.com
@@ -43512,6 +43515,7 @@ payload:
   - DOMAIN-SUFFIX,hitclub.lc
   - DOMAIN-SUFFIX,hitclub.lt
   - DOMAIN-SUFFIX,hitclub.lv
+  - DOMAIN-SUFFIX,hitclub.mk
   - DOMAIN-SUFFIX,hitclub.ml
   - DOMAIN-SUFFIX,hitclub.mu
   - DOMAIN-SUFFIX,hitclub.pl
@@ -43519,6 +43523,7 @@ payload:
   - DOMAIN-SUFFIX,hitclub.salon
   - DOMAIN-SUFFIX,hitclub.si
   - DOMAIN-SUFFIX,hitclub.so
+  - DOMAIN-SUFFIX,hitclub.su
   - DOMAIN-SUFFIX,hitclub.top
   - DOMAIN-SUFFIX,hitclub.tv
   - DOMAIN-SUFFIX,hitclub.vin
@@ -65348,6 +65353,7 @@ payload:
   - DOMAIN-SUFFIX,nhat.it
   - DOMAIN-SUFFIX,nhat.my
   - DOMAIN-SUFFIX,nhat.one
+  - DOMAIN-SUFFIX,nhat.pw
   - DOMAIN-SUFFIX,nhat.sh
   - DOMAIN-SUFFIX,nhat.sx
   - DOMAIN-SUFFIX,nhat.vip
@@ -66468,7 +66474,6 @@ payload:
   - DOMAIN-SUFFIX,nortonrosefulbright.com
   - DOMAIN-SUFFIX,nortonstore.jp
   - DOMAIN-SUFFIX,norvir.com
-  - DOMAIN-SUFFIX,norwalktimes.com
   - DOMAIN-SUFFIX,norwex.com
   - DOMAIN-SUFFIX,nos.nl
   - DOMAIN-SUFFIX,nosap.win
@@ -68595,6 +68600,7 @@ payload:
   - DOMAIN-SUFFIX,omct.org
   - DOMAIN-SUFFIX,omcusrmpkvi.com
   - DOMAIN-SUFFIX,omcyfmoxyn.com
+  - DOMAIN-SUFFIX,omdaily.com
   - DOMAIN-SUFFIX,omdia.com
   - DOMAIN-SUFFIX,omdlraptkxgw.com
   - DOMAIN-SUFFIX,omeda.com
@@ -84732,6 +84738,7 @@ payload:
   - DOMAIN-SUFFIX,sin88.club
   - DOMAIN-SUFFIX,sin88.com
   - DOMAIN-SUFFIX,sin88.cv
+  - DOMAIN-SUFFIX,sin88.fo
   - DOMAIN-SUFFIX,sin88.im
   - DOMAIN-SUFFIX,sin88.lu
   - DOMAIN-SUFFIX,sin88.me
@@ -89280,7 +89287,9 @@ payload:
   - DOMAIN-SUFFIX,sv88.com
   - DOMAIN-SUFFIX,sv88.in
   - DOMAIN-SUFFIX,sv88.lv
+  - DOMAIN-SUFFIX,sv88.ml
   - DOMAIN-SUFFIX,sv88.ro
+  - DOMAIN-SUFFIX,sv88.si
   - DOMAIN-SUFFIX,sv88.vin
   - DOMAIN-SUFFIX,sv88.vip
   - DOMAIN-SUFFIX,sv88.vu
@@ -107653,6 +107662,7 @@ payload:
   - DOMAIN-SUFFIX,yo-ko-o.jp
   - DOMAIN-SUFFIX,yo-star.com
   - DOMAIN-SUFFIX,yo1health.com
+  - DOMAIN-SUFFIX,yo88.ae
   - DOMAIN-SUFFIX,yo88.cool
   - DOMAIN-SUFFIX,yo88.is
   - DOMAIN-SUFFIX,yo88.ml
@@ -107661,6 +107671,7 @@ payload:
   - DOMAIN-SUFFIX,yo88.st
   - DOMAIN-SUFFIX,yo88.tv
   - DOMAIN-SUFFIX,yo88.vg
+  - DOMAIN-SUFFIX,yo88.vu
   - DOMAIN-SUFFIX,yo88.win
   - DOMAIN-SUFFIX,yo88vn.com
   - DOMAIN-SUFFIX,yoads.net
@@ -109762,6 +109773,7 @@ payload:
   - DOMAIN-SUFFIX,zowin.bh
   - DOMAIN-SUFFIX,zowin.im
   - DOMAIN-SUFFIX,zowin.is
+  - DOMAIN-SUFFIX,zowin.kim
   - DOMAIN-SUFFIX,zowin.mom
   - DOMAIN-SUFFIX,zowin.ng
   - DOMAIN-SUFFIX,zowin.red
@@ -109769,6 +109781,7 @@ payload:
   - DOMAIN-SUFFIX,zowin.sx
   - DOMAIN-SUFFIX,zowin.tv
   - DOMAIN-SUFFIX,zowin.tw
+  - DOMAIN-SUFFIX,zowin.uno
   - DOMAIN-SUFFIX,zowin.ws
   - DOMAIN-SUFFIX,zowmgxpz.cn
   - DOMAIN-SUFFIX,zox.la
