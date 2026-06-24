@@ -7715,6 +7715,7 @@ payload:
   - DOMAIN-SUFFIX,allyoubet.ag
   - DOMAIN-SUFFIX,allyz.com
   - DOMAIN-SUFFIX,almalasers.com
+  - DOMAIN-SUFFIX,almalinux.org
   - DOMAIN-SUFFIX,almasatten.com
   - DOMAIN-SUFFIX,almasdarnews.com
   - DOMAIN-SUFFIX,almastandard.com
@@ -16743,6 +16744,7 @@ payload:
   - DOMAIN-SUFFIX,busy-man.com
   - DOMAIN-SUFFIX,busy-ship.com
   - DOMAIN-SUFFIX,busy-specialist.pro
+  - DOMAIN-SUFFIX,busybox.net
   - DOMAIN-SUFFIX,busyregret.pro
   - DOMAIN-SUFFIX,butlercc.edu
   - DOMAIN-SUFFIX,butlerconews.com
@@ -39103,6 +39105,7 @@ payload:
   - DOMAIN-SUFFIX,githack.com
   - DOMAIN-SUFFIX,github.ai
   - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.career
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.community
   - DOMAIN-SUFFIX,github.dev
@@ -55576,6 +55579,7 @@ payload:
   - DOMAIN-SUFFIX,life-global.org
   - DOMAIN-SUFFIX,life.hu
   - DOMAIN-SUFFIX,lifeandstylemag.com
+  - DOMAIN-SUFFIX,lifeatspotify.com
   - DOMAIN-SUFFIX,lifeattiktok.com
   - DOMAIN-SUFFIX,lifeboatlegalalleviate.com
   - DOMAIN-SUFFIX,lifeguardarena.com
@@ -58299,6 +58303,7 @@ payload:
   - DOMAIN-SUFFIX,manifestoctavianapostrophe.com
   - DOMAIN-SUFFIX,manilabusinessdaily.com
   - DOMAIN-SUFFIX,manipulativeslaves.com
+  - DOMAIN-SUFFIX,manjaro.org
   - DOMAIN-SUFFIX,manjiro.net
   - DOMAIN-SUFFIX,manksdmejidwv.website
   - DOMAIN-SUFFIX,mann-filter.com
@@ -69894,6 +69899,7 @@ payload:
   - DOMAIN-SUFFIX,ouplaw.com
   - DOMAIN-SUFFIX,oupvfjtyxfxky.site
   - DOMAIN-SUFFIX,ouqnsrtmguuyd.site
+  - DOMAIN-SUFFIX,ouqo05161luj.com
   - DOMAIN-SUFFIX,ouqo05170luj.com
   - DOMAIN-SUFFIX,ouqo05171luj.com
   - DOMAIN-SUFFIX,ouqo05181luj.com
@@ -80379,6 +80385,7 @@ payload:
   - DOMAIN-SUFFIX,rockwellautomation.com
   - DOMAIN-SUFFIX,rockwool.com
   - DOMAIN-SUFFIX,rockyappliance.com
+  - DOMAIN-SUFFIX,rockylinux.org
   - DOMAIN-SUFFIX,rockymountainpower.net
   - DOMAIN-SUFFIX,rockymounttoday.com
   - DOMAIN-SUFFIX,rockyspoons.com
@@ -87161,6 +87168,7 @@ payload:
   - DOMAIN-SUFFIX,spotifycharts.com
   - DOMAIN-SUFFIX,spotifycodes.com
   - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyforvendors.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,spotlersearchanalytics.com
   - DOMAIN-SUFFIX,spotless-reveal.com
@@ -100574,7 +100582,10 @@ payload:
   - DOMAIN-SUFFIX,vsco.ninja
   - DOMAIN-SUFFIX,vscode-cdn.net
   - DOMAIN-SUFFIX,vscode-unpkg.net
+  - DOMAIN-SUFFIX,vscode-webview.net
   - DOMAIN-SUFFIX,vscode.dev
+  - DOMAIN-SUFFIX,vscodeedu.app
+  - DOMAIN-SUFFIX,vscodeedu.com
   - DOMAIN-SUFFIX,vscogqhkhwdaf.space
   - DOMAIN-SUFFIX,vscore.bet
   - DOMAIN-SUFFIX,vscore.pro
