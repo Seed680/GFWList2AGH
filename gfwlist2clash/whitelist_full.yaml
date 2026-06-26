@@ -10550,6 +10550,7 @@ payload:
   - DOMAIN-SUFFIX,accopower.com
   - DOMAIN-SUFFIX,account-api.dji.com
   - DOMAIN-SUFFIX,account-assets.jimstatic.com
+  - DOMAIN-SUFFIX,account-cn.alibabacloud.com
   - DOMAIN-SUFFIX,account-cn.huami.com
   - DOMAIN-SUFFIX,account-us.huami.com
   - DOMAIN-SUFFIX,account.adobe.com
@@ -14159,6 +14160,7 @@ payload:
   - DOMAIN-SUFFIX,api.ai.xiaomi.com
   - DOMAIN-SUFFIX,api.airfind.com
   - DOMAIN-SUFFIX,api.airpush.com
+  - DOMAIN-SUFFIX,api.alibabacloud.com
   - DOMAIN-SUFFIX,api.am.coinbase.com
   - DOMAIN-SUFFIX,api.amazon.com
   - DOMAIN-SUFFIX,api.amazon.in
@@ -27136,6 +27138,7 @@ payload:
   - DOMAIN-SUFFIX,cn-witmed.com
   - DOMAIN-SUFFIX,cn-zhentai.com
   - DOMAIN-SUFFIX,cn-zhongrui.com
+  - DOMAIN-SUFFIX,cn.alibabacloud.com
   - DOMAIN-SUFFIX,cn.app.chat.xiaomi.net
   - DOMAIN-SUFFIX,cn.bing.com
   - DOMAIN-SUFFIX,cn.bing.net
@@ -35008,7 +35011,7 @@ payload:
   - DOMAIN-SUFFIX,dualaid.com
   - DOMAIN-SUFFIX,dualspace.com
   - DOMAIN-SUFFIX,dualspacetech.com
-  - DOMAIN-SUFFIX,dualstack.brightcove.map.fastly.net
+  - DOMAIN-SUFFIX,dualstack.brightcove.map.fastlygle.cv
   - DOMAIN-SUFFIX,duan.red
   - DOMAIN-SUFFIX,duangks.com
   - DOMAIN-SUFFIX,duanju.com
@@ -43907,6 +43910,7 @@ payload:
   - DOMAIN-SUFFIX,gizbot.com
   - DOMAIN-SUFFIX,gizmodo.com
   - DOMAIN-SUFFIX,gizmodo.com.au
+  - DOMAIN-SUFFIX,gizmodo.comd.io
   - DOMAIN-SUFFIX,gizwits.com
   - DOMAIN-SUFFIX,gj.mmstat.com
   - DOMAIN-SUFFIX,gj62.com
@@ -69407,6 +69411,7 @@ payload:
   - DOMAIN-SUFFIX,livedocs.adobe.com
   - DOMAIN-SUFFIX,livedoor.jp
   - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,livefilestorelk.com
   - DOMAIN-SUFFIX,livehwc4.com
   - DOMAIN-SUFFIX,liveinau.com
   - DOMAIN-SUFFIX,liveinternet.ru
@@ -95869,6 +95874,7 @@ payload:
   - DOMAIN-SUFFIX,statsfe2.update.microsoft.com.akadns.net
   - DOMAIN-SUFFIX,statsinstall.xyz
   - DOMAIN-SUFFIX,status.adobe.com
+  - DOMAIN-SUFFIX,status.alibabacloud.com
   - DOMAIN-SUFFIX,status.coinbase.com
   - DOMAIN-SUFFIX,status.daum.net
   - DOMAIN-SUFFIX,status.dealersocket.com
@@ -110493,6 +110499,7 @@ payload:
   - DOMAIN-SUFFIX,www.gogoanime.io
   - DOMAIN-SUFFIX,www.gokano.com
   - DOMAIN-SUFFIX,www.goldmoney.com
+  - DOMAIN-SUFFIX,www.goo1fichier.com
   - DOMAIN-SUFFIX,www.goodolddownloads.com
   - DOMAIN-SUFFIX,www.goodreads.com
   - DOMAIN-SUFFIX,www.google-analytics.com
@@ -110608,7 +110615,6 @@ payload:
   - DOMAIN-SUFFIX,www.google.com.vc
   - DOMAIN-SUFFIX,www.google.com.ve
   - DOMAIN-SUFFIX,www.google.com.vn
-  - DOMAIN-SUFFIX,www.google.cv
   - DOMAIN-SUFFIX,www.google.cz
   - DOMAIN-SUFFIX,www.google.de
   - DOMAIN-SUFFIX,www.google.dj
@@ -110859,7 +110865,7 @@ payload:
   - DOMAIN-SUFFIX,www.locationiq.com
   - DOMAIN-SUFFIX,www.logbuch-netzpolitik.de
   - DOMAIN-SUFFIX,www.login.wikimedia.org
-  - DOMAIN-SUFFIX,www.loginhood.io
+  - DOMAIN-SUFFIX,www.loginhoo.net
   - DOMAIN-SUFFIX,www.logmeinrescue.com
   - DOMAIN-SUFFIX,www.lolcounter.com
   - DOMAIN-SUFFIX,www.lotustalk.com
@@ -111340,7 +111346,6 @@ payload:
   - DOMAIN-SUFFIX,www.weather.com
   - DOMAIN-SUFFIX,www.weather.gov
   - DOMAIN-SUFFIX,www.web-development-blog.com
-  - DOMAIN-SUFFIX,www.webhostingtalk.com
   - DOMAIN-SUFFIX,www.webmd.com
   - DOMAIN-SUFFIX,www.webopedia.com
   - DOMAIN-SUFFIX,www.wechat.com
