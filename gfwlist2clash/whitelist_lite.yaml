@@ -2683,6 +2683,7 @@ payload:
   - DOMAIN-SUFFIX,1f6cd3ca611032.beer
   - DOMAIN-SUFFIX,1f71060e75b35349.com
   - DOMAIN-SUFFIX,1fangchan.com
+  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
   - DOMAIN-SUFFIX,1g31.com
@@ -17673,6 +17674,7 @@ payload:
   - DOMAIN-SUFFIX,bkzzy.com
   - DOMAIN-SUFFIX,bl.com
   - DOMAIN-SUFFIX,bl0757.com
+  - DOMAIN-SUFFIX,bl360.cn
   - DOMAIN-SUFFIX,bl91.com
   - DOMAIN-SUFFIX,bla01.com
   - DOMAIN-SUFFIX,black-unique.com
