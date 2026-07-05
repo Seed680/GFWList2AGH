@@ -19327,7 +19327,6 @@ payload:
   - DOMAIN-SUFFIX,bkzzy.com
   - DOMAIN-SUFFIX,bl.com
   - DOMAIN-SUFFIX,bl0757.com
-  - DOMAIN-SUFFIX,bl360.cn
   - DOMAIN-SUFFIX,bl91.com
   - DOMAIN-SUFFIX,bla01.com
   - DOMAIN-SUFFIX,black-unique.com
@@ -19403,6 +19402,7 @@ payload:
   - DOMAIN-SUFFIX,blog-at.line.me
   - DOMAIN-SUFFIX,blog-cdn.feedspot.com
   - DOMAIN-SUFFIX,blog-cdn2.feedspot.com
+  - DOMAIN-SUFFIX,blog-cms.line.me
   - DOMAIN-SUFFIX,blog.appsumo.com
   - DOMAIN-SUFFIX,blog.bit.ly
   - DOMAIN-SUFFIX,blog.bitfinex.com
@@ -37249,6 +37249,7 @@ payload:
   - DOMAIN-SUFFIX,entertainment.dji.com
   - DOMAIN-SUFFIX,enthalpy.space
   - DOMAIN-SUFFIX,entitlement.auth.adobe.com
+  - DOMAIN-SUFFIX,entitlements-edge.itunes.apple.com
   - DOMAIN-SUFFIX,entive.com
   - DOMAIN-SUFFIX,entrepreneur.com
   - DOMAIN-SUFFIX,entry-at.line.me
@@ -40596,6 +40597,7 @@ payload:
   - DOMAIN-SUFFIX,fphs.cc
   - DOMAIN-SUFFIX,fphs5.com
   - DOMAIN-SUFFIX,fpi-inc.com
+  - DOMAIN-SUFFIX,fpinit.itunes.apple.com
   - DOMAIN-SUFFIX,fpliu.com
   - DOMAIN-SUFFIX,fpn.flipboard.com
   - DOMAIN-SUFFIX,fpsace.com
@@ -78740,9 +78742,9 @@ payload:
   - DOMAIN-SUFFIX,notetao.com
   - DOMAIN-SUFFIX,notetech.org
   - DOMAIN-SUFFIX,noteworthy.medium.com
+  - DOMAIN-SUFFIX,notice.360.cn
   - DOMAIN-SUFFIX,notice.game.xiaomi.com
   - DOMAIN-SUFFIX,notice.line.me
-  - DOMAIN-SUFFIX,notice.samsungcloudsolution.com
   - DOMAIN-SUFFIX,notice.xbox.com
   - DOMAIN-SUFFIX,notice2.line.me
   - DOMAIN-SUFFIX,noticecdn.samsungcloudsolution.com
@@ -79608,7 +79610,6 @@ payload:
   - DOMAIN-SUFFIX,ofweek.com
   - DOMAIN-SUFFIX,ofweek.net
   - DOMAIN-SUFFIX,ofyoo.com
-  - DOMAIN-SUFFIX,og-cms.line.me
   - DOMAIN-SUFFIX,ogame3.com
   - DOMAIN-SUFFIX,ogaoxiao.com
   - DOMAIN-SUFFIX,ogaqcbfi.com
