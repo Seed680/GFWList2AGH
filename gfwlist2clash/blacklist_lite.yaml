@@ -12453,6 +12453,9 @@ payload:
   - DOMAIN-SUFFIX,bestcasino.com
   - DOMAIN-SUFFIX,bestcasinopartner.com
   - DOMAIN-SUFFIX,bestchainconnection.com
+  - DOMAIN-SUFFIX,bestchange.com
+  - DOMAIN-SUFFIX,bestchange.net
+  - DOMAIN-SUFFIX,bestchange.ru
   - DOMAIN-SUFFIX,bestcleaner.online
   - DOMAIN-SUFFIX,bestclouddrive.com
   - DOMAIN-SUFFIX,bestcompaniesgroup.com
@@ -16626,7 +16629,6 @@ payload:
   - DOMAIN-SUFFIX,c-stat.eu
   - DOMAIN-SUFFIX,c-tag.net
   - DOMAIN-SUFFIX,c.gle
-  - DOMAIN-SUFFIX,c.shop
   - DOMAIN-SUFFIX,c02a1b8438.com
   - DOMAIN-SUFFIX,c03e5b557d.com
   - DOMAIN-SUFFIX,c0563.com
@@ -22267,6 +22269,7 @@ payload:
   - DOMAIN-SUFFIX,crockeryrepay.com
   - DOMAIN-SUFFIX,crockpot-romania.ro
   - DOMAIN-SUFFIX,crockssneak.com
+  - DOMAIN-SUFFIX,crocoblock.com
   - DOMAIN-SUFFIX,crocodail-dandy.com
   - DOMAIN-SUFFIX,crocotube.com
   - DOMAIN-SUFFIX,crocs.at
@@ -24417,6 +24420,7 @@ payload:
   - DOMAIN-SUFFIX,deleb.xyz
   - DOMAIN-SUFFIX,delectable-earth.com
   - DOMAIN-SUFFIX,delegatehistorianincline.com
+  - DOMAIN-SUFFIX,delets.online
   - DOMAIN-SUFFIX,delfamily.net
   - DOMAIN-SUFFIX,delfi.ee
   - DOMAIN-SUFFIX,delfi.lt
@@ -40661,6 +40665,8 @@ payload:
   - DOMAIN-SUFFIX,haplesshydrant.com
   - DOMAIN-SUFFIX,haplessland.com
   - DOMAIN-SUFFIX,haplorrhini.com
+  - DOMAIN-SUFFIX,happ.info
+  - DOMAIN-SUFFIX,happ.su
   - DOMAIN-SUFFIX,happenedquantity.com
   - DOMAIN-SUFFIX,happensusan.com
   - DOMAIN-SUFFIX,happierleads.com
@@ -60112,6 +60118,7 @@ payload:
   - DOMAIN-SUFFIX,moto880.com
   - DOMAIN-SUFFIX,motoblouz.com
   - DOMAIN-SUFFIX,motocard.com
+  - DOMAIN-SUFFIX,motocms.com
   - DOMAIN-SUFFIX,motoin.de
   - DOMAIN-SUFFIX,motolia.com
   - DOMAIN-SUFFIX,motomundohn.com
@@ -65663,6 +65670,7 @@ payload:
   - DOMAIN-SUFFIX,odfigroup.com
   - DOMAIN-SUFFIX,odfuwbdguqkrj.site
   - DOMAIN-SUFFIX,odgmxwepbbfwe.online
+  - DOMAIN-SUFFIX,odgsaxlabmvgi.online
   - DOMAIN-SUFFIX,odhdnbucgpwly.website
   - DOMAIN-SUFFIX,odhivvin.com
   - DOMAIN-SUFFIX,odicoscan.shop
@@ -66534,6 +66542,7 @@ payload:
   - DOMAIN-SUFFIX,oneme.ru
   - DOMAIN-SUFFIX,onemile.jp
   - DOMAIN-SUFFIX,onemob.mobi
+  - DOMAIN-SUFFIX,onemoment.cc
   - DOMAIN-SUFFIX,onemozilla.org
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,oneotheacon.cc
@@ -68683,6 +68692,7 @@ payload:
   - DOMAIN-SUFFIX,payecom.ru
   - DOMAIN-SUFFIX,payeddrub.com
   - DOMAIN-SUFFIX,payersgreking.com
+  - DOMAIN-SUFFIX,payget.pro
   - DOMAIN-SUFFIX,paygonline.com
   - DOMAIN-SUFFIX,payhulu.com
   - DOMAIN-SUFFIX,payingtore.com
@@ -69287,6 +69297,7 @@ payload:
   - DOMAIN-SUFFIX,pentonmktgsvcs.com
   - DOMAIN-SUFFIX,pentonnews.com
   - DOMAIN-SUFFIX,pentontech.com
+  - DOMAIN-SUFFIX,pentosephycic.shop
   - DOMAIN-SUFFIX,pentoy.hk
   - DOMAIN-SUFFIX,pentra.com
   - DOMAIN-SUFFIX,pentserv.com
@@ -70452,6 +70463,7 @@ payload:
   - DOMAIN-SUFFIX,platooncombinedborrowed.com
   - DOMAIN-SUFFIX,platoonline.com
   - DOMAIN-SUFFIX,platosguns.com
+  - DOMAIN-SUFFIX,platov.co
   - DOMAIN-SUFFIX,plattenews.com
   - DOMAIN-SUFFIX,plattformad.com
   - DOMAIN-SUFFIX,plattinsume.shop
@@ -72259,6 +72271,7 @@ payload:
   - DOMAIN-SUFFIX,privacybox.de
   - DOMAIN-SUFFIX,privacycounter.com
   - DOMAIN-SUFFIX,privacyguides.org
+  - DOMAIN-SUFFIX,privacylab.it
   - DOMAIN-SUFFIX,privacymanager.io
   - DOMAIN-SUFFIX,privacyprotector.com
   - DOMAIN-SUFFIX,privacysandbox.com
@@ -75153,6 +75166,8 @@ payload:
   - DOMAIN-SUFFIX,ramjgqvuswua.com
   - DOMAIN-SUFFIX,ramlvunszdcxt.website
   - DOMAIN-SUFFIX,rammishruinous.com
+  - DOMAIN-SUFFIX,ramon.cash
+  - DOMAIN-SUFFIX,ramon.money
   - DOMAIN-SUFFIX,ramp.com
   - DOMAIN-SUFFIX,rampanel.com
   - DOMAIN-SUFFIX,rampfat.com
@@ -80250,6 +80265,7 @@ payload:
   - DOMAIN-SUFFIX,sentirlabs.com
   - DOMAIN-SUFFIX,sentry-cdn.com
   - DOMAIN-SUFFIX,sentry-cdn.top
+  - DOMAIN-SUFFIX,sentry.dev
   - DOMAIN-SUFFIX,sentrymagic.com
   - DOMAIN-SUFFIX,senzapudore.it
   - DOMAIN-SUFFIX,senzari.com
@@ -87836,6 +87852,7 @@ payload:
   - DOMAIN-SUFFIX,tempest.com
   - DOMAIN-SUFFIX,tempest22.top
   - DOMAIN-SUFFIX,tempest33.com
+  - DOMAIN-SUFFIX,templatemonster.com
   - DOMAIN-SUFFIX,templenile.com
   - DOMAIN-SUFFIX,tempo.co
   - DOMAIN-SUFFIX,tempobet.com
@@ -90424,6 +90441,7 @@ payload:
   - DOMAIN-SUFFIX,tradingsat.com
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,traditional-odb.org
+  - DOMAIN-SUFFIX,traditionalboycottflung.com
   - DOMAIN-SUFFIX,traditionblindness.com
   - DOMAIN-SUFFIX,tradle.io
   - DOMAIN-SUFFIX,tradplus.cn
@@ -95981,6 +95999,7 @@ payload:
   - DOMAIN-SUFFIX,vivaxnxx.com
   - DOMAIN-SUFFIX,vivay-broker.be
   - DOMAIN-SUFFIX,vivense.com
+  - DOMAIN-SUFFIX,vivenu.com
   - DOMAIN-SUFFIX,vivid.com
   - DOMAIN-SUFFIX,vividcanopy.com
   - DOMAIN-SUFFIX,vividcash.com
