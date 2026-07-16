@@ -10968,6 +10968,7 @@ payload:
   - DOMAIN-SUFFIX,azuredns-prd.info
   - DOMAIN-SUFFIX,azuredns-prd.org
   - DOMAIN-SUFFIX,azureedge-test.net
+  - DOMAIN-SUFFIX,azureedge.us
   - DOMAIN-SUFFIX,azurefd.net
   - DOMAIN-SUFFIX,azureiotcentral.com
   - DOMAIN-SUFFIX,azureiotsolutions.com
@@ -21578,6 +21579,7 @@ payload:
   - DOMAIN-SUFFIX,copeland.com
   - DOMAIN-SUFFIX,copenhagenstudios.com
   - DOMAIN-SUFFIX,copernicusmd.com
+  - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.com
   - DOMAIN-SUFFIX,copinesdevoyage.com
   - DOMAIN-SUFFIX,copiousgoutswimwear.com
@@ -58493,6 +58495,7 @@ payload:
   - DOMAIN-SUFFIX,mhequipment.com
   - DOMAIN-SUFFIX,mhfjobnoamzsrx.com
   - DOMAIN-SUFFIX,mhgu.cn
+  - DOMAIN-SUFFIX,mhgui.com
   - DOMAIN-SUFFIX,mhgulzhluhcvt.space
   - DOMAIN-SUFFIX,mhhanman.xyz
   - DOMAIN-SUFFIX,mhhnoclofkymc.website
@@ -85223,6 +85226,7 @@ payload:
   - DOMAIN-SUFFIX,starkscale.com
   - DOMAIN-SUFFIX,starlegacyfoundation.org
   - DOMAIN-SUFFIX,starlightnet.work
+  - DOMAIN-SUFFIX,starlink.com
   - DOMAIN-SUFFIX,starlottosport.com
   - DOMAIN-SUFFIX,starmeetonline.com
   - DOMAIN-SUFFIX,starmobmedia.com
@@ -101745,7 +101749,6 @@ payload:
   - DOMAIN-SUFFIX,xe2c.com
   - DOMAIN-SUFFIX,xeayxkzdnaqxq.site
   - DOMAIN-SUFFIX,xebel.co
-  - DOMAIN-SUFFIX,xebet.com
   - DOMAIN-SUFFIX,xebfomhenqxin.online
   - DOMAIN-SUFFIX,xecce.com
   - DOMAIN-SUFFIX,xecdcjxhuefhg.space

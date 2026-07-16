@@ -14112,7 +14112,7 @@ payload:
   - DOMAIN-SUFFIX,api.coinmarketcap.com
   - DOMAIN-SUFFIX,api.comm.miui.com
   - DOMAIN-SUFFIX,api.commerce.coinbase.com
-  - DOMAIN-SUFFIX,api.cricbuzz.com
+  - DOMAIN-SUFFIX,api.cricbu360.cn
   - DOMAIN-SUFFIX,api.crisp.chat
   - DOMAIN-SUFFIX,api.crowdin.com
   - DOMAIN-SUFFIX,api.crunchyroll.com
@@ -29583,6 +29583,7 @@ payload:
   - DOMAIN-SUFFIX,cric.com
   - DOMAIN-SUFFIX,cric2009.com
   - DOMAIN-SUFFIX,cricbigdata.com
+  - DOMAIN-SUFFIX,cricbuzz.com
   - DOMAIN-SUFFIX,cricchina.com
   - DOMAIN-SUFFIX,crieasyfm.com
   - DOMAIN-SUFFIX,crienglish.com
@@ -80246,7 +80247,6 @@ payload:
   - DOMAIN-SUFFIX,otcgd.com
   - DOMAIN-SUFFIX,otcms.com
   - DOMAIN-SUFFIX,oth.eve.mdt.qq.com
-  - DOMAIN-SUFFIX,otheve.beacon.qq.com
   - DOMAIN-SUFFIX,otkglass.com
   - DOMAIN-SUFFIX,otlong.com
   - DOMAIN-SUFFIX,otm.ink
@@ -99597,7 +99597,6 @@ payload:
   - DOMAIN-SUFFIX,teshenqi.com
   - DOMAIN-SUFFIX,tesight.com
   - DOMAIN-SUFFIX,tesiro.com
-  - DOMAIN-SUFFIX,tesla-cdn.thron.cn
   - DOMAIN-SUFFIX,teslathemes.com
   - DOMAIN-SUFFIX,tesolsh.com
   - DOMAIN-SUFFIX,tesoon.com
@@ -99945,7 +99944,6 @@ payload:
   - DOMAIN-SUFFIX,threetong.com
   - DOMAIN-SUFFIX,threewater.net
   - DOMAIN-SUFFIX,thrive-chemicals.com
-  - DOMAIN-SUFFIX,thron.cn
   - DOMAIN-SUFFIX,ths123.com
   - DOMAIN-SUFFIX,ths8.com
   - DOMAIN-SUFFIX,thsj.com
@@ -125602,6 +125600,7 @@ payload:
   - DOMAIN-SUFFIX,zz-hh.com
   - DOMAIN-SUFFIX,zz-invest.com
   - DOMAIN-SUFFIX,zz.ci
+  - DOMAIN-SUFFIX,zz.com
   - DOMAIN-SUFFIX,zz.ee
   - DOMAIN-SUFFIX,zz123456789.xyz
   - DOMAIN-SUFFIX,zz2024.com
