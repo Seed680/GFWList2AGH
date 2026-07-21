@@ -43925,6 +43925,7 @@ payload:
   - DOMAIN-SUFFIX,glclcsy.com
   - DOMAIN-SUFFIX,gldaewoo.com
   - DOMAIN-SUFFIX,gldjc.com
+  - DOMAIN-SUFFIX,gle.cv
   - DOMAIN-SUFFIX,gleam.io
   - DOMAIN-SUFFIX,gleasy.com
   - DOMAIN-SUFFIX,glecan.com
@@ -110335,7 +110336,6 @@ payload:
   - DOMAIN-SUFFIX,www.google.com.vc
   - DOMAIN-SUFFIX,www.google.com.ve
   - DOMAIN-SUFFIX,www.google.com.vn
-  - DOMAIN-SUFFIX,www.google.cv
   - DOMAIN-SUFFIX,www.google.cz
   - DOMAIN-SUFFIX,www.google.de
   - DOMAIN-SUFFIX,www.google.dj
@@ -125878,4 +125878,3 @@ payload:
   - DOMAIN-SUFFIX,zzzyyy.com
   - DOMAIN-SUFFIX,zzzzaaaa.com
   - DOMAIN-SUFFIX,zzzzzz.me
-  - DOMAIN-SUFFIX,zzzzzzzz.vk.com
