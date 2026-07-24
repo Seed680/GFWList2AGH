@@ -22569,7 +22569,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.paddle.com
   - DOMAIN-SUFFIX,cdn.pardot.com
   - DOMAIN-SUFFIX,cdn.pcbeta.attachment.inimc.com
-  - DOMAIN-SUFFIX,cdn.pcbeta.css.inimc.com
   - DOMAIN-SUFFIX,cdn.pcbeta.static.inimc.com
   - DOMAIN-SUFFIX,cdn.pdst.fm
   - DOMAIN-SUFFIX,cdn.pendo.io
