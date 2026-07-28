@@ -2916,9 +2916,9 @@ payload:
   - DOMAIN-SUFFIX,2.ru.pool.ntp.org
   - DOMAIN-SUFFIX,2.shrd.fncstatic.com
   - DOMAIN-SUFFIX,2.sonostime.pool.ntp.org
+  - DOMAIN-SUFFIX,2.ua.pool.ntp.org
   - DOMAIN-SUFFIX,2.ubuntu.pool.ntp.org
   - DOMAIN-SUFFIX,2.us.pool.ntp.org
-  - DOMAIN-SUFFIX,2.uw.gaia.com
   - DOMAIN-SUFFIX,20001104.com
   - DOMAIN-SUFFIX,2000200.com
   - DOMAIN-SUFFIX,200022.xyz
@@ -10081,7 +10081,6 @@ payload:
   - DOMAIN-SUFFIX,a.kickass.to
   - DOMAIN-SUFFIX,a.market.xiaomi.com
   - DOMAIN-SUFFIX,a.ooyala.com
-  - DOMAIN-SUFFIX,a.pool.ntp.org
   - DOMAIN-SUFFIX,a.shifen.com
   - DOMAIN-SUFFIX,a.slashdotmedia.com
   - DOMAIN-SUFFIX,a.stat.xiaomi.com
@@ -19363,7 +19362,7 @@ payload:
   - DOMAIN-SUFFIX,blog.de.playstation.com
   - DOMAIN-SUFFIX,blog.diigo.com
   - DOMAIN-SUFFIX,blog.eu.playstation.com
-  - DOMAIN-SUFFIX,blog.experts-exchange360.cn
+  - DOMAIN-SUFFIX,blog.experts-exchange.com
   - DOMAIN-SUFFIX,blog.feedspot.com
   - DOMAIN-SUFFIX,blog.flipboard.com
   - DOMAIN-SUFFIX,blog.funimation.com
@@ -37987,7 +37986,6 @@ payload:
   - DOMAIN-SUFFIX,expensiveg.com
   - DOMAIN-SUFFIX,experiments.apple.com
   - DOMAIN-SUFFIX,expertcity.com
-  - DOMAIN-SUFFIX,experts-exchange.com
   - DOMAIN-SUFFIX,expingworld.com
   - DOMAIN-SUFFIX,expiredns.net
   - DOMAIN-SUFFIX,expirenotification.com
@@ -110194,6 +110192,7 @@ payload:
   - DOMAIN-SUFFIX,www.fxhome.com
   - DOMAIN-SUFFIX,www.g.cn
   - DOMAIN-SUFFIX,www.g2a.com
+  - DOMAIN-SUFFIX,www.gaia.com
   - DOMAIN-SUFFIX,www.gallica.bnf.fr
   - DOMAIN-SUFFIX,www.gamekult.com
   - DOMAIN-SUFFIX,www.gameloft.com
