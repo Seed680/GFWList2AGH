@@ -12995,7 +12995,6 @@ payload:
   - DOMAIN-SUFFIX,ahtops.com
   - DOMAIN-SUFFIX,ahtplqvbxkule.online
   - DOMAIN-SUFFIX,ahtranny.com
-  - DOMAIN-SUFFIX,ahtribune.com
   - DOMAIN-SUFFIX,ahtv.cn
   - DOMAIN-SUFFIX,ahua.ac.uk
   - DOMAIN-SUFFIX,ahuac.com
@@ -16696,6 +16695,7 @@ payload:
   - DOMAIN-SUFFIX,api8.tuisong.baidu.com
   - DOMAIN-SUFFIX,api9.tuisong.baidu.com
   - DOMAIN-SUFFIX,apiary.io
+  - DOMAIN-SUFFIX,apiauto.ru
   - DOMAIN-SUFFIX,apibay.org
   - DOMAIN-SUFFIX,apicasystem.com
   - DOMAIN-SUFFIX,apicit.net
@@ -19533,6 +19533,7 @@ payload:
   - DOMAIN-SUFFIX,auto-dombrowski.de
   - DOMAIN-SUFFIX,auto-ping.com
   - DOMAIN-SUFFIX,auto.de
+  - DOMAIN-SUFFIX,auto.ru
   - DOMAIN-SUFFIX,auto5.be
   - DOMAIN-SUFFIX,auto999.cn
   - DOMAIN-SUFFIX,autoads.asia
@@ -19730,6 +19731,7 @@ payload:
   - DOMAIN-SUFFIX,autopilothq.com
   - DOMAIN-SUFFIX,autoplus.fr
   - DOMAIN-SUFFIX,autorace.jp
+  - DOMAIN-SUFFIX,autoru.me
   - DOMAIN-SUFFIX,autoscout24.at
   - DOMAIN-SUFFIX,autoscout24.be
   - DOMAIN-SUFFIX,autoscout24.bg
@@ -20043,6 +20045,7 @@ payload:
   - DOMAIN-SUFFIX,avtecinc.com
   - DOMAIN-SUFFIX,avtex.com
   - DOMAIN-SUFFIX,avthelkp.net
+  - DOMAIN-SUFFIX,avto.ru
   - DOMAIN-SUFFIX,avtvatnpfbhtk.website
   - DOMAIN-SUFFIX,avuibxulygfyx.online
   - DOMAIN-SUFFIX,avvo.com
@@ -29277,7 +29280,6 @@ payload:
   - DOMAIN-SUFFIX,capcap621.cn
   - DOMAIN-SUFFIX,capdecision.fr
   - DOMAIN-SUFFIX,cape.ac.uk
-  - DOMAIN-SUFFIX,capecodledger.com
   - DOMAIN-SUFFIX,capefast.com
   - DOMAIN-SUFFIX,capel.ac.uk
   - DOMAIN-SUFFIX,capella.edu
@@ -31287,7 +31289,6 @@ payload:
   - DOMAIN-SUFFIX,channel18news.com
   - DOMAIN-SUFFIX,channel22news.com
   - DOMAIN-SUFFIX,channel23news.com
-  - DOMAIN-SUFFIX,channel24news.com
   - DOMAIN-SUFFIX,channel28news.com
   - DOMAIN-SUFFIX,channel2pod.net
   - DOMAIN-SUFFIX,channel33news.com
@@ -31596,6 +31597,7 @@ payload:
   - DOMAIN-SUFFIX,chess.com
   - DOMAIN-SUFFIX,chessbranch.com
   - DOMAIN-SUFFIX,chesscolor.com
+  - DOMAIN-SUFFIX,chesscomfiles.com
   - DOMAIN-SUFFIX,chesscrowd.com
   - DOMAIN-SUFFIX,chessermanic.com
   - DOMAIN-SUFFIX,chessquery.com
@@ -32060,7 +32062,10 @@ payload:
   - DOMAIN-SUFFIX,cia.ac.uk
   - DOMAIN-SUFFIX,cia.gov
   - DOMAIN-SUFFIX,ciajifmfsp.com
+  - DOMAIN-SUFFIX,cian.ru
+  - DOMAIN-SUFFIX,cian.site
   - DOMAIN-SUFFIX,ciandt.com
+  - DOMAIN-SUFFIX,ciangroup.ru
   - DOMAIN-SUFFIX,ciao.ro
   - DOMAIN-SUFFIX,cias.ac.uk
   - DOMAIN-SUFFIX,cib.ac.uk
@@ -33439,6 +33444,7 @@ payload:
   - DOMAIN-SUFFIX,cm.dmp.sina.cn
   - DOMAIN-SUFFIX,cm.e.qq.com
   - DOMAIN-SUFFIX,cm.emarbox.com
+  - DOMAIN-SUFFIX,cm.expert
   - DOMAIN-SUFFIX,cm.eyereturn.com
   - DOMAIN-SUFFIX,cm.fastapi.net
   - DOMAIN-SUFFIX,cm.g.doubleclick.net
@@ -43633,7 +43639,6 @@ payload:
   - DOMAIN-SUFFIX,discoverdunwoody.com
   - DOMAIN-SUFFIX,discovereconomics.ac.uk
   - DOMAIN-SUFFIX,discoveredcowardlymadden.com
-  - DOMAIN-SUFFIX,discoveries.news
   - DOMAIN-SUFFIX,discoverkalamazoo.com
   - DOMAIN-SUFFIX,discoverlehighvalley.com
   - DOMAIN-SUFFIX,discovermustystarter.com
@@ -44369,6 +44374,7 @@ payload:
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,dmihotels.com
   - DOMAIN-SUFFIX,dmiiqrlkypdmw.online
+  - DOMAIN-SUFFIX,dmir.ru
   - DOMAIN-SUFFIX,dmiredindeed.com
   - DOMAIN-SUFFIX,dmit.io
   - DOMAIN-SUFFIX,dmit.sh
@@ -45951,6 +45957,7 @@ payload:
   - DOMAIN-SUFFIX,dsrcxs.com
   - DOMAIN-SUFFIX,dsrddz.com
   - DOMAIN-SUFFIX,dsrdyw.com
+  - DOMAIN-SUFFIX,dsreporter.com
   - DOMAIN-SUFFIX,dsrilm.com
   - DOMAIN-SUFFIX,dsrjiz.com
   - DOMAIN-SUFFIX,dsrkxg.com
@@ -47886,7 +47893,6 @@ payload:
   - DOMAIN-SUFFIX,eastrk-dn.com
   - DOMAIN-SUFFIX,eastrk-lg.com
   - DOMAIN-SUFFIX,eastsandiegonews.com
-  - DOMAIN-SUFFIX,eastsbvtimes.com
   - DOMAIN-SUFFIX,eastscotbiodtp.ac.uk
   - DOMAIN-SUFFIX,eastsfvtoday.com
   - DOMAIN-SUFFIX,eastsierranews.com
@@ -57689,7 +57695,6 @@ payload:
   - DOMAIN-SUFFIX,freedom-articles.toolsforfreedom.com
   - DOMAIN-SUFFIX,freedom-iot.com
   - DOMAIN-SUFFIX,freedom.gov
-  - DOMAIN-SUFFIX,freedom.news
   - DOMAIN-SUFFIX,freedomadnetwork.com
   - DOMAIN-SUFFIX,freedomalburn.com
   - DOMAIN-SUFFIX,freedomchina.info
@@ -69086,6 +69091,7 @@ payload:
   - DOMAIN-SUFFIX,huo07141hy.com
   - DOMAIN-SUFFIX,huo07161hy.com
   - DOMAIN-SUFFIX,huo07170hy.com
+  - DOMAIN-SUFFIX,huoas.com
   - DOMAIN-SUFFIX,huobi.co
   - DOMAIN-SUFFIX,huobi.com
   - DOMAIN-SUFFIX,huobi.li
@@ -97348,6 +97354,7 @@ payload:
   - DOMAIN-SUFFIX,mozilla.de
   - DOMAIN-SUFFIX,mozilla.jp
   - DOMAIN-SUFFIX,mozilla.lt
+  - DOMAIN-SUFFIX,mozilla.map.fastly.net
   - DOMAIN-SUFFIX,mozilla.net
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,mozilla.org.uk
@@ -102637,7 +102644,6 @@ payload:
   - DOMAIN-SUFFIX,northwichitanews.com
   - DOMAIN-SUFFIX,northwire.actonservice.com
   - DOMAIN-SUFFIX,northwoodsoft.com
-  - DOMAIN-SUFFIX,northwoodsreporter.com
   - DOMAIN-SUFFIX,norton.com
   - DOMAIN-SUFFIX,nortonhealthcare.com
   - DOMAIN-SUFFIX,nortonrosefulbright.com
@@ -104045,6 +104051,7 @@ payload:
   - DOMAIN-SUFFIX,o-s.io
   - DOMAIN-SUFFIX,o-sdk.mediation.unity3d.com
   - DOMAIN-SUFFIX,o-tayori.com
+  - DOMAIN-SUFFIX,o-uchi.ru
   - DOMAIN-SUFFIX,o.027eat.com
   - DOMAIN-SUFFIX,o.4x25v.cn
   - DOMAIN-SUFFIX,o.bluewin.ch
@@ -112875,6 +112882,7 @@ payload:
   - DOMAIN-SUFFIX,potterybarnkids.com
   - DOMAIN-SUFFIX,potvpn.com
   - DOMAIN-SUFFIX,potwm.com
+  - DOMAIN-SUFFIX,poudobnee.com
   - DOMAIN-SUFFIX,pougg.com
   - DOMAIN-SUFFIX,poughkeepsiejournal.com
   - DOMAIN-SUFFIX,pouhwpuqcutlc.online
@@ -118040,6 +118048,7 @@ payload:
   - DOMAIN-SUFFIX,rdqmyfwlpcjvh.site
   - DOMAIN-SUFFIX,rdraygxaymmms.online
   - DOMAIN-SUFFIX,rdrctgoweb.com
+  - DOMAIN-SUFFIX,rdrom.ru
   - DOMAIN-SUFFIX,rdroot.com
   - DOMAIN-SUFFIX,rdrtrk.com
   - DOMAIN-SUFFIX,rds-yes.buzz
@@ -118272,6 +118281,7 @@ payload:
   - DOMAIN-SUFFIX,realtype.co.jp
   - DOMAIN-SUFFIX,realtype.jp
   - DOMAIN-SUFFIX,realtystore.com
+  - DOMAIN-SUFFIX,realtyverif.ru
   - DOMAIN-SUFFIX,realvision.com
   - DOMAIN-SUFFIX,realviz.com
   - DOMAIN-SUFFIX,realvu.net
@@ -150676,6 +150686,7 @@ payload:
   - DOMAIN-SUFFIX,uchicagomedicine.org
   - DOMAIN-SUFFIX,uchideno-kozuchi.com
   - DOMAIN-SUFFIX,uchij.com
+  - DOMAIN-SUFFIX,uchilk.ru
   - DOMAIN-SUFFIX,uchinotoypoo.jp
   - DOMAIN-SUFFIX,uchwgynkggjca.online
   - DOMAIN-SUFFIX,uci.edu
@@ -168203,6 +168214,7 @@ payload:
   - DOMAIN-SUFFIX,yncsudpwwfklq.online
   - DOMAIN-SUFFIX,yndhi.com
   - DOMAIN-SUFFIX,yndushi.cn
+  - DOMAIN-SUFFIX,yndx.net
   - DOMAIN-SUFFIX,ynemmp.goertz.de
   - DOMAIN-SUFFIX,ynemqgebtqzkc.site
   - DOMAIN-SUFFIX,ynet.da.mgtv.com
