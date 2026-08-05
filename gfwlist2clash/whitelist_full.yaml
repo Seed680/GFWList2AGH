@@ -100091,6 +100091,8 @@ payload:
   - DOMAIN-SUFFIX,tj-kingdee.com
   - DOMAIN-SUFFIX,tj-model.com
   - DOMAIN-SUFFIX,tj-pod1-smp-device.apple.com
+  - DOMAIN-SUFFIX,tj-pod2-smp-device.apple.com
+  - DOMAIN-SUFFIX,tj-pod3-smp-device.apple.com
   - DOMAIN-SUFFIX,tj-un.com
   - DOMAIN-SUFFIX,tj0573.com
   - DOMAIN-SUFFIX,tj1-miui-bn-stage01.kscn
