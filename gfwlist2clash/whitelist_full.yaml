@@ -19208,7 +19208,6 @@ payload:
   - DOMAIN-SUFFIX,blog-at.line.me
   - DOMAIN-SUFFIX,blog-cdn.feedspot.com
   - DOMAIN-SUFFIX,blog-cdn2.feedspot.com
-  - DOMAIN-SUFFIX,blog-cms.line.me
   - DOMAIN-SUFFIX,blog.appsumo.com
   - DOMAIN-SUFFIX,blog.bit.ly
   - DOMAIN-SUFFIX,blog.bitfinex.com
@@ -68024,6 +68023,7 @@ payload:
   - DOMAIN-SUFFIX,lifevc.com
   - DOMAIN-SUFFIX,lifevccdn.com
   - DOMAIN-SUFFIX,lifeweeker.com
+  - DOMAIN-SUFFIX,lifexue.com
   - DOMAIN-SUFFIX,lifeyk.com
   - DOMAIN-SUFFIX,lifeyn.net
   - DOMAIN-SUFFIX,lifezb.com
@@ -79026,6 +79026,7 @@ payload:
   - DOMAIN-SUFFIX,ofweek.com
   - DOMAIN-SUFFIX,ofweek.net
   - DOMAIN-SUFFIX,ofyoo.com
+  - DOMAIN-SUFFIX,og-cms.line.me
   - DOMAIN-SUFFIX,ogame3.com
   - DOMAIN-SUFFIX,ogaoxiao.com
   - DOMAIN-SUFFIX,ogaqcbfi.com
