@@ -58473,7 +58473,6 @@ payload:
   - DOMAIN-SUFFIX,itc.vip
   - DOMAIN-SUFFIX,itcdlf.com
   - DOMAIN-SUFFIX,itceo.com
-  - DOMAIN-SUFFIX,itch.tv
   - DOMAIN-SUFFIX,itchaguan.com
   - DOMAIN-SUFFIX,itcm.com
   - DOMAIN-SUFFIX,itcn.cc
@@ -68765,6 +68764,7 @@ payload:
   - DOMAIN-SUFFIX,live-cdg.twitch.tv
   - DOMAIN-SUFFIX,live-dfw.twitch.tv
   - DOMAIN-SUFFIX,live-echotv.cdnvideo.ru
+  - DOMAIN-SUFFIX,live-fra.twitch.tv
   - DOMAIN-SUFFIX,live-gru.twitch.tv
   - DOMAIN-SUFFIX,live-hel.twitch.tv
   - DOMAIN-SUFFIX,live-helps.com
