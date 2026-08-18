@@ -9648,6 +9648,7 @@ payload:
   - DOMAIN-SUFFIX,active-trk7.com
   - DOMAIN-SUFFIX,active.baofeng.com
   - DOMAIN-SUFFIX,active.sangfor.com
+  - DOMAIN-SUFFIX,active.tc.skysrt.com
   - DOMAIN-SUFFIX,active24stats.nl
   - DOMAIN-SUFFIX,activearcade.ai
   - DOMAIN-SUFFIX,activecommunities.com
@@ -61442,7 +61443,6 @@ payload:
   - DOMAIN-SUFFIX,globalorders.net
   - DOMAIN-SUFFIX,globalpetfoods.ca
   - DOMAIN-SUFFIX,globalr2p.org
-  - DOMAIN-SUFFIX,globalreactive.tc.skysrt.com
   - DOMAIN-SUFFIX,globalrescue.net
   - DOMAIN-SUFFIX,globalresearch.ca
   - DOMAIN-SUFFIX,globalriskregulator.com
@@ -122197,6 +122197,7 @@ payload:
   - DOMAIN-SUFFIX,s3.buysellads.com
   - DOMAIN-SUFFIX,s3.chengmingliang.com
   - DOMAIN-SUFFIX,s3.cnzz.com
+  - DOMAIN-SUFFIX,s3.dualstack.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,s3.joexl.com
   - DOMAIN-SUFFIX,s3.pfp.sina.net
   - DOMAIN-SUFFIX,s3.phluant.com
@@ -124674,7 +124675,6 @@ payload:
   - DOMAIN-SUFFIX,search.ac.uk
   - DOMAIN-SUFFIX,search.anonymous.ads.brave.com
   - DOMAIN-SUFFIX,search.aol.com
-  - DOMAIN-SUFFIX,search.ca
   - DOMAIN-SUFFIX,search.google
   - DOMAIN-SUFFIX,search.ixigua.com
   - DOMAIN-SUFFIX,search.xxx
