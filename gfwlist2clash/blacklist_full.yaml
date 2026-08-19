@@ -470,6 +470,8 @@ payload:
   - DOMAIN-SUFFIX,11vmzjiup.com
   - DOMAIN-SUFFIX,11wickets.com
   - DOMAIN-SUFFIX,11win.beer
+  - DOMAIN-SUFFIX,11win.casa
+  - DOMAIN-SUFFIX,11win.free
   - DOMAIN-SUFFIX,11win.link
   - DOMAIN-SUFFIX,11win.llc
   - DOMAIN-SUFFIX,11win.mobi
@@ -3442,6 +3444,8 @@ payload:
   - DOMAIN-SUFFIX,789club.gp
   - DOMAIN-SUFFIX,789club.ke
   - DOMAIN-SUFFIX,789club.kn
+  - DOMAIN-SUFFIX,789club.mba
+  - DOMAIN-SUFFIX,789club.men
   - DOMAIN-SUFFIX,789club.mu
   - DOMAIN-SUFFIX,789club.mw
   - DOMAIN-SUFFIX,789club.nu
@@ -4298,10 +4302,12 @@ payload:
   - DOMAIN-SUFFIX,9bet.band
   - DOMAIN-SUFFIX,9bet.blue
   - DOMAIN-SUFFIX,9bet.care
+  - DOMAIN-SUFFIX,9bet.fund
   - DOMAIN-SUFFIX,9bet.green
   - DOMAIN-SUFFIX,9bet.mobi
   - DOMAIN-SUFFIX,9bet.net
   - DOMAIN-SUFFIX,9bet.photo
+  - DOMAIN-SUFFIX,9bet.pink
   - DOMAIN-SUFFIX,9bet.rest
   - DOMAIN-SUFFIX,9bet.win
   - DOMAIN-SUFFIX,9bet.world
@@ -11258,6 +11264,7 @@ payload:
   - DOMAIN-SUFFIX,adpush.cn
   - DOMAIN-SUFFIX,adpushup.com
   - DOMAIN-SUFFIX,adq.chinaso.com
+  - DOMAIN-SUFFIX,adqc.net
   - DOMAIN-SUFFIX,adqku.cn
   - DOMAIN-SUFFIX,adquake.com
   - DOMAIN-SUFFIX,adquality.ch
@@ -16511,6 +16518,7 @@ payload:
   - DOMAIN-SUFFIX,api.9bet.army
   - DOMAIN-SUFFIX,api.9bet.band
   - DOMAIN-SUFFIX,api.9bet.care
+  - DOMAIN-SUFFIX,api.9bet.fund
   - DOMAIN-SUFFIX,api.9bet.green
   - DOMAIN-SUFFIX,api.9bet.mobi
   - DOMAIN-SUFFIX,api.9bet.photo
@@ -27822,7 +27830,6 @@ payload:
   - DOMAIN-SUFFIX,busrol.st-eustachenissan.com
   - DOMAIN-SUFFIX,bussyhunter.com
   - DOMAIN-SUFFIX,bustabit.com
-  - DOMAIN-SUFFIX,bustadice.com
   - DOMAIN-SUFFIX,bustlefungus.com
   - DOMAIN-SUFFIX,bustleplaguereed.com
   - DOMAIN-SUFFIX,bustles1.com
@@ -46229,6 +46236,7 @@ payload:
   - DOMAIN-SUFFIX,du88.club
   - DOMAIN-SUFFIX,du88.com
   - DOMAIN-SUFFIX,du88.fashion
+  - DOMAIN-SUFFIX,du88.football
   - DOMAIN-SUFFIX,du88.guru
   - DOMAIN-SUFFIX,du88.health
   - DOMAIN-SUFFIX,du88.in
@@ -52289,7 +52297,6 @@ payload:
   - DOMAIN-SUFFIX,eussiyvfjpqqc.site
   - DOMAIN-SUFFIX,eussownwpyxdw.online
   - DOMAIN-SUFFIX,eutgbfzcrepne.online
-  - DOMAIN-SUFFIX,euthanasia.news
   - DOMAIN-SUFFIX,euuh.cn
   - DOMAIN-SUFFIX,euuhntxjcfqcg.space
   - DOMAIN-SUFFIX,euvbnsrtomonp.online
@@ -54498,7 +54505,6 @@ payload:
   - DOMAIN-SUFFIX,fbu8.ticket-online.montecarlolive.com
   - DOMAIN-SUFFIX,fbulmykkqnp.com
   - DOMAIN-SUFFIX,fburl.com
-  - DOMAIN-SUFFIX,fbw.11bet.us
   - DOMAIN-SUFFIX,fbwat.ch
   - DOMAIN-SUFFIX,fbwlsiqcdsszm.com
   - DOMAIN-SUFFIX,fbworkmail.com
@@ -56625,7 +56631,6 @@ payload:
   - DOMAIN-SUFFIX,foodbrochure.advancedtech.com
   - DOMAIN-SUFFIX,foodbusinessnews.net
   - DOMAIN-SUFFIX,foodchain.ac.uk
-  - DOMAIN-SUFFIX,foodcollapse.com
   - DOMAIN-SUFFIX,foodczar.com
   - DOMAIN-SUFFIX,foodevolution.news
   - DOMAIN-SUFFIX,foodfreedom.news
@@ -57729,6 +57734,7 @@ payload:
   - DOMAIN-SUFFIX,freeman2.com
   - DOMAIN-SUFFIX,freemanaccordingly.com
   - DOMAIN-SUFFIX,freematuresgallery.com
+  - DOMAIN-SUFFIX,freemdict.com
   - DOMAIN-SUFFIX,freemoren.com
   - DOMAIN-SUFFIX,freemorenews.com
   - DOMAIN-SUFFIX,freemuse.org
@@ -62311,6 +62317,7 @@ payload:
   - DOMAIN-SUFFIX,go8.pub
   - DOMAIN-SUFFIX,go8.pw
   - DOMAIN-SUFFIX,go88-vn.com
+  - DOMAIN-SUFFIX,go88.adqc.net
   - DOMAIN-SUFFIX,go88.bayern
   - DOMAIN-SUFFIX,go88.ca
   - DOMAIN-SUFFIX,go88.club
@@ -62318,6 +62325,7 @@ payload:
   - DOMAIN-SUFFIX,go88.contractors
   - DOMAIN-SUFFIX,go88.food
   - DOMAIN-SUFFIX,go88.live
+  - DOMAIN-SUFFIX,go88.ls
   - DOMAIN-SUFFIX,go88.luxury
   - DOMAIN-SUFFIX,go88.md
   - DOMAIN-SUFFIX,go88.me
@@ -65257,7 +65265,6 @@ payload:
   - DOMAIN-SUFFIX,haywardsheath.ac.uk
   - DOMAIN-SUFFIX,haywcfdx.com
   - DOMAIN-SUFFIX,hayweb.net
-  - DOMAIN-SUFFIX,haywin.ac
   - DOMAIN-SUFFIX,haywin.ai
   - DOMAIN-SUFFIX,haywin.my
   - DOMAIN-SUFFIX,haywin.space
@@ -65309,6 +65316,8 @@ payload:
   - DOMAIN-SUFFIX,hbdt.luomi.com
   - DOMAIN-SUFFIX,hbe.io
   - DOMAIN-SUFFIX,hbet.ac
+  - DOMAIN-SUFFIX,hbet.art
+  - DOMAIN-SUFFIX,hbet.bar
   - DOMAIN-SUFFIX,hbet.bio
   - DOMAIN-SUFFIX,hbet.club
   - DOMAIN-SUFFIX,hbet.cz
@@ -78720,8 +78729,11 @@ payload:
   - DOMAIN-SUFFIX,k88.mobi
   - DOMAIN-SUFFIX,k88.moe
   - DOMAIN-SUFFIX,k88.mov
+  - DOMAIN-SUFFIX,k88.nz
   - DOMAIN-SUFFIX,k88.pro
+  - DOMAIN-SUFFIX,k88.sx
   - DOMAIN-SUFFIX,k88.tel
+  - DOMAIN-SUFFIX,k88.vc
   - DOMAIN-SUFFIX,k88.win
   - DOMAIN-SUFFIX,k89bet.com
   - DOMAIN-SUFFIX,k8asia79.com
@@ -86579,6 +86591,7 @@ payload:
   - DOMAIN-SUFFIX,lu88.nz
   - DOMAIN-SUFFIX,lu88.pro
   - DOMAIN-SUFFIX,lu88.pw
+  - DOMAIN-SUFFIX,lu88.tv
   - DOMAIN-SUFFIX,lu88.tw
   - DOMAIN-SUFFIX,lu88.vg
   - DOMAIN-SUFFIX,lua.org
@@ -87832,7 +87845,6 @@ payload:
   - DOMAIN-SUFFIX,m.mh89w.cn
   - DOMAIN-SUFFIX,m.mhuos.com
   - DOMAIN-SUFFIX,m.miaoxinqipei.com
-  - DOMAIN-SUFFIX,m.mibet.win
   - DOMAIN-SUFFIX,m.mibet88.com
   - DOMAIN-SUFFIX,m.mig8vn.com
   - DOMAIN-SUFFIX,m.mightiger.net
@@ -97255,6 +97267,7 @@ payload:
   - DOMAIN-SUFFIX,mpgw-my.com
   - DOMAIN-SUFFIX,mphasis.com
   - DOMAIN-SUFFIX,mphbrwveomwtj.space
+  - DOMAIN-SUFFIX,mphonline.com
   - DOMAIN-SUFFIX,mpi.gov.tr
   - DOMAIN-SUFFIX,mpianalytics.com
   - DOMAIN-SUFFIX,mpibnoghampmhdl.com
@@ -100739,7 +100752,6 @@ payload:
   - DOMAIN-SUFFIX,newsblur.com
   - DOMAIN-SUFFIX,newsbotnet.com
   - DOMAIN-SUFFIX,newsbreak.com
-  - DOMAIN-SUFFIX,newsbreakers.org
   - DOMAIN-SUFFIX,newsbusters.org
   - DOMAIN-SUFFIX,newsbuzzdaily.com
   - DOMAIN-SUFFIX,newscadence.com
@@ -102361,7 +102373,6 @@ payload:
   - DOMAIN-SUFFIX,northernenterpriseschools.ac.uk
   - DOMAIN-SUFFIX,northerngrid.ac.uk
   - DOMAIN-SUFFIX,northernlogisticsacademy.ac.uk
-  - DOMAIN-SUFFIX,northernnecktimes.com
   - DOMAIN-SUFFIX,northernterritory.com
   - DOMAIN-SUFFIX,northerntiernews.com
   - DOMAIN-SUFFIX,northessexnews.com
@@ -105016,6 +105027,7 @@ payload:
   - DOMAIN-SUFFIX,oldhornymilfs.com
   - DOMAIN-SUFFIX,oldje.com
   - DOMAIN-SUFFIX,oldk.gtifund.cn
+  - DOMAIN-SUFFIX,oldmapsonline.org
   - DOMAIN-SUFFIX,oldnational.com
   - DOMAIN-SUFFIX,oldnorthnews.com
   - DOMAIN-SUFFIX,oldportcoffee.com
@@ -108449,7 +108461,6 @@ payload:
   - DOMAIN-SUFFIX,pascaljp.com
   - DOMAIN-SUFFIX,paschalbrahma.shop
   - DOMAIN-SUFFIX,pasco.com
-  - DOMAIN-SUFFIX,pascoreporter.com
   - DOMAIN-SUFFIX,pase.ac.uk
   - DOMAIN-SUFFIX,paservices.tech
   - DOMAIN-SUFFIX,pashtovoa.com
@@ -111268,7 +111279,6 @@ payload:
   - DOMAIN-SUFFIX,playerjs.io
   - DOMAIN-SUFFIX,playerscache.com
   - DOMAIN-SUFFIX,playerseo.club
-  - DOMAIN-SUFFIX,playersonly.ag
   - DOMAIN-SUFFIX,playeverlustinglife.space
   - DOMAIN-SUFFIX,playfab.com
   - DOMAIN-SUFFIX,playfabapi.com
@@ -112668,7 +112678,6 @@ payload:
   - DOMAIN-SUFFIX,power-stones.jp
   - DOMAIN-SUFFIX,power.adhacker.online
   - DOMAIN-SUFFIX,power.com
-  - DOMAIN-SUFFIX,power.news
   - DOMAIN-SUFFIX,power.trade
   - DOMAIN-SUFFIX,power.viggo.com
   - DOMAIN-SUFFIX,power97.com
@@ -114324,6 +114333,8 @@ payload:
   - DOMAIN-SUFFIX,pub.servidoresge.com
   - DOMAIN-SUFFIX,pub.sheknows.com
   - DOMAIN-SUFFIX,pub.sitetag.us
+  - DOMAIN-SUFFIX,pub88.camera
+  - DOMAIN-SUFFIX,pub88.channel
   - DOMAIN-SUFFIX,pub88.com
   - DOMAIN-SUFFIX,pub88.day
   - DOMAIN-SUFFIX,pub88.forum
@@ -126204,7 +126215,6 @@ payload:
   - DOMAIN-SUFFIX,seva.rocks
   - DOMAIN-SUFFIX,sevalleytimes.com
   - DOMAIN-SUFFIX,seveelumus.com
-  - DOMAIN-SUFFIX,sevegasnews.com
   - DOMAIN-SUFFIX,sevellia.com
   - DOMAIN-SUFFIX,sevenbank.co.jp
   - DOMAIN-SUFFIX,sevencooks.com
@@ -132487,6 +132497,7 @@ payload:
   - DOMAIN-SUFFIX,socket.9bet.army
   - DOMAIN-SUFFIX,socket.9bet.band
   - DOMAIN-SUFFIX,socket.9bet.care
+  - DOMAIN-SUFFIX,socket.9bet.fund
   - DOMAIN-SUFFIX,socket.9bet.green
   - DOMAIN-SUFFIX,socket.9bet.mobi
   - DOMAIN-SUFFIX,socket.9bet.photo
@@ -134132,7 +134143,6 @@ payload:
   - DOMAIN-SUFFIX,sportradar.com
   - DOMAIN-SUFFIX,sportradarserving.com
   - DOMAIN-SUFFIX,sports-gambling.com
-  - DOMAIN-SUFFIX,sports.betway.com
   - DOMAIN-SUFFIX,sports.br.betboo.com
   - DOMAIN-SUFFIX,sports.bwin.com
   - DOMAIN-SUFFIX,sports.caliente.mx
@@ -138767,7 +138777,6 @@ payload:
   - DOMAIN-SUFFIX,sv66c.com
   - DOMAIN-SUFFIX,sv66s.com
   - DOMAIN-SUFFIX,sv66vip6.com
-  - DOMAIN-SUFFIX,sv88.ae
   - DOMAIN-SUFFIX,sv88.cl
   - DOMAIN-SUFFIX,sv88.club
   - DOMAIN-SUFFIX,sv88.com
@@ -149823,6 +149832,7 @@ payload:
   - DOMAIN-SUFFIX,tx88.onl
   - DOMAIN-SUFFIX,tx88.photo
   - DOMAIN-SUFFIX,tx88.pink
+  - DOMAIN-SUFFIX,tx88.rest
   - DOMAIN-SUFFIX,tx88.top
   - DOMAIN-SUFFIX,tx88.vet
   - DOMAIN-SUFFIX,tx88.zone
@@ -161300,6 +161310,7 @@ payload:
   - DOMAIN-SUFFIX,wp.9bet.army
   - DOMAIN-SUFFIX,wp.9bet.band
   - DOMAIN-SUFFIX,wp.9bet.care
+  - DOMAIN-SUFFIX,wp.9bet.fund
   - DOMAIN-SUFFIX,wp.9bet.green
   - DOMAIN-SUFFIX,wp.9bet.mobi
   - DOMAIN-SUFFIX,wp.9bet.photo
@@ -162602,7 +162613,6 @@ payload:
   - DOMAIN-SUFFIX,www.casino-pp.net
   - DOMAIN-SUFFIX,www.casino.org
   - DOMAIN-SUFFIX,www.casinoandfriends.com
-  - DOMAIN-SUFFIX,www.casinobitco.in
   - DOMAIN-SUFFIX,www.casinocalzone.com
   - DOMAIN-SUFFIX,www.casinocruise.com
   - DOMAIN-SUFFIX,www.casinoeuro.com
@@ -163533,7 +163543,6 @@ payload:
   - DOMAIN-SUFFIX,www.planetofbets.com
   - DOMAIN-SUFFIX,www.playbet.com
   - DOMAIN-SUFFIX,www.playclub.com
-  - DOMAIN-SUFFIX,www.playersonly.ag
   - DOMAIN-SUFFIX,www.playfrank.com
   - DOMAIN-SUFFIX,www.playojo.com
   - DOMAIN-SUFFIX,www.playolg.ca
@@ -163740,7 +163749,6 @@ payload:
   - DOMAIN-SUFFIX,www.startappexchange.com
   - DOMAIN-SUFFIX,www.staticfile.net
   - DOMAIN-SUFFIX,www.staticfile.org
-  - DOMAIN-SUFFIX,www.statusbet.com
   - DOMAIN-SUFFIX,www.stoloto.ru
   - DOMAIN-SUFFIX,www.strikewin.com
   - DOMAIN-SUFFIX,www.sunbets.co.uk
@@ -170470,6 +170478,7 @@ payload:
   - DOMAIN-SUFFIX,zowin.ci
   - DOMAIN-SUFFIX,zowin.esq
   - DOMAIN-SUFFIX,zowin.fan
+  - DOMAIN-SUFFIX,zowin.fm
   - DOMAIN-SUFFIX,zowin.im
   - DOMAIN-SUFFIX,zowin.is
   - DOMAIN-SUFFIX,zowin.kim
