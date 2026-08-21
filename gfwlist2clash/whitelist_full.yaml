@@ -2648,7 +2648,6 @@ payload:
   - DOMAIN-SUFFIX,1f71060e75b35349.com
   - DOMAIN-SUFFIX,1fangchan.com
   - DOMAIN-SUFFIX,1fgqfml.oloadcdn.net
-  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
   - DOMAIN-SUFFIX,1gaifang.com
@@ -11013,7 +11012,6 @@ payload:
   - DOMAIN-SUFFIX,afca-asia.org
   - DOMAIN-SUFFIX,afca6b82c11032.beer
   - DOMAIN-SUFFIX,afcec.com
-  - DOMAIN-SUFFIX,afcs.dell.com
   - DOMAIN-SUFFIX,afdian.com
   - DOMAIN-SUFFIX,afdian.net
   - DOMAIN-SUFFIX,afdiancdn.com
@@ -26319,7 +26317,6 @@ payload:
   - DOMAIN-SUFFIX,clientlog3.music.163.com
   - DOMAIN-SUFFIX,clientlogdep.music.163.com
   - DOMAIN-SUFFIX,clientlogsf.music.163.com
-  - DOMAIN-SUFFIX,clientperipherals.dell.com
   - DOMAIN-SUFFIX,clients.binance.com
   - DOMAIN-SUFFIX,clients.l.google.com
   - DOMAIN-SUFFIX,clients1.google.com
@@ -30172,7 +30169,6 @@ payload:
   - DOMAIN-SUFFIX,custom.bnc.lt
   - DOMAIN-SUFFIX,customer.lenovo.com
   - DOMAIN-SUFFIX,customerevents.netflix.com
-  - DOMAIN-SUFFIX,customization-cdn.dell.com
   - DOMAIN-SUFFIX,customizedfasteners.com
   - DOMAIN-SUFFIX,customlinks.appsflyer.com
   - DOMAIN-SUFFIX,customsapp.com
@@ -31846,7 +31842,6 @@ payload:
   - DOMAIN-SUFFIX,ddpoc.com
   - DOMAIN-SUFFIX,ddqcw.com
   - DOMAIN-SUFFIX,ddrk.me
-  - DOMAIN-SUFFIX,dds.dell.com
   - DOMAIN-SUFFIX,ddsaas.com
   - DOMAIN-SUFFIX,ddsk.la
   - DOMAIN-SUFFIX,ddsm.com
@@ -33346,7 +33341,6 @@ payload:
   - DOMAIN-SUFFIX,dl-xda.xposed.info
   - DOMAIN-SUFFIX,dl.360safe.com
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-  - DOMAIN-SUFFIX,dl.dell.com
   - DOMAIN-SUFFIX,dl.developer.sonymobile.com
   - DOMAIN-SUFFIX,dl.discordapp.net
   - DOMAIN-SUFFIX,dl.djicdn.com
@@ -35542,9 +35536,6 @@ payload:
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,ea.galerieslafayette.com
   - DOMAIN-SUFFIX,ea1-urlp.secure.skypeassets.com
-  - DOMAIN-SUFFIX,ea2cn-dev-outlet.dell.com
-  - DOMAIN-SUFFIX,ea2cn-prod-outlet.dell.com
-  - DOMAIN-SUFFIX,ea2cn-staging-outlet.dell.com
   - DOMAIN-SUFFIX,ea360.com
   - DOMAIN-SUFFIX,ea3w.com
   - DOMAIN-SUFFIX,ea65d2a2f16d6b8c.com
@@ -36746,7 +36737,6 @@ payload:
   - DOMAIN-SUFFIX,emlog.net
   - DOMAIN-SUFFIX,emmmn.com
   - DOMAIN-SUFFIX,emodor.com
-  - DOMAIN-SUFFIX,emoi-cncdn.bing.com
   - DOMAIN-SUFFIX,emoji.uc.cn
   - DOMAIN-SUFFIX,emoji6.com
   - DOMAIN-SUFFIX,emojimobile.com
@@ -38663,7 +38653,6 @@ payload:
   - DOMAIN-SUFFIX,fcpowerup.com
   - DOMAIN-SUFFIX,fcqjc.com
   - DOMAIN-SUFFIX,fcrc114.com
-  - DOMAIN-SUFFIX,fcs.dell.com
   - DOMAIN-SUFFIX,fcs1.com
   - DOMAIN-SUFFIX,fcsc.com
   - DOMAIN-SUFFIX,fcstor.com
@@ -40679,11 +40668,7 @@ payload:
   - DOMAIN-SUFFIX,ft12.com
   - DOMAIN-SUFFIX,ft22.com
   - DOMAIN-SUFFIX,ft98.com
-  - DOMAIN-SUFFIX,fta.dell.com
-  - DOMAIN-SUFFIX,ftaapj.dell.com
-  - DOMAIN-SUFFIX,ftaemea.dell.com
   - DOMAIN-SUFFIX,ftaro.com
-  - DOMAIN-SUFFIX,ftasitapj.dell.com
   - DOMAIN-SUFFIX,ftbj.net
   - DOMAIN-SUFFIX,ftc.gov
   - DOMAIN-SUFFIX,ftcoaster.com
@@ -41868,8 +41853,6 @@ payload:
   - DOMAIN-SUFFIX,gbtranswins.com
   - DOMAIN-SUFFIX,gbvh.com
   - DOMAIN-SUFFIX,gbw114.com
-  - DOMAIN-SUFFIX,gbxgateway-dev.dell.com
-  - DOMAIN-SUFFIX,gbxgateway.dell.com
   - DOMAIN-SUFFIX,gc-zb.com
   - DOMAIN-SUFFIX,gc.fe.apple-dns.net
   - DOMAIN-SUFFIX,gc1616.com
@@ -55517,7 +55500,6 @@ payload:
   - DOMAIN-SUFFIX,i.cdn.turner.com
   - DOMAIN-SUFFIX,i.click.taobao.com
   - DOMAIN-SUFFIX,i.cmpnet.com
-  - DOMAIN-SUFFIX,i.dell.com
   - DOMAIN-SUFFIX,i.ebayimg.com
   - DOMAIN-SUFFIX,i.gtimg.cn
   - DOMAIN-SUFFIX,i.gyazo.com
@@ -76718,7 +76700,6 @@ payload:
   - DOMAIN-SUFFIX,nextyu.com
   - DOMAIN-SUFFIX,nexus-holding.com
   - DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
-  - DOMAIN-SUFFIX,nexus.dell.com
   - DOMAIN-SUFFIX,nexus.ensighten.com
   - DOMAIN-SUFFIX,nexus.passport.com
   - DOMAIN-SUFFIX,nexusedgeio.com
@@ -80166,7 +80147,6 @@ payload:
   - DOMAIN-SUFFIX,p-store.rakuten.co.jp
   - DOMAIN-SUFFIX,p.biz
   - DOMAIN-SUFFIX,p.bstarstatic.com
-  - DOMAIN-SUFFIX,p.cdn.persaas.dell.com
   - DOMAIN-SUFFIX,p.imgur.com
   - DOMAIN-SUFFIX,p.jwpcdn.com
   - DOMAIN-SUFFIX,p.placed.com
@@ -87735,6 +87715,7 @@ payload:
   - DOMAIN-SUFFIX,s-xsenyuan.com
   - DOMAIN-SUFFIX,s-yue.com
   - DOMAIN-SUFFIX,s-zone.com
+  - DOMAIN-SUFFIX,s.360.cn
   - DOMAIN-SUFFIX,s.4pda.to
   - DOMAIN-SUFFIX,s.aolcdn.com
   - DOMAIN-SUFFIX,s.bit.ly
@@ -88611,7 +88592,6 @@ payload:
   - DOMAIN-SUFFIX,sceeo.com
   - DOMAIN-SUFFIX,sceia.org
   - DOMAIN-SUFFIX,scemrq.com
-  - DOMAIN-SUFFIX,scene7-cdn.dell.com
   - DOMAIN-SUFFIX,scengine.com
   - DOMAIN-SUFFIX,scenictc.com
   - DOMAIN-SUFFIX,scensmart.com
@@ -92413,7 +92393,6 @@ payload:
   - DOMAIN-SUFFIX,si-era.com
   - DOMAIN-SUFFIX,si-in.com
   - DOMAIN-SUFFIX,si-win.com
-  - DOMAIN-SUFFIX,si.cdn.dell.com
   - DOMAIN-SUFFIX,si.edu
   - DOMAIN-SUFFIX,si.playstation.com
   - DOMAIN-SUFFIX,sia1995.net
@@ -93390,7 +93369,6 @@ payload:
   - DOMAIN-SUFFIX,sm-check.com
   - DOMAIN-SUFFIX,sm-cq.com
   - DOMAIN-SUFFIX,sm-main.com
-  - DOMAIN-SUFFIX,sm.dell.com
   - DOMAIN-SUFFIX,sm.ign.com
   - DOMAIN-SUFFIX,sm0.fun
   - DOMAIN-SUFFIX,sm160.com
@@ -93731,9 +93709,7 @@ payload:
   - DOMAIN-SUFFIX,snowkey.com
   - DOMAIN-SUFFIX,snowlotusgroup.com
   - DOMAIN-SUFFIX,snowyimall.com
-  - DOMAIN-SUFFIX,snp.cdn.dell.com
   - DOMAIN-SUFFIX,snpac.com
-  - DOMAIN-SUFFIX,snpi.dell.com
   - DOMAIN-SUFFIX,snps.tech
   - DOMAIN-SUFFIX,snptc.com
   - DOMAIN-SUFFIX,snrat.com
@@ -96024,7 +96000,6 @@ payload:
   - DOMAIN-SUFFIX,support.xbox.com
   - DOMAIN-SUFFIX,support2.kaspersky.com
   - DOMAIN-SUFFIX,support2.xbox.com
-  - DOMAIN-SUFFIX,supportassist.dell.com
   - DOMAIN-SUFFIX,supportdev.cryptopia.co.nz
   - DOMAIN-SUFFIX,supportuat.xbox.com
   - DOMAIN-SUFFIX,supreme-oe.com
@@ -101054,7 +101029,6 @@ payload:
   - DOMAIN-SUFFIX,tp-data.com
   - DOMAIN-SUFFIX,tp-emea.exactag.com
   - DOMAIN-SUFFIX,tp-hivi.com
-  - DOMAIN-SUFFIX,tp.louisvuitton.com
   - DOMAIN-SUFFIX,tp24.com
   - DOMAIN-SUFFIX,tp82.com
   - DOMAIN-SUFFIX,tpadx.com
@@ -103271,7 +103245,6 @@ payload:
   - DOMAIN-SUFFIX,upkao.com
   - DOMAIN-SUFFIX,upkk.com
   - DOMAIN-SUFFIX,upkuajing.com
-  - DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN-SUFFIX,upload.blog.naver.com
   - DOMAIN-SUFFIX,upload.dcinside.com
   - DOMAIN-SUFFIX,upload.facebook.com
@@ -109203,7 +109176,6 @@ payload:
   - DOMAIN-SUFFIX,www-admin.sonymobile.com
   - DOMAIN-SUFFIX,www-api.dji.com
   - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
-  - DOMAIN-SUFFIX,www-csb.dell.com
   - DOMAIN-SUFFIX,www-file.huawei.com
   - DOMAIN-SUFFIX,www-jabuank-co-jp.net
   - DOMAIN-SUFFIX,www-origin.twitch.tv
@@ -109509,7 +109481,6 @@ payload:
   - DOMAIN-SUFFIX,www.dealersocket.com
   - DOMAIN-SUFFIX,www.definitions.net
   - DOMAIN-SUFFIX,www.dell-brand.com
-  - DOMAIN-SUFFIX,www.dell.com
   - DOMAIN-SUFFIX,www.demandbase.com
   - DOMAIN-SUFFIX,www.den.cdn.survey.medallia.com
   - DOMAIN-SUFFIX,www.developers.medium.com
