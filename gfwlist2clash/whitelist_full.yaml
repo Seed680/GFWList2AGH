@@ -2648,6 +2648,7 @@ payload:
   - DOMAIN-SUFFIX,1f71060e75b35349.com
   - DOMAIN-SUFFIX,1fangchan.com
   - DOMAIN-SUFFIX,1fgqfml.oloadcdn.net
+  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
   - DOMAIN-SUFFIX,1gaifang.com
@@ -22418,6 +22419,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.paddle.com
   - DOMAIN-SUFFIX,cdn.pardot.com
   - DOMAIN-SUFFIX,cdn.pcbeta.attachment.inimc.com
+  - DOMAIN-SUFFIX,cdn.pcbeta.css.inimc.com
   - DOMAIN-SUFFIX,cdn.pcbeta.static.inimc.com
   - DOMAIN-SUFFIX,cdn.pdst.fm
   - DOMAIN-SUFFIX,cdn.pendo.io
