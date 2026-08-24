@@ -2585,6 +2585,7 @@ payload:
   - DOMAIN-SUFFIX,5zxkdat6t8.com
   - DOMAIN-SUFFIX,6-ar.com
   - DOMAIN-SUFFIX,6-partner.com
+  - DOMAIN-SUFFIX,6.club
   - DOMAIN-SUFFIX,6.cn
   - DOMAIN-SUFFIX,6000brixtix.com
   - DOMAIN-SUFFIX,6000function.com
@@ -56933,6 +56934,7 @@ payload:
   - DOMAIN-SUFFIX,m8qk101065.com
   - DOMAIN-SUFFIX,m8winvip.com
   - DOMAIN-SUFFIX,m8winvnd.com
+  - DOMAIN-SUFFIX,m8winvnn.com
   - DOMAIN-SUFFIX,m8ysv4ckls.com
   - DOMAIN-SUFFIX,m9853.com
   - DOMAIN-SUFFIX,m9sm6th48c.com
@@ -88695,7 +88697,6 @@ payload:
   - DOMAIN-SUFFIX,taison3.club
   - DOMAIN-SUFFIX,taison4.club
   - DOMAIN-SUFFIX,taison5.club
-  - DOMAIN-SUFFIX,taison6.club
   - DOMAIN-SUFFIX,taison7.club
   - DOMAIN-SUFFIX,taison8.club
   - DOMAIN-SUFFIX,taison9.club
@@ -101510,7 +101511,6 @@ payload:
   - DOMAIN-SUFFIX,winvn15.com
   - DOMAIN-SUFFIX,winvn17.com
   - DOMAIN-SUFFIX,winvn18.com
-  - DOMAIN-SUFFIX,winvnn.com
   - DOMAIN-SUFFIX,winwhispers.info
   - DOMAIN-SUFFIX,winwinsave.com
   - DOMAIN-SUFFIX,winwintechnology.com

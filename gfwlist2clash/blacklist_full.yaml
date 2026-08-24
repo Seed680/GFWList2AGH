@@ -2919,6 +2919,7 @@ payload:
   - DOMAIN-SUFFIX,5zxkdat6t8.com
   - DOMAIN-SUFFIX,6-ar.com
   - DOMAIN-SUFFIX,6-partner.com
+  - DOMAIN-SUFFIX,6.club
   - DOMAIN-SUFFIX,6.cn
   - DOMAIN-SUFFIX,6000brixtix.com
   - DOMAIN-SUFFIX,6000function.com
@@ -88170,7 +88171,6 @@ payload:
   - DOMAIN-SUFFIX,m883d.com
   - DOMAIN-SUFFIX,m88my.com
   - DOMAIN-SUFFIX,m88vina.com
-  - DOMAIN-SUFFIX,m8active.tc.skysrt.com
   - DOMAIN-SUFFIX,m8bet.net
   - DOMAIN-SUFFIX,m8h5qjmlb3.com
   - DOMAIN-SUFFIX,m8l0ka.cn
@@ -88178,6 +88178,7 @@ payload:
   - DOMAIN-SUFFIX,m8qk101065.com
   - DOMAIN-SUFFIX,m8winvip.com
   - DOMAIN-SUFFIX,m8winvnd.com
+  - DOMAIN-SUFFIX,m8winvnn.com
   - DOMAIN-SUFFIX,m8ysv4ckls.com
   - DOMAIN-SUFFIX,m9.xcdf.cn
   - DOMAIN-SUFFIX,m947.oadz.com
@@ -140260,10 +140261,10 @@ payload:
   - DOMAIN-SUFFIX,taison3.club
   - DOMAIN-SUFFIX,taison4.club
   - DOMAIN-SUFFIX,taison5.club
-  - DOMAIN-SUFFIX,taison6.club
   - DOMAIN-SUFFIX,taison7.club
   - DOMAIN-SUFFIX,taison8.club
   - DOMAIN-SUFFIX,taison9.club
+  - DOMAIN-SUFFIX,taisonactive.tc.skysrt.com
   - DOMAIN-SUFFIX,taisounds.com
   - DOMAIN-SUFFIX,taisum.ac
   - DOMAIN-SUFFIX,taisun52.fun
@@ -160062,7 +160063,6 @@ payload:
   - DOMAIN-SUFFIX,winvn15.com
   - DOMAIN-SUFFIX,winvn17.com
   - DOMAIN-SUFFIX,winvn18.com
-  - DOMAIN-SUFFIX,winvnn.com
   - DOMAIN-SUFFIX,winwhispers.info
   - DOMAIN-SUFFIX,winwinsave.com
   - DOMAIN-SUFFIX,winwintechnology.com
