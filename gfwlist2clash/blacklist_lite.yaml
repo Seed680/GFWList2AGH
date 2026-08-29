@@ -389,6 +389,7 @@ payload:
   - DOMAIN-SUFFIX,11win.mx
   - DOMAIN-SUFFIX,11win.net
   - DOMAIN-SUFFIX,11win.skin
+  - DOMAIN-SUFFIX,11win.style
   - DOMAIN-SUFFIX,11win.tips
   - DOMAIN-SUFFIX,11win.vin
   - DOMAIN-SUFFIX,11win.works
@@ -1739,6 +1740,7 @@ payload:
   - DOMAIN-SUFFIX,3bet.biz
   - DOMAIN-SUFFIX,3bet.center
   - DOMAIN-SUFFIX,3bet.city
+  - DOMAIN-SUFFIX,3bet.fund
   - DOMAIN-SUFFIX,3bet.host
   - DOMAIN-SUFFIX,3bet.la
   - DOMAIN-SUFFIX,3bet.llc
@@ -2077,7 +2079,6 @@ payload:
   - DOMAIN-SUFFIX,4ba48a7822.com
   - DOMAIN-SUFFIX,4bluestones.biz
   - DOMAIN-SUFFIX,4bo5t8fzd.com
-  - DOMAIN-SUFFIX,4br824ktty.com
   - DOMAIN-SUFFIX,4buy.net
   - DOMAIN-SUFFIX,4c.ru
   - DOMAIN-SUFFIX,4c0wa2ml2f.com
@@ -3870,6 +3871,7 @@ payload:
   - DOMAIN-SUFFIX,9bet.diy
   - DOMAIN-SUFFIX,9bet.fund
   - DOMAIN-SUFFIX,9bet.green
+  - DOMAIN-SUFFIX,9bet.krd
   - DOMAIN-SUFFIX,9bet.mobi
   - DOMAIN-SUFFIX,9bet.net
   - DOMAIN-SUFFIX,9bet.photo
@@ -12338,7 +12340,6 @@ payload:
   - DOMAIN-SUFFIX,beelinecolor.com
   - DOMAIN-SUFFIX,beelinehindu.com
   - DOMAIN-SUFFIX,beemray.com
-  - DOMAIN-SUFFIX,beemrdwn.com
   - DOMAIN-SUFFIX,beencoriqvcep.site
   - DOMAIN-SUFFIX,beenover.com
   - DOMAIN-SUFFIX,beepergaily.com
@@ -19176,7 +19177,6 @@ payload:
   - DOMAIN-SUFFIX,chianxv.buzz
   - DOMAIN-SUFFIX,chiashake.cz
   - DOMAIN-SUFFIX,chiasmiraisers.com
-  - DOMAIN-SUFFIX,chibakan-yachiyo.net
   - DOMAIN-SUFFIX,chibi.sh
   - DOMAIN-SUFFIX,chic9usia.com
   - DOMAIN-SUFFIX,chicagobusiness.com
@@ -28094,6 +28094,7 @@ payload:
   - DOMAIN-SUFFIX,du88.in
   - DOMAIN-SUFFIX,du88.info
   - DOMAIN-SUFFIX,du88.life
+  - DOMAIN-SUFFIX,du88.mba
   - DOMAIN-SUFFIX,du88.pro
   - DOMAIN-SUFFIX,du88.rent
   - DOMAIN-SUFFIX,du88.sh
@@ -29434,7 +29435,6 @@ payload:
   - DOMAIN-SUFFIX,edgemeplease.com
   - DOMAIN-SUFFIX,edgenuity.com
   - DOMAIN-SUFFIX,edgepark.com
-  - DOMAIN-SUFFIX,edgestar.com
   - DOMAIN-SUFFIX,edgevertise.com
   - DOMAIN-SUFFIX,edible-sort.pro
   - DOMAIN-SUFFIX,edictfarther.shop
@@ -31684,7 +31684,6 @@ payload:
   - DOMAIN-SUFFIX,europepmc.org
   - DOMAIN-SUFFIX,europornstar.com
   - DOMAIN-SUFFIX,europrogres.fr
-  - DOMAIN-SUFFIX,europuls.eu
   - DOMAIN-SUFFIX,europuls.net
   - DOMAIN-SUFFIX,eurorelais.nl
   - DOMAIN-SUFFIX,euros4click.de
@@ -37056,6 +37055,7 @@ payload:
   - DOMAIN-SUFFIX,g6ird1tez2.com
   - DOMAIN-SUFFIX,g6x2uvza37.com
   - DOMAIN-SUFFIX,g71i1.cn
+  - DOMAIN-SUFFIX,g77776666.com
   - DOMAIN-SUFFIX,g792337340.co
   - DOMAIN-SUFFIX,g792337342.co
   - DOMAIN-SUFFIX,g792337343.co
@@ -41446,7 +41446,6 @@ payload:
   - DOMAIN-SUFFIX,harrenmedianetwork.com
   - DOMAIN-SUFFIX,harridaphizog.com
   - DOMAIN-SUFFIX,harrisbank.com
-  - DOMAIN-SUFFIX,harrishealthcare.com
   - DOMAIN-SUFFIX,harrisproductsgroup.com
   - DOMAIN-SUFFIX,harrods.com
   - DOMAIN-SUFFIX,harryanddavid.com
@@ -41634,6 +41633,7 @@ payload:
   - DOMAIN-SUFFIX,hbet.sh
   - DOMAIN-SUFFIX,hbet.so
   - DOMAIN-SUFFIX,hbet.spa
+  - DOMAIN-SUFFIX,hbet.srl
   - DOMAIN-SUFFIX,hbet.vc
   - DOMAIN-SUFFIX,hbet.win
   - DOMAIN-SUFFIX,hbf23.cn
@@ -50866,6 +50866,7 @@ payload:
   - DOMAIN-SUFFIX,k88.mobi
   - DOMAIN-SUFFIX,k88.moe
   - DOMAIN-SUFFIX,k88.mov
+  - DOMAIN-SUFFIX,k88.now
   - DOMAIN-SUFFIX,k88.nz
   - DOMAIN-SUFFIX,k88.pro
   - DOMAIN-SUFFIX,k88.soy
@@ -56172,6 +56173,7 @@ payload:
   - DOMAIN-SUFFIX,lu88.com
   - DOMAIN-SUFFIX,lu88.de
   - DOMAIN-SUFFIX,lu88.ec
+  - DOMAIN-SUFFIX,lu88.foo
   - DOMAIN-SUFFIX,lu88.gd
   - DOMAIN-SUFFIX,lu88.gdn
   - DOMAIN-SUFFIX,lu88.kim
@@ -57239,6 +57241,7 @@ payload:
   - DOMAIN-SUFFIX,man88.vip
   - DOMAIN-SUFFIX,man88.vu
   - DOMAIN-SUFFIX,man88.win
+  - DOMAIN-SUFFIX,man88.wtf
   - DOMAIN-SUFFIX,man88.xin
   - DOMAIN-SUFFIX,manabiz.jp
   - DOMAIN-SUFFIX,managed-pki.ch
@@ -61719,6 +61722,7 @@ payload:
   - DOMAIN-SUFFIX,mubet.media
   - DOMAIN-SUFFIX,mubet.sh
   - DOMAIN-SUFFIX,mubet.talk
+  - DOMAIN-SUFFIX,mubet.tips
   - DOMAIN-SUFFIX,mubet.video
   - DOMAIN-SUFFIX,mubet.vip
   - DOMAIN-SUFFIX,mubet.website
@@ -68820,7 +68824,6 @@ payload:
   - DOMAIN-SUFFIX,owltrack.com
   - DOMAIN-SUFFIX,owlunimmvn.com
   - DOMAIN-SUFFIX,owmgwqdbyv.com
-  - DOMAIN-SUFFIX,own.tv
   - DOMAIN-SUFFIX,owncast.online
   - DOMAIN-SUFFIX,owndangle.com
   - DOMAIN-SUFFIX,owndata.network
@@ -74166,6 +74169,7 @@ payload:
   - DOMAIN-SUFFIX,pub88.camera
   - DOMAIN-SUFFIX,pub88.channel
   - DOMAIN-SUFFIX,pub88.charity
+  - DOMAIN-SUFFIX,pub88.college
   - DOMAIN-SUFFIX,pub88.com
   - DOMAIN-SUFFIX,pub88.day
   - DOMAIN-SUFFIX,pub88.forum
@@ -77523,6 +77527,7 @@ payload:
   - DOMAIN-SUFFIX,remixbistro.com
   - DOMAIN-SUFFIX,remixshop.com
   - DOMAIN-SUFFIX,remixslot.com
+  - DOMAIN-SUFFIX,remna.st
   - DOMAIN-SUFFIX,remnanttrickyoccurrence.com
   - DOMAIN-SUFFIX,remobiz.jp
   - DOMAIN-SUFFIX,remorseful-foot.com
@@ -93515,6 +93520,7 @@ payload:
   - DOMAIN-SUFFIX,tx88.download
   - DOMAIN-SUFFIX,tx88.fan
   - DOMAIN-SUFFIX,tx88.fashion
+  - DOMAIN-SUFFIX,tx88.free
   - DOMAIN-SUFFIX,tx88.fun
   - DOMAIN-SUFFIX,tx88.fund
   - DOMAIN-SUFFIX,tx88.fyi
@@ -96835,6 +96841,7 @@ payload:
   - DOMAIN-SUFFIX,vicaryhicatee.com
   - DOMAIN-SUFFIX,vicclub.ac
   - DOMAIN-SUFFIX,vicclub.id
+  - DOMAIN-SUFFIX,vicclub.mx
   - DOMAIN-SUFFIX,vicclub.sh
   - DOMAIN-SUFFIX,vice.com
   - DOMAIN-SUFFIX,vice4beek.com
@@ -98653,6 +98660,7 @@ payload:
   - DOMAIN-SUFFIX,vtzmfhdyaemzg.online
   - DOMAIN-SUFFIX,vtzubx.icu
   - DOMAIN-SUFFIX,vu88.ac
+  - DOMAIN-SUFFIX,vu88.best
   - DOMAIN-SUFFIX,vu88.com
   - DOMAIN-SUFFIX,vu88.cz
   - DOMAIN-SUFFIX,vu88.de
@@ -102083,6 +102091,7 @@ payload:
   - DOMAIN-SUFFIX,wristample.com
   - DOMAIN-SUFFIX,wristicalit.com
   - DOMAIN-SUFFIX,wristseeingscald.com
+  - DOMAIN-SUFFIX,write.as
   - DOMAIN-SUFFIX,writehopedcrashed.com
   - DOMAIN-SUFFIX,writerfuneral.com
   - DOMAIN-SUFFIX,writerhubs.com
@@ -103123,6 +103132,7 @@ payload:
   - DOMAIN-SUFFIX,xibet.vu
   - DOMAIN-SUFFIX,xibet.win
   - DOMAIN-SUFFIX,xibet.wtf
+  - DOMAIN-SUFFIX,xibet.you
   - DOMAIN-SUFFIX,xibuvdzihpjlrq.com
   - DOMAIN-SUFFIX,xibvdjz2x2.com
   - DOMAIN-SUFFIX,xicato.com
@@ -105046,6 +105056,7 @@ payload:
   - DOMAIN-SUFFIX,yhy.cool
   - DOMAIN-SUFFIX,yhyuxrfbsweho.site
   - DOMAIN-SUFFIX,yhzbjz.com
+  - DOMAIN-SUFFIX,yhzm.cc
   - DOMAIN-SUFFIX,yhzofhfjcynkg.site
   - DOMAIN-SUFFIX,yibada.com
   - DOMAIN-SUFFIX,yibaochina.com
