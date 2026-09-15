@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,0.myikas.com
   - DOMAIN-SUFFIX,0.net.easyjet.com
   - DOMAIN-SUFFIX,0.r.msn.com
   - DOMAIN-SUFFIX,0.up.qingdaonews.com
@@ -7598,7 +7599,6 @@ payload:
   - DOMAIN-SUFFIX,a8clk.kihada.jp
   - DOMAIN-SUFFIX,a8clk.komochikon.jp
   - DOMAIN-SUFFIX,a8clk.kyoyu-mochibun.com
-  - DOMAIN-SUFFIX,a8clk.label-seal-print.com
   - DOMAIN-SUFFIX,a8clk.lasana.co.jp
   - DOMAIN-SUFFIX,a8clk.laundry-out.jp
   - DOMAIN-SUFFIX,a8clk.lens-1.jp
@@ -9617,7 +9617,6 @@ payload:
   - DOMAIN-SUFFIX,active-trk7.com
   - DOMAIN-SUFFIX,active.baofeng.com
   - DOMAIN-SUFFIX,active.sangfor.com
-  - DOMAIN-SUFFIX,active.tc.skysrt.com
   - DOMAIN-SUFFIX,active24stats.nl
   - DOMAIN-SUFFIX,activearcade.ai
   - DOMAIN-SUFFIX,activecommunities.com
@@ -15082,7 +15081,6 @@ payload:
   - DOMAIN-SUFFIX,analytics-stage.wildberries.ru
   - DOMAIN-SUFFIX,analytics-stamp.confi.com.vc
   - DOMAIN-SUFFIX,analytics-static.ugc.bazaarvoice.com
-  - DOMAIN-SUFFIX,analytics-tracker.thescore.com
   - DOMAIN-SUFFIX,analytics-tracking.meetup.com
   - DOMAIN-SUFFIX,analytics-union.sandai.net
   - DOMAIN-SUFFIX,analytics-union.xunlei.com
@@ -23748,7 +23746,6 @@ payload:
   - DOMAIN-SUFFIX,bimseeker.com
   - DOMAIN-SUFFIX,bimsource.com
   - DOMAIN-SUFFIX,bimsplus24.pl
-  - DOMAIN-SUFFIX,bimvid.com
   - DOMAIN-SUFFIX,bimworld.com
   - DOMAIN-SUFFIX,bin-layer.de
   - DOMAIN-SUFFIX,bin-tds.site
@@ -34518,7 +34515,6 @@ payload:
   - DOMAIN-SUFFIX,communicate.lightningprotection.com
   - DOMAIN-SUFFIX,communicate.prnewswire.co.uk
   - DOMAIN-SUFFIX,communicate.prnewswire.com
-  - DOMAIN-SUFFIX,communicatedroopcomer.com
   - DOMAIN-SUFFIX,communicatedsuitcompartment.com
   - DOMAIN-SUFFIX,communicatefriction.com
   - DOMAIN-SUFFIX,communicatelp.keysight.com
@@ -49815,7 +49811,6 @@ payload:
   - DOMAIN-SUFFIX,email-rapidmail.branch.rocks
   - DOMAIN-SUFFIX,email-reflex.com
   - DOMAIN-SUFFIX,email-sailthru.branch.io
-  - DOMAIN-SUFFIX,email-selligent.branch.rocks
   - DOMAIN-SUFFIX,email-sender.branch.rocks
   - DOMAIN-SUFFIX,email-sendgrid.branch.rocks
   - DOMAIN-SUFFIX,email-simple-sailthru.branch.rocks
@@ -53581,7 +53576,6 @@ payload:
   - DOMAIN-SUFFIX,fakeorfoto.com
   - DOMAIN-SUFFIX,fakeorphoto.com
   - DOMAIN-SUFFIX,fakers.co.jp
-  - DOMAIN-SUFFIX,fakerymethod.shop
   - DOMAIN-SUFFIX,fakeschool.com
   - DOMAIN-SUFFIX,fakescience.news
   - DOMAIN-SUFFIX,faketaxi.com
@@ -58419,7 +58413,6 @@ payload:
   - DOMAIN-SUFFIX,fzczw7.site
   - DOMAIN-SUFFIX,fzddxwb7y3.com
   - DOMAIN-SUFFIX,fzdfwy.com
-  - DOMAIN-SUFFIX,fzdimble.com
   - DOMAIN-SUFFIX,fzdm.com
   - DOMAIN-SUFFIX,fzdshare.net
   - DOMAIN-SUFFIX,fzdwntsrbrodu.space
@@ -68681,7 +68674,6 @@ payload:
   - DOMAIN-SUFFIX,hwlbjqmqcmqfj.site
   - DOMAIN-SUFFIX,hwlc.ac.uk
   - DOMAIN-SUFFIX,hwlln.ac.uk
-  - DOMAIN-SUFFIX,hwlwuwdcvakal.site
   - DOMAIN-SUFFIX,hwmwin.com
   - DOMAIN-SUFFIX,hwmwovselgest.space
   - DOMAIN-SUFFIX,hwnmhi.sunbeltrentals.com
@@ -76508,7 +76500,6 @@ payload:
   - DOMAIN-SUFFIX,jlcwkxglaziun.site
   - DOMAIN-SUFFIX,jldsfd.icu
   - DOMAIN-SUFFIX,jldtlh.fashionnova.com
-  - DOMAIN-SUFFIX,jlecgcsdbleti.online
   - DOMAIN-SUFFIX,jlfdfodxejpxt.space
   - DOMAIN-SUFFIX,jlffeu.nadula.com
   - DOMAIN-SUFFIX,jlfiber.advancedtech.com
@@ -80995,7 +80986,6 @@ payload:
   - DOMAIN-SUFFIX,labanquepostale.fr
   - DOMAIN-SUFFIX,labcorp.com
   - DOMAIN-SUFFIX,labdepotinc.com
-  - DOMAIN-SUFFIX,label-seal-print.com
   - DOMAIN-SUFFIX,labeldollars.com
   - DOMAIN-SUFFIX,labelhabitation.com
   - DOMAIN-SUFFIX,labelleadresse.com
@@ -82060,7 +82050,6 @@ payload:
   - DOMAIN-SUFFIX,leasehawk.com
   - DOMAIN-SUFFIX,leasing.com
   - DOMAIN-SUFFIX,leasingmarkt.de
-  - DOMAIN-SUFFIX,leasingtime.de
   - DOMAIN-SUFFIX,leasonable.com
   - DOMAIN-SUFFIX,leasy.com
   - DOMAIN-SUFFIX,leasy.se
@@ -97923,6 +97912,7 @@ payload:
   - DOMAIN-SUFFIX,myiee.com
   - DOMAIN-SUFFIX,myieldell.com
   - DOMAIN-SUFFIX,myijgzvgluvai.site
+  - DOMAIN-SUFFIX,myikas.com
   - DOMAIN-SUFFIX,myinfo.borland.com
   - DOMAIN-SUFFIX,myinfo.eaton.com
   - DOMAIN-SUFFIX,myiosiskutch.shop
@@ -100341,7 +100331,6 @@ payload:
   - DOMAIN-SUFFIX,ngcjqomtyvdhl.site
   - DOMAIN-SUFFIX,ngd2rf6mqe.com
   - DOMAIN-SUFFIX,ngdrld.icu
-  - DOMAIN-SUFFIX,ngds.sap.com
   - DOMAIN-SUFFIX,ngdwfgdpfgawh.site
   - DOMAIN-SUFFIX,ngegas.files.im
   - DOMAIN-SUFFIX,ngegyhsuaylyj.site
@@ -106797,6 +106786,7 @@ payload:
   - DOMAIN-SUFFIX,p100.io
   - DOMAIN-SUFFIX,p12acx.com
   - DOMAIN-SUFFIX,p15vjj3og.com
+  - DOMAIN-SUFFIX,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
   - DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net
   - DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net.iberostar.com
   - DOMAIN-SUFFIX,p188.cn
@@ -136741,6 +136731,9 @@ payload:
   - DOMAIN-SUFFIX,stripe-terminal-local-reader.net
   - DOMAIN-SUFFIX,stripe.ac.uk
   - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.dev
+  - DOMAIN-SUFFIX,stripe.events
+  - DOMAIN-SUFFIX,stripe.global
   - DOMAIN-SUFFIX,stripecdn.com
   - DOMAIN-SUFFIX,stripedbat.com
   - DOMAIN-SUFFIX,stripparadise.com
@@ -138842,7 +138835,6 @@ payload:
   - DOMAIN-SUFFIX,t.bd.nl
   - DOMAIN-SUFFIX,t.beibeia.top
   - DOMAIN-SUFFIX,t.beop.io
-  - DOMAIN-SUFFIX,t.bimvid.com
   - DOMAIN-SUFFIX,t.biooncology.com
   - DOMAIN-SUFFIX,t.birchlane.com
   - DOMAIN-SUFFIX,t.blablacar.com
@@ -141874,7 +141866,6 @@ payload:
   - DOMAIN-SUFFIX,thesaurusdefrostwoodlands.com
   - DOMAIN-SUFFIX,thescenseproject.com
   - DOMAIN-SUFFIX,thesconi.com
-  - DOMAIN-SUFFIX,thescore.com
   - DOMAIN-SUFFIX,thescottishsun.co.uk
   - DOMAIN-SUFFIX,these-organization.pro
   - DOMAIN-SUFFIX,thesearchagency.actonservice.com
@@ -150952,7 +150943,6 @@ payload:
   - DOMAIN-SUFFIX,uppromote.com
   - DOMAIN-SUFFIX,uppropsclub.shop
   - DOMAIN-SUFFIX,upqdazjgizzfl.space
-  - DOMAIN-SUFFIX,upqmpu.leasingtime.de
   - DOMAIN-SUFFIX,upravel.com
   - DOMAIN-SUFFIX,upress.io
   - DOMAIN-SUFFIX,uprightbent.com
@@ -160240,7 +160230,6 @@ payload:
   - DOMAIN-SUFFIX,wpunkt.newsweek.pl
   - DOMAIN-SUFFIX,wpush.biz
   - DOMAIN-SUFFIX,wpush.org
-  - DOMAIN-SUFFIX,wpushorg.com
   - DOMAIN-SUFFIX,wpushsdk.com
   - DOMAIN-SUFFIX,wpvfgueiphgnw.space
   - DOMAIN-SUFFIX,wpvip.com
