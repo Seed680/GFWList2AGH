@@ -43488,7 +43488,6 @@ payload:
   - DOMAIN-SUFFIX,glclcsy.com
   - DOMAIN-SUFFIX,gldaewoo.com
   - DOMAIN-SUFFIX,gldjc.com
-  - DOMAIN-SUFFIX,gle.cv
   - DOMAIN-SUFFIX,gleam.io
   - DOMAIN-SUFFIX,gleasy.com
   - DOMAIN-SUFFIX,glecan.com
@@ -109303,7 +109302,6 @@ payload:
   - DOMAIN-SUFFIX,www.gogoanime.io
   - DOMAIN-SUFFIX,www.gokano.com
   - DOMAIN-SUFFIX,www.goldmoney.com
-  - DOMAIN-SUFFIX,www.goo360.cn
   - DOMAIN-SUFFIX,www.goodolddownloads.com
   - DOMAIN-SUFFIX,www.goodreads.com
   - DOMAIN-SUFFIX,www.google-analytics.com
@@ -109419,6 +109417,7 @@ payload:
   - DOMAIN-SUFFIX,www.google.com.vc
   - DOMAIN-SUFFIX,www.google.com.ve
   - DOMAIN-SUFFIX,www.google.com.vn
+  - DOMAIN-SUFFIX,www.google.cv
   - DOMAIN-SUFFIX,www.google.cz
   - DOMAIN-SUFFIX,www.google.de
   - DOMAIN-SUFFIX,www.google.dj
