@@ -56123,7 +56123,6 @@ payload:
   - DOMAIN-SUFFIX,idgeeks.net
   - DOMAIN-SUFFIX,idgou.com
   - DOMAIN-SUFFIX,idgvc.com
-  - DOMAIN-SUFFIX,idia.com
   - DOMAIN-SUFFIX,idianchou.com
   - DOMAIN-SUFFIX,idianfa.com
   - DOMAIN-SUFFIX,idiankj.com
@@ -85903,7 +85902,7 @@ payload:
   - DOMAIN-SUFFIX,rdplat.com
   - DOMAIN-SUFFIX,rdqczl.com
   - DOMAIN-SUFFIX,rdqh.com
-  - DOMAIN-SUFFIX,rds-assets.nv360.cn
+  - DOMAIN-SUFFIX,rds-assets.nvidia.com
   - DOMAIN-SUFFIX,rdsdk.com
   - DOMAIN-SUFFIX,rdsig.yahoo.co.jp
   - DOMAIN-SUFFIX,rdsms.net
