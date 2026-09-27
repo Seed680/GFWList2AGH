@@ -3380,6 +3380,7 @@ payload:
   - DOMAIN-SUFFIX,772773a.com
   - DOMAIN-SUFFIX,7744789.com
   - DOMAIN-SUFFIX,77455.com
+  - DOMAIN-SUFFIX,7759.com
   - DOMAIN-SUFFIX,776.jstatic.xyz
   - DOMAIN-SUFFIX,777-partner.com
   - DOMAIN-SUFFIX,777-partner.net
@@ -9660,6 +9661,7 @@ payload:
   - DOMAIN-SUFFIX,active-trk7.com
   - DOMAIN-SUFFIX,active.baofeng.com
   - DOMAIN-SUFFIX,active.sangfor.com
+  - DOMAIN-SUFFIX,active.tc.skysrt.com
   - DOMAIN-SUFFIX,active24stats.nl
   - DOMAIN-SUFFIX,activearcade.ai
   - DOMAIN-SUFFIX,activecommunities.com
@@ -18793,7 +18795,6 @@ payload:
   - DOMAIN-SUFFIX,asimgs.pplive.cn
   - DOMAIN-SUFFIX,asimov-win.settings.data.microsoft.com.akadns.net
   - DOMAIN-SUFFIX,asinlovewiththem.org
-  - DOMAIN-SUFFIX,asino.com
   - DOMAIN-SUFFIX,asistente.christus.mx
   - DOMAIN-SUFFIX,asitend.com
   - DOMAIN-SUFFIX,asjitqwjvodhr.site
@@ -74979,6 +74980,7 @@ payload:
   - DOMAIN-SUFFIX,ipekevi.com
   - DOMAIN-SUFFIX,ipem.ac.uk
   - DOMAIN-SUFFIX,ipengtai.huanqiu.com
+  - DOMAIN-SUFFIX,iper2.com
   - DOMAIN-SUFFIX,iperceptions.com
   - DOMAIN-SUFFIX,ipfighter.com
   - DOMAIN-SUFFIX,ipfind.com
@@ -163744,7 +163746,6 @@ payload:
   - DOMAIN-SUFFIX,www.bootcdn.cn
   - DOMAIN-SUFFIX,www.bootcdn.net
   - DOMAIN-SUFFIX,www.bootcss.com
-  - DOMAIN-SUFFIX,www.botbcactive.tc.skysrt.com
   - DOMAIN-SUFFIX,www.bovada.lv
   - DOMAIN-SUFFIX,www.boxercrazy.org
   - DOMAIN-SUFFIX,www.boylesports.com
