@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,0.myikas.com
   - DOMAIN-SUFFIX,0.net.easyjet.com
   - DOMAIN-SUFFIX,0.r.msn.com
   - DOMAIN-SUFFIX,0.up.qingdaonews.com
@@ -1185,7 +1184,6 @@ payload:
   - DOMAIN-SUFFIX,2.bashenghuo.com
   - DOMAIN-SUFFIX,2.haoxue360.com
   - DOMAIN-SUFFIX,2.letvlive.com
-  - DOMAIN-SUFFIX,2.net
   - DOMAIN-SUFFIX,2.up.qingdaonews.com
   - DOMAIN-SUFFIX,2.wantsext.me
   - DOMAIN-SUFFIX,2.win7china.com
@@ -1342,6 +1340,7 @@ payload:
   - DOMAIN-SUFFIX,22bet.com
   - DOMAIN-SUFFIX,22betpartners.com
   - DOMAIN-SUFFIX,22blqkmkg.de
+  - DOMAIN-SUFFIX,22ccaa.com
   - DOMAIN-SUFFIX,22ee88.com
   - DOMAIN-SUFFIX,22eo9qlbpt.com
   - DOMAIN-SUFFIX,22hgc.com
@@ -2003,6 +2002,7 @@ payload:
   - DOMAIN-SUFFIX,39e6p9p7.de
   - DOMAIN-SUFFIX,39group.info
   - DOMAIN-SUFFIX,39q0imqo0.com
+  - DOMAIN-SUFFIX,3a2ffd59df.com
   - DOMAIN-SUFFIX,3a3df91b05.com
   - DOMAIN-SUFFIX,3a5a.com
   - DOMAIN-SUFFIX,3aaa.ac.uk
@@ -3532,7 +3532,7 @@ payload:
   - DOMAIN-SUFFIX,78win04.com
   - DOMAIN-SUFFIX,78win07.com
   - DOMAIN-SUFFIX,78win09.com
-  - DOMAIN-SUFFIX,79181531227.con1casino.com
+  - DOMAIN-SUFFIX,79181531227.com
   - DOMAIN-SUFFIX,7926ccc537.com
   - DOMAIN-SUFFIX,7996epzfh.com
   - DOMAIN-SUFFIX,79cm.com
@@ -3980,6 +3980,7 @@ payload:
   - DOMAIN-SUFFIX,8k8k.me
   - DOMAIN-SUFFIX,8k9ynfczfd.com
   - DOMAIN-SUFFIX,8kbet.app
+  - DOMAIN-SUFFIX,8kbet.com
   - DOMAIN-SUFFIX,8kcosplay.com
   - DOMAIN-SUFFIX,8khgnlxk6.com
   - DOMAIN-SUFFIX,8kj1ldt1.de
@@ -5006,7 +5007,7 @@ payload:
   - DOMAIN-SUFFIX,a13389.actonservice.com
   - DOMAIN-SUFFIX,a13398.actonservice.com
   - DOMAIN-SUFFIX,a13404.actonservice.com
-  - DOMAIN-SUFFIX,a13422.actonservice.comaten.com
+  - DOMAIN-SUFFIX,a13422.actonservice.com
   - DOMAIN-SUFFIX,a13425.actonservice.com
   - DOMAIN-SUFFIX,a13460.actonservice.com
   - DOMAIN-SUFFIX,a13472.actonservice.com
@@ -8746,6 +8747,7 @@ payload:
   - DOMAIN-SUFFIX,abc4.com
   - DOMAIN-SUFFIX,abc8.cm
   - DOMAIN-SUFFIX,abc8.cv
+  - DOMAIN-SUFFIX,abcbest.info
   - DOMAIN-SUFFIX,abcd.5lu.com
   - DOMAIN-SUFFIX,abcd.cnhuoche.com
   - DOMAIN-SUFFIX,abcd.coderays.com
@@ -16418,7 +16420,6 @@ payload:
   - DOMAIN-SUFFIX,aosom.ca
   - DOMAIN-SUFFIX,aosom.de
   - DOMAIN-SUFFIX,aosom.it
-  - DOMAIN-SUFFIX,aostreet.com
   - DOMAIN-SUFFIX,aoteasweats.com
   - DOMAIN-SUFFIX,aotewsxzxbnzj.space
   - DOMAIN-SUFFIX,aotourism.com
@@ -16867,7 +16868,6 @@ payload:
   - DOMAIN-SUFFIX,apiswidget.com
   - DOMAIN-SUFFIX,apitiny.net
   - DOMAIN-SUFFIX,apiv4.anythinktech.com
-  - DOMAIN-SUFFIX,apiwmsv288.net
   - DOMAIN-SUFFIX,apiyd.my91app.com
   - DOMAIN-SUFFIX,apizqaczw.com
   - DOMAIN-SUFFIX,apk-dl.com
@@ -34755,7 +34755,6 @@ payload:
   - DOMAIN-SUFFIX,comalonger.com
   - DOMAIN-SUFFIX,comalpanzer.top
   - DOMAIN-SUFFIX,comarind.com
-  - DOMAIN-SUFFIX,comaten.com
   - DOMAIN-SUFFIX,combatefreestyle.com
   - DOMAIN-SUFFIX,combativedetail.com
   - DOMAIN-SUFFIX,combbit.com
@@ -35087,7 +35086,6 @@ payload:
   - DOMAIN-SUFFIX,comunicazioni.bancamediolanum.it
   - DOMAIN-SUFFIX,comunidadmsm.es
   - DOMAIN-SUFFIX,comviewcorp.actonservice.com
-  - DOMAIN-SUFFIX,con1casino.com
   - DOMAIN-SUFFIX,conabi.xjditan.com
   - DOMAIN-SUFFIX,conableensue.shop
   - DOMAIN-SUFFIX,conad.com
@@ -56101,6 +56099,7 @@ payload:
   - DOMAIN-SUFFIX,five88.in
   - DOMAIN-SUFFIX,five88.lc
   - DOMAIN-SUFFIX,five88.my
+  - DOMAIN-SUFFIX,five88.net
   - DOMAIN-SUFFIX,five88.ng
   - DOMAIN-SUFFIX,five88.nl
   - DOMAIN-SUFFIX,five88.ro
@@ -56113,7 +56112,6 @@ payload:
   - DOMAIN-SUFFIX,five88.win
   - DOMAIN-SUFFIX,five88.wine
   - DOMAIN-SUFFIX,five88.world
-  - DOMAIN-SUFFIX,five880contacts.com
   - DOMAIN-SUFFIX,five88chinhhang.com
   - DOMAIN-SUFFIX,fiverr.com
   - DOMAIN-SUFFIX,fivesidedsquare.com
@@ -88555,7 +88553,7 @@ payload:
   - DOMAIN-SUFFIX,m.tiaopimiao.net
   - DOMAIN-SUFFIX,m.tick0.com
   - DOMAIN-SUFFIX,m.tin888.club
-  - DOMAIN-SUFFIX,m.tin888.to2ccaa.com
+  - DOMAIN-SUFFIX,m.tin888.top
   - DOMAIN-SUFFIX,m.tiojk.com
   - DOMAIN-SUFFIX,m.tjiaa.com
   - DOMAIN-SUFFIX,m.tkssw.com
@@ -94779,7 +94777,6 @@ payload:
   - DOMAIN-SUFFIX,metrics3.data.hicloud.com
   - DOMAIN-SUFFIX,metrics4.data.hicloud.com
   - DOMAIN-SUFFIX,metrics5.data.hicloud.com
-  - DOMAIN-SUFFIX,metrics8kbet.com
   - DOMAIN-SUFFIX,metricsdirect.com
   - DOMAIN-SUFFIX,metricsinfo.edc.ca
   - DOMAIN-SUFFIX,metricsinfoqac.edc.ca
@@ -99196,7 +99193,6 @@ payload:
   - DOMAIN-SUFFIX,myieldell.com
   - DOMAIN-SUFFIX,myijgzvgluvai.site
   - DOMAIN-SUFFIX,myijptgjyj.com
-  - DOMAIN-SUFFIX,myikas.com
   - DOMAIN-SUFFIX,myinfo.borland.com
   - DOMAIN-SUFFIX,myinfo.eaton.com
   - DOMAIN-SUFFIX,myip.com
@@ -102865,7 +102861,6 @@ payload:
   - DOMAIN-SUFFIX,norfolkbroads.com
   - DOMAIN-SUFFIX,norfolkcove.ac.uk
   - DOMAIN-SUFFIX,norfolkreporter.com
-  - DOMAIN-SUFFIX,norgesautbcbest.info
   - DOMAIN-SUFFIX,norgesautomaten.com
   - DOMAIN-SUFFIX,norgesspill.com
   - DOMAIN-SUFFIX,noriel.ro
@@ -138745,7 +138740,7 @@ payload:
   - DOMAIN-SUFFIX,sub1.cosmosdirekt.de
   - DOMAIN-SUFFIX,sub1.gebeall.info
   - DOMAIN-SUFFIX,sub147.com
-  - DOMAIN-SUFFIX,sub2.aostreet.com
+  - DOMAIN-SUFFIX,sub2.abcbest.info
   - DOMAIN-SUFFIX,sub2.avgle.com
   - DOMAIN-SUFFIX,sub2tech.com
   - DOMAIN-SUFFIX,subanunrevive.com
@@ -139528,6 +139523,7 @@ payload:
   - DOMAIN-SUFFIX,sv1.sv88.vu
   - DOMAIN-SUFFIX,sv1.sv88d.com
   - DOMAIN-SUFFIX,sv2.biz
+  - DOMAIN-SUFFIX,sv288.net
   - DOMAIN-SUFFIX,sv368.casino
   - DOMAIN-SUFFIX,sv368.one
   - DOMAIN-SUFFIX,sv368.vin
@@ -145299,7 +145295,6 @@ payload:
   - DOMAIN-SUFFIX,to.stynt.com
   - DOMAIN-SUFFIX,to.uptime.app
   - DOMAIN-SUFFIX,to188xj.com
-  - DOMAIN-SUFFIX,to2ccaa.com
   - DOMAIN-SUFFIX,to9g1f.cn
   - DOMAIN-SUFFIX,toaadwh.icu
   - DOMAIN-SUFFIX,toals.co.uk
@@ -148723,6 +148718,7 @@ payload:
   - DOMAIN-SUFFIX,trck.rework-s.com
   - DOMAIN-SUFFIX,trck.spoteffects.net
   - DOMAIN-SUFFIX,trck.stefany.co.jp
+  - DOMAIN-SUFFIX,trck.wargaming.net
   - DOMAIN-SUFFIX,trck.www4.earlywarning.com
   - DOMAIN-SUFFIX,trck.www4.paze.com
   - DOMAIN-SUFFIX,trck.www4.zellepay.com
@@ -153832,6 +153828,7 @@ payload:
   - DOMAIN-SUFFIX,utiq.xataka.com
   - DOMAIN-SUFFIX,utiq.xatakaciencia.com
   - DOMAIN-SUFFIX,utiq.xatakafoto.com
+  - DOMAIN-SUFFIX,utiq.xatakahome.com
   - DOMAIN-SUFFIX,utiq.xatakamovil.com
   - DOMAIN-SUFFIX,utiq.xatakandroid.com
   - DOMAIN-SUFFIX,utiq.xatakawindows.com
@@ -163511,6 +163508,7 @@ payload:
   - DOMAIN-SUFFIX,www.bingdianhuanyuan.cn
   - DOMAIN-SUFFIX,www.bingo.com
   - DOMAIN-SUFFIX,www.bingoscotland.net
+  - DOMAIN-SUFFIX,www.bingostreet.com
   - DOMAIN-SUFFIX,www.bingotime.co.uk
   - DOMAIN-SUFFIX,www.bitcoinsports.eu
   - DOMAIN-SUFFIX,www.biteti.com
@@ -164421,7 +164419,7 @@ payload:
   - DOMAIN-SUFFIX,www.nmpcdn.com
   - DOMAIN-SUFFIX,www.nnnwwwe.com
   - DOMAIN-SUFFIX,www.nordicbet.com
-  - DOMAIN-SUFFIX,www.norgesautbcbest.info
+  - DOMAIN-SUFFIX,www.norgesautomaten.com
   - DOMAIN-SUFFIX,www.norgesspill.com
   - DOMAIN-SUFFIX,www.norsk-tipping.no
   - DOMAIN-SUFFIX,www.norskeautomater.com
@@ -165579,6 +165577,7 @@ payload:
   - DOMAIN-SUFFIX,xataka.com
   - DOMAIN-SUFFIX,xatakaciencia.com
   - DOMAIN-SUFFIX,xatakafoto.com
+  - DOMAIN-SUFFIX,xatakahome.com
   - DOMAIN-SUFFIX,xatakamovil.com
   - DOMAIN-SUFFIX,xatakandroid.com
   - DOMAIN-SUFFIX,xatakawindows.com
@@ -171277,6 +171276,7 @@ payload:
   - DOMAIN-SUFFIX,zkcxoywtprkuz.website
   - DOMAIN-SUFFIX,zkczzltlhp6y.com
   - DOMAIN-SUFFIX,zkdtpucowdlat.website
+  - DOMAIN-SUFFIX,zkdvaodpyoxvd.online
   - DOMAIN-SUFFIX,zkebwy.copenhagenstudios.com
   - DOMAIN-SUFFIX,zkfborg.cn
   - DOMAIN-SUFFIX,zkfjdxlwwcilg.website
@@ -172058,6 +172058,7 @@ payload:
   - DOMAIN-SUFFIX,zuvjenxhmiuhj.space
   - DOMAIN-SUFFIX,zuvwhajyrtkfq.space
   - DOMAIN-SUFFIX,zuwnqfdzojfzk.site
+  - DOMAIN-SUFFIX,zuxzvxmibplsk.website
   - DOMAIN-SUFFIX,zuykihipzrmv.com
   - DOMAIN-SUFFIX,zuyloscnskdiu.online
   - DOMAIN-SUFFIX,zuzab.com
