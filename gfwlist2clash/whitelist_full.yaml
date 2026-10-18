@@ -9708,7 +9708,6 @@ payload:
   - DOMAIN-SUFFIX,a3.mzstatic.com
   - DOMAIN-SUFFIX,a30437f3510292.beer
   - DOMAIN-SUFFIX,a33a8c8c81011.beer
-  - DOMAIN-SUFFIX,a360.cn
   - DOMAIN-SUFFIX,a3p4.net
   - DOMAIN-SUFFIX,a4.mzstatic.com
   - DOMAIN-SUFFIX,a40dc409e2ea86b1.com
@@ -12667,6 +12666,7 @@ payload:
   - DOMAIN-SUFFIX,amazon.promo
   - DOMAIN-SUFFIX,amazon.properties
   - DOMAIN-SUFFIX,amazon.protection
+  - DOMAIN-SUFFIX,amazon.ps
   - DOMAIN-SUFFIX,amazon.pt
   - DOMAIN-SUFFIX,amazon.pub
   - DOMAIN-SUFFIX,amazon.pw
@@ -71248,7 +71248,6 @@ payload:
   - DOMAIN-SUFFIX,mazhen.tech
   - DOMAIN-SUFFIX,mazhizuo.com
   - DOMAIN-SUFFIX,mazida.com
-  - DOMAIN-SUFFIX,mazon.ps
   - DOMAIN-SUFFIX,mazu.sec.miui.com
   - DOMAIN-SUFFIX,mb-go.com
   - DOMAIN-SUFFIX,mba518.com
@@ -77383,7 +77382,6 @@ payload:
   - DOMAIN-SUFFIX,noteworthy.medium.com
   - DOMAIN-SUFFIX,notice.game.xiaomi.com
   - DOMAIN-SUFFIX,notice.line.me
-  - DOMAIN-SUFFIX,notice.samsungcloudsolution.com
   - DOMAIN-SUFFIX,notice.xbox.com
   - DOMAIN-SUFFIX,notice2.line.me
   - DOMAIN-SUFFIX,noticecdn.samsungcloudsolution.com

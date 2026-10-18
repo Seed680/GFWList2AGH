@@ -9531,7 +9531,6 @@ payload:
   - DOMAIN-SUFFIX,a2zapk.com
   - DOMAIN-SUFFIX,a30437f3510292.beer
   - DOMAIN-SUFFIX,a33a8c8c81011.beer
-  - DOMAIN-SUFFIX,a360.cn
   - DOMAIN-SUFFIX,a3p4.net
   - DOMAIN-SUFFIX,a40dc409e2ea86b1.com
   - DOMAIN-SUFFIX,a44aeaeac1016.beer
@@ -11919,6 +11918,7 @@ payload:
   - DOMAIN-SUFFIX,amazon.pl
   - DOMAIN-SUFFIX,amazon.pn
   - DOMAIN-SUFFIX,amazon.pr
+  - DOMAIN-SUFFIX,amazon.ps
   - DOMAIN-SUFFIX,amazon.pt
   - DOMAIN-SUFFIX,amazon.pub
   - DOMAIN-SUFFIX,amazon.pw
@@ -65875,7 +65875,6 @@ payload:
   - DOMAIN-SUFFIX,mazhen.tech
   - DOMAIN-SUFFIX,mazhizuo.com
   - DOMAIN-SUFFIX,mazida.com
-  - DOMAIN-SUFFIX,mazon.ps
   - DOMAIN-SUFFIX,mb-go.com
   - DOMAIN-SUFFIX,mba518.com
   - DOMAIN-SUFFIX,mbabao.com
