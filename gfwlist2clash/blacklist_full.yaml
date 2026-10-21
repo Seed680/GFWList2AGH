@@ -6704,7 +6704,7 @@ payload:
   - DOMAIN-SUFFIX,a43863.actonservice.com
   - DOMAIN-SUFFIX,a43866.actonservice.com
   - DOMAIN-SUFFIX,a43869.actonservice.com
-  - DOMAIN-SUFFIX,a43870.actonservice.com
+  - DOMAIN-SUFFIX,a43870.actonserviceactive.tc.skysrt.com
   - DOMAIN-SUFFIX,a43871.actonservice.com
   - DOMAIN-SUFFIX,a43875.actonservice.com
   - DOMAIN-SUFFIX,a43876.actonservice.com
@@ -16229,6 +16229,7 @@ payload:
   - DOMAIN-SUFFIX,answerswave.com
   - DOMAIN-SUFFIX,answysztidlal.website
   - DOMAIN-SUFFIX,ansys.com
+  - DOMAIN-SUFFIX,ant.dev
   - DOMAIN-SUFFIX,antalis-verpackungen.at
   - DOMAIN-SUFFIX,antalis.at
   - DOMAIN-SUFFIX,antalis.be
@@ -16280,6 +16281,7 @@ payload:
   - DOMAIN-SUFFIX,anthonycalzadilla.com
   - DOMAIN-SUFFIX,anthonyliftgates.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,anthropic.team
   - DOMAIN-SUFFIX,anthropology.ac.uk
   - DOMAIN-SUFFIX,anti-adblock.herokuapp.com
   - DOMAIN-SUFFIX,anti-bot.baidu.com
@@ -16328,6 +16330,7 @@ payload:
   - DOMAIN-SUFFIX,antonythwartlead.com
   - DOMAIN-SUFFIX,antpool.com
   - DOMAIN-SUFFIX,ants.vn
+  - DOMAIN-SUFFIX,antspace.dev
   - DOMAIN-SUFFIX,antvoice.com
   - DOMAIN-SUFFIX,antwak.com
   - DOMAIN-SUFFIX,antwort.hager.de
@@ -31889,6 +31892,7 @@ payload:
   - DOMAIN-SUFFIX,chat1.jd.com
   - DOMAIN-SUFFIX,chatango.com
   - DOMAIN-SUFFIX,chatboost-cv.algoage.co.jp
+  - DOMAIN-SUFFIX,chatbotclaude.com
   - DOMAIN-SUFFIX,chateaurecalled.com
   - DOMAIN-SUFFIX,chateaurestrictedbriefly.com
   - DOMAIN-SUFFIX,chatelaine.com
@@ -33138,10 +33142,16 @@ payload:
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.app
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.dev
+  - DOMAIN-SUFFIX,claude.new
+  - DOMAIN-SUFFIX,claude.site
+  - DOMAIN-SUFFIX,claudeacademy.com
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudepages.dev
+  - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,claudiepierlot.com
   - DOMAIN-SUFFIX,clauzmknmsmfh.online
@@ -35291,7 +35301,6 @@ payload:
   - DOMAIN-SUFFIX,compileheart.com
   - DOMAIN-SUFFIX,compilework.com
   - DOMAIN-SUFFIX,complainguyseaweed.com
-  - DOMAIN-SUFFIX,complaintsinert.com
   - DOMAIN-SUFFIX,complaintssplittingsuperlative.com
   - DOMAIN-SUFFIX,complementnickel.com
   - DOMAIN-SUFFIX,completatusdatos.com
@@ -38050,6 +38059,7 @@ payload:
   - DOMAIN-SUFFIX,ctkaquinas.ac.uk
   - DOMAIN-SUFFIX,ctkemmanuel.ac.uk
   - DOMAIN-SUFFIX,ctki.hs1s1.cn
+  - DOMAIN-SUFFIX,ctkmqbrppqef.space
   - DOMAIN-SUFFIX,ctksfc.ac.uk
   - DOMAIN-SUFFIX,ctkstmarys.ac.uk
   - DOMAIN-SUFFIX,ctlayn.talbots.com
@@ -40110,6 +40120,7 @@ payload:
   - DOMAIN-SUFFIX,d3skqyr7uryv9z.cloudfront.net
   - DOMAIN-SUFFIX,d3sof4x9nlmbgy.cloudfront.net
   - DOMAIN-SUFFIX,d3srxd2wvksmqd.cloudfront.net
+  - DOMAIN-SUFFIX,d3stzm2eumvgb4.cloudfront.net
   - DOMAIN-SUFFIX,d3t16rotvvsanj.cloudfront.net
   - DOMAIN-SUFFIX,d3t3bxixsojwre.cloudfront.net
   - DOMAIN-SUFFIX,d3t3lxfqz2g5hs.cloudfront.net
@@ -41781,7 +41792,6 @@ payload:
   - DOMAIN-SUFFIX,dcssptrack.com
   - DOMAIN-SUFFIX,dct.ac.uk
   - DOMAIN-SUFFIX,dctaxi.com
-  - DOMAIN-SUFFIX,dctkmqbrppqef.space
   - DOMAIN-SUFFIX,dcu.org
   - DOMAIN-SUFFIX,dcunkpgzsysvg.website
   - DOMAIN-SUFFIX,dcv4p460uqa46.cloudfront.net
@@ -46819,6 +46829,7 @@ payload:
   - DOMAIN-SUFFIX,dti-ranker.com
   - DOMAIN-SUFFIX,dtiblog.com
   - DOMAIN-SUFFIX,dtic.mil
+  - DOMAIN-SUFFIX,dtimes.com
   - DOMAIN-SUFFIX,dtiserv.com
   - DOMAIN-SUFFIX,dtiserv2.com
   - DOMAIN-SUFFIX,dtjal7b1f.com
@@ -57109,6 +57120,17 @@ payload:
   - DOMAIN-SUFFIX,flutterstumpbullet.com
   - DOMAIN-SUFFIX,flux.faloo.com
   - DOMAIN-SUFFIX,fluxads.com
+  - DOMAIN-SUFFIX,fluxer.app
+  - DOMAIN-SUFFIX,fluxer.com
+  - DOMAIN-SUFFIX,fluxer.dev
+  - DOMAIN-SUFFIX,fluxer.gg
+  - DOMAIN-SUFFIX,fluxer.gift
+  - DOMAIN-SUFFIX,fluxer.media
+  - DOMAIN-SUFFIX,fluxer.tools
+  - DOMAIN-SUFFIX,fluxerapp.com
+  - DOMAIN-SUFFIX,fluxerstatic.com
+  - DOMAIN-SUFFIX,fluxerstatus.com
+  - DOMAIN-SUFFIX,fluxerusercontent.com
   - DOMAIN-SUFFIX,fluxyt.xyz
   - DOMAIN-SUFFIX,fluz.app
   - DOMAIN-SUFFIX,flv.dotmore.com.tw
@@ -82873,7 +82895,6 @@ payload:
   - DOMAIN-SUFFIX,l.ialoc.app
   - DOMAIN-SUFFIX,l.iamfy.co
   - DOMAIN-SUFFIX,l.imax.com
-  - DOMAIN-SUFFIX,l.info
   - DOMAIN-SUFFIX,l.itribe.in
   - DOMAIN-SUFFIX,l.jayshetty.me
   - DOMAIN-SUFFIX,l.kodika.io
@@ -105323,7 +105344,7 @@ payload:
   - DOMAIN-SUFFIX,nwua.ac.uk
   - DOMAIN-SUFFIX,nwueu.ac.uk
   - DOMAIN-SUFFIX,nwupc.ac.uk
-  - DOMAIN-SUFFIX,nwvalleytimes.com
+  - DOMAIN-SUFFIX,nwvalleycomplaintsinert.com
   - DOMAIN-SUFFIX,nwvkpbrceeutp.site
   - DOMAIN-SUFFIX,nwvupz.cljoias.com.br
   - DOMAIN-SUFFIX,nwwashingtonnews.com
@@ -155009,7 +155030,6 @@ payload:
   - DOMAIN-SUFFIX,usus.cc
   - DOMAIN-SUFFIX,usvimosquito.com
   - DOMAIN-SUFFIX,usvimosquitoproject.com
-  - DOMAIN-SUFFIX,usviraactive.tc.skysrt.com
   - DOMAIN-SUFFIX,usvrkrkqfnzbh.online
   - DOMAIN-SUFFIX,usvslqoguid.com
   - DOMAIN-SUFFIX,usw.ac.uk

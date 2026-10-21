@@ -8782,6 +8782,7 @@ payload:
   - DOMAIN-SUFFIX,answerswave.com
   - DOMAIN-SUFFIX,answysztidlal.website
   - DOMAIN-SUFFIX,ansys.com
+  - DOMAIN-SUFFIX,ant.dev
   - DOMAIN-SUFFIX,antalis-verpackungen.at
   - DOMAIN-SUFFIX,antalis.at
   - DOMAIN-SUFFIX,antalis.be
@@ -8828,6 +8829,7 @@ payload:
   - DOMAIN-SUFFIX,anthonycalzadilla.com
   - DOMAIN-SUFFIX,anthonyliftgates.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,anthropic.team
   - DOMAIN-SUFFIX,anti-cheat.info
   - DOMAIN-SUFFIX,anti1984.com
   - DOMAIN-SUFFIX,antiadblock.info
@@ -8862,6 +8864,7 @@ payload:
   - DOMAIN-SUFFIX,antonythwartlead.com
   - DOMAIN-SUFFIX,antpool.com
   - DOMAIN-SUFFIX,ants.vn
+  - DOMAIN-SUFFIX,antspace.dev
   - DOMAIN-SUFFIX,antvoice.com
   - DOMAIN-SUFFIX,antwak.com
   - DOMAIN-SUFFIX,anu-cosme.com
@@ -19460,6 +19463,7 @@ payload:
   - DOMAIN-SUFFIX,chat-wifi.site
   - DOMAIN-SUFFIX,chat.com
   - DOMAIN-SUFFIX,chatango.com
+  - DOMAIN-SUFFIX,chatbotclaude.com
   - DOMAIN-SUFFIX,chateaurecalled.com
   - DOMAIN-SUFFIX,chateaurestrictedbriefly.com
   - DOMAIN-SUFFIX,chatelaine.com
@@ -20483,10 +20487,16 @@ payload:
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.app
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.dev
+  - DOMAIN-SUFFIX,claude.new
+  - DOMAIN-SUFFIX,claude.site
+  - DOMAIN-SUFFIX,claudeacademy.com
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudepages.dev
+  - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,claudiepierlot.com
   - DOMAIN-SUFFIX,clauzmknmsmfh.online
@@ -21838,7 +21848,6 @@ payload:
   - DOMAIN-SUFFIX,compileheart.com
   - DOMAIN-SUFFIX,compilework.com
   - DOMAIN-SUFFIX,complainguyseaweed.com
-  - DOMAIN-SUFFIX,complaintsinert.com
   - DOMAIN-SUFFIX,complaintssplittingsuperlative.com
   - DOMAIN-SUFFIX,complementnickel.com
   - DOMAIN-SUFFIX,completatusdatos.com
@@ -23574,6 +23583,7 @@ payload:
   - DOMAIN-SUFFIX,ctinsider.com
   - DOMAIN-SUFFIX,ctirhpp.com
   - DOMAIN-SUFFIX,ctk8ifokyw.com
+  - DOMAIN-SUFFIX,ctkmqbrppqef.space
   - DOMAIN-SUFFIX,ctlsmzvtfq.com
   - DOMAIN-SUFFIX,ctm-media.com
   - DOMAIN-SUFFIX,ctmofpzrkmjxt.site
@@ -25109,7 +25119,6 @@ payload:
   - DOMAIN-SUFFIX,dcshoes.com
   - DOMAIN-SUFFIX,dcssptrack.com
   - DOMAIN-SUFFIX,dctaxi.com
-  - DOMAIN-SUFFIX,dctkmqbrppqef.space
   - DOMAIN-SUFFIX,dcu.org
   - DOMAIN-SUFFIX,dcunkpgzsysvg.website
   - DOMAIN-SUFFIX,dcvssaited.com
@@ -28744,6 +28753,7 @@ payload:
   - DOMAIN-SUFFIX,dti-ranker.com
   - DOMAIN-SUFFIX,dtiblog.com
   - DOMAIN-SUFFIX,dtic.mil
+  - DOMAIN-SUFFIX,dtimes.com
   - DOMAIN-SUFFIX,dtiserv.com
   - DOMAIN-SUFFIX,dtiserv2.com
   - DOMAIN-SUFFIX,dtjal7b1f.com
@@ -35805,6 +35815,17 @@ payload:
   - DOMAIN-SUFFIX,flutteringfireman.com
   - DOMAIN-SUFFIX,flutterstumpbullet.com
   - DOMAIN-SUFFIX,fluxads.com
+  - DOMAIN-SUFFIX,fluxer.app
+  - DOMAIN-SUFFIX,fluxer.com
+  - DOMAIN-SUFFIX,fluxer.dev
+  - DOMAIN-SUFFIX,fluxer.gg
+  - DOMAIN-SUFFIX,fluxer.gift
+  - DOMAIN-SUFFIX,fluxer.media
+  - DOMAIN-SUFFIX,fluxer.tools
+  - DOMAIN-SUFFIX,fluxerapp.com
+  - DOMAIN-SUFFIX,fluxerstatic.com
+  - DOMAIN-SUFFIX,fluxerstatus.com
+  - DOMAIN-SUFFIX,fluxerusercontent.com
   - DOMAIN-SUFFIX,fluxyt.xyz
   - DOMAIN-SUFFIX,fluz.app
   - DOMAIN-SUFFIX,flveuazvuozta.website
@@ -54830,7 +54851,6 @@ payload:
   - DOMAIN-SUFFIX,l-meal.com
   - DOMAIN-SUFFIX,l-msedge.net
   - DOMAIN-SUFFIX,l-wine.ru
-  - DOMAIN-SUFFIX,l.info
   - DOMAIN-SUFFIX,l0cpto94.xyz
   - DOMAIN-SUFFIX,l0npl51iwv.com
   - DOMAIN-SUFFIX,l0nrjph1.xyz
@@ -68196,7 +68216,7 @@ payload:
   - DOMAIN-SUFFIX,nwtennnews.com
   - DOMAIN-SUFFIX,nwtg5ywz2j.com
   - DOMAIN-SUFFIX,nwtwincities.com
-  - DOMAIN-SUFFIX,nwvalleytimes.com
+  - DOMAIN-SUFFIX,nwvalleycomplaintsinert.com
   - DOMAIN-SUFFIX,nwvkpbrceeutp.site
   - DOMAIN-SUFFIX,nwwashingtonnews.com
   - DOMAIN-SUFFIX,nwwaynenews.com
