@@ -2597,6 +2597,7 @@ payload:
   - DOMAIN-SUFFIX,1f6cd3ca611032.beer
   - DOMAIN-SUFFIX,1fangchan.com
   - DOMAIN-SUFFIX,1fgqfml.oloadcdn.net
+  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1fly.fun
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
@@ -15745,7 +15746,6 @@ payload:
   - DOMAIN-SUFFIX,baidusx.cc
   - DOMAIN-SUFFIX,baidusx.com
   - DOMAIN-SUFFIX,baidutab.com
-  - DOMAIN-SUFFIX,baidutieba.com
   - DOMAIN-SUFFIX,baidutt.com
   - DOMAIN-SUFFIX,baiduux.com
   - DOMAIN-SUFFIX,baiduwaf.com
@@ -22030,7 +22030,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.paddle.com
   - DOMAIN-SUFFIX,cdn.pardot.com
   - DOMAIN-SUFFIX,cdn.pcbeta.attachment.inimc.com
-  - DOMAIN-SUFFIX,cdn.pcbeta.css.inimc.co1fichier.com
+  - DOMAIN-SUFFIX,cdn.pcbeta.css.inimc.com
   - DOMAIN-SUFFIX,cdn.pcbeta.static.inimc.com
   - DOMAIN-SUFFIX,cdn.pdst.fm
   - DOMAIN-SUFFIX,cdn.pendo.io
@@ -61456,7 +61456,6 @@ payload:
   - DOMAIN-SUFFIX,jrnba.cc
   - DOMAIN-SUFFIX,jrntv.com
   - DOMAIN-SUFFIX,jrpengze.com
-  - DOMAIN-SUFFIX,jrq39d1r8.com
   - DOMAIN-SUFFIX,jrqzw.net
   - DOMAIN-SUFFIX,jrs-live-football.com
   - DOMAIN-SUFFIX,jrs-live-score.com
@@ -104279,7 +104278,6 @@ payload:
   - DOMAIN-SUFFIX,w-startech.com
   - DOMAIN-SUFFIX,w-zhong.com
   - DOMAIN-SUFFIX,w.biz
-  - DOMAIN-SUFFIX,w.google.co.ke
   - DOMAIN-SUFFIX,w.line.me
   - DOMAIN-SUFFIX,w.soundcloud.com
   - DOMAIN-SUFFIX,w.x.sndcdn.com
@@ -108251,7 +108249,6 @@ payload:
   - DOMAIN-SUFFIX,ww2.sinaimg.cn
   - DOMAIN-SUFFIX,ww2bbs.net
   - DOMAIN-SUFFIX,ww3.gogoanime.io
-  - DOMAIN-SUFFIX,ww360.cn
   - DOMAIN-SUFFIX,ww4.gogoanime.io
   - DOMAIN-SUFFIX,ww4.sinaimg.cn
   - DOMAIN-SUFFIX,ww5.gogoanime.io
@@ -108782,6 +108779,7 @@ payload:
   - DOMAIN-SUFFIX,www.google.co.il
   - DOMAIN-SUFFIX,www.google.co.in
   - DOMAIN-SUFFIX,www.google.co.jp
+  - DOMAIN-SUFFIX,www.google.co.ke
   - DOMAIN-SUFFIX,www.google.co.kr
   - DOMAIN-SUFFIX,www.google.co.ls
   - DOMAIN-SUFFIX,www.google.co.ma
@@ -118827,8 +118825,6 @@ payload:
   - DOMAIN-SUFFIX,yuqncloud.com
   - DOMAIN-SUFFIX,yuquanhosp.com
   - DOMAIN-SUFFIX,yuque.com
-  - DOMAIN-SUFFIX,yur09130og.com
-  - DOMAIN-SUFFIX,yur09140og.com
   - DOMAIN-SUFFIX,yuren.org
   - DOMAIN-SUFFIX,yurl.in
   - DOMAIN-SUFFIX,yurongoptical.com

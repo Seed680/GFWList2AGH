@@ -2525,6 +2525,7 @@ payload:
   - DOMAIN-SUFFIX,1f371be461017.beer
   - DOMAIN-SUFFIX,1f6cd3ca611032.beer
   - DOMAIN-SUFFIX,1fangchan.com
+  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1fly.fun
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
@@ -14198,7 +14199,6 @@ payload:
   - DOMAIN-SUFFIX,baidusx.cc
   - DOMAIN-SUFFIX,baidusx.com
   - DOMAIN-SUFFIX,baidutab.com
-  - DOMAIN-SUFFIX,baidutieba.com
   - DOMAIN-SUFFIX,baidutt.com
   - DOMAIN-SUFFIX,baiduux.com
   - DOMAIN-SUFFIX,baiduwaf.com
@@ -56768,7 +56768,6 @@ payload:
   - DOMAIN-SUFFIX,jrnba.cc
   - DOMAIN-SUFFIX,jrntv.com
   - DOMAIN-SUFFIX,jrpengze.com
-  - DOMAIN-SUFFIX,jrq39d1r8.com
   - DOMAIN-SUFFIX,jrqzw.net
   - DOMAIN-SUFFIX,jrs-live-football.com
   - DOMAIN-SUFFIX,jrs-live-score.com
@@ -99619,7 +99618,6 @@ payload:
   - DOMAIN-SUFFIX,wvxkezhg.com
   - DOMAIN-SUFFIX,ww-77660.com
   - DOMAIN-SUFFIX,ww2bbs.net
-  - DOMAIN-SUFFIX,ww360.cn
   - DOMAIN-SUFFIX,ww8899.com
   - DOMAIN-SUFFIX,wware.org
   - DOMAIN-SUFFIX,wwchicun.com
@@ -108725,8 +108723,6 @@ payload:
   - DOMAIN-SUFFIX,yuqncloud.com
   - DOMAIN-SUFFIX,yuquanhosp.com
   - DOMAIN-SUFFIX,yuque.com
-  - DOMAIN-SUFFIX,yur09130og.com
-  - DOMAIN-SUFFIX,yur09140og.com
   - DOMAIN-SUFFIX,yuren.org
   - DOMAIN-SUFFIX,yurl.in
   - DOMAIN-SUFFIX,yurongoptical.com
