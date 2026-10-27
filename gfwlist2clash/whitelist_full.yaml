@@ -33653,6 +33653,7 @@ payload:
   - DOMAIN-SUFFIX,download.bigmail.daum.net
   - DOMAIN-SUFFIX,download.cdn.yandex.net
   - DOMAIN-SUFFIX,download.cnet.com
+  - DOMAIN-SUFFIX,download.db-ip.com
   - DOMAIN-SUFFIX,download.developer.apple.com
   - DOMAIN-SUFFIX,download.huawei.com
   - DOMAIN-SUFFIX,download.jetbrains.com
@@ -75637,7 +75638,6 @@ payload:
   - DOMAIN-SUFFIX,newsletters.nationalgeographic.com
   - DOMAIN-SUFFIX,newsletters.vox.com
   - DOMAIN-SUFFIX,newslink.reuters.com
-  - DOMAIN-SUFFIX,newslink.reuters.com360.cn
   - DOMAIN-SUFFIX,newslqy.com
   - DOMAIN-SUFFIX,newsmax.com
   - DOMAIN-SUFFIX,newsmth.com
@@ -89088,7 +89088,9 @@ payload:
   - DOMAIN-SUFFIX,sh-oca.com
   - DOMAIN-SUFFIX,sh-pet.com
   - DOMAIN-SUFFIX,sh-pn.com
+  - DOMAIN-SUFFIX,sh-pod1-smp-device.apple.com
   - DOMAIN-SUFFIX,sh-pod2-smp-device.apple.com
+  - DOMAIN-SUFFIX,sh-pod3-smp-device.apple.com
   - DOMAIN-SUFFIX,sh-pp.com
   - DOMAIN-SUFFIX,sh-printing.com
   - DOMAIN-SUFFIX,sh-prosperity.com
