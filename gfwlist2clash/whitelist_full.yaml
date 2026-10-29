@@ -2567,6 +2567,7 @@ payload:
   - DOMAIN-SUFFIX,1f6cd3ca611032.beer
   - DOMAIN-SUFFIX,1fangchan.com
   - DOMAIN-SUFFIX,1fgqfml.oloadcdn.net
+  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1fly.fun
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
@@ -21928,7 +21929,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.paddle.com
   - DOMAIN-SUFFIX,cdn.pardot.com
   - DOMAIN-SUFFIX,cdn.pcbeta.attachment.inimc.com
-  - DOMAIN-SUFFIX,cdn.pcbeta.css.inimc.co1fichier.com
+  - DOMAIN-SUFFIX,cdn.pcbeta.css.inimc.com
   - DOMAIN-SUFFIX,cdn.pcbeta.static.inimc.com
   - DOMAIN-SUFFIX,cdn.pdst.fm
   - DOMAIN-SUFFIX,cdn.pendo.io
@@ -71301,6 +71302,7 @@ payload:
   - DOMAIN-SUFFIX,mchweb.net
   - DOMAIN-SUFFIX,mcidc.net
   - DOMAIN-SUFFIX,mcit.tech
+  - DOMAIN-SUFFIX,mclick.simba.taobao.com
   - DOMAIN-SUFFIX,mcloudvr.com
   - DOMAIN-SUFFIX,mcmap.cc
   - DOMAIN-SUFFIX,mcmaster-asia.com
