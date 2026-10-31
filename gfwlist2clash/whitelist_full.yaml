@@ -18761,7 +18761,6 @@ payload:
   - DOMAIN-SUFFIX,blog.de.playstation.com
   - DOMAIN-SUFFIX,blog.diigo.com
   - DOMAIN-SUFFIX,blog.eu.playstation.com
-  - DOMAIN-SUFFIX,blog.experts-exchange.com
   - DOMAIN-SUFFIX,blog.feedspot.com
   - DOMAIN-SUFFIX,blog.flipboard.com
   - DOMAIN-SUFFIX,blog.funimation.com
@@ -37161,6 +37160,7 @@ payload:
   - DOMAIN-SUFFIX,expensiveg.com
   - DOMAIN-SUFFIX,experiments.apple.com
   - DOMAIN-SUFFIX,expertcity.com
+  - DOMAIN-SUFFIX,experts-exchange.com
   - DOMAIN-SUFFIX,expingworld.com
   - DOMAIN-SUFFIX,expiredns.net
   - DOMAIN-SUFFIX,expirenotification.com
@@ -67656,7 +67656,7 @@ payload:
   - DOMAIN-SUFFIX,linkresearcher.com
   - DOMAIN-SUFFIX,links-china.com
   - DOMAIN-SUFFIX,links-na.afterpay.com
-  - DOMAIN-SUFFIX,links.announcemen1fichier.com
+  - DOMAIN-SUFFIX,links.announcements.soundcloud.com
   - DOMAIN-SUFFIX,links.confirmation.soundcloud.com
   - DOMAIN-SUFFIX,links.em.ign.com
   - DOMAIN-SUFFIX,links.email.crunchbase.com
@@ -75800,10 +75800,10 @@ payload:
   - DOMAIN-SUFFIX,news.vimeo.com
   - DOMAIN-SUFFIX,news.vuukle.com
   - DOMAIN-SUFFIX,news.wko.at
-  - DOMAIN-SUFFIX,news.xbox.com
   - DOMAIN-SUFFIX,news.yahoo.com
   - DOMAIN-SUFFIX,news.ycombinator.com
   - DOMAIN-SUFFIX,news18a.com
+  - DOMAIN-SUFFIX,news1fichier.com
   - DOMAIN-SUFFIX,newsapi.com.au
   - DOMAIN-SUFFIX,newsapp01.com
   - DOMAIN-SUFFIX,newscctv.net
@@ -100586,7 +100586,6 @@ payload:
   - DOMAIN-SUFFIX,ts-precision.com
   - DOMAIN-SUFFIX,ts.cc
   - DOMAIN-SUFFIX,ts.my
-  - DOMAIN-SUFFIX,ts.soundcloud.com
   - DOMAIN-SUFFIX,ts.tradetracker.net
   - DOMAIN-SUFFIX,ts0775.com
   - DOMAIN-SUFFIX,ts100.com
