@@ -27611,6 +27611,7 @@ payload:
   - DOMAIN-SUFFIX,community.ukg.com
   - DOMAIN-SUFFIX,community.us.playstation.com
   - DOMAIN-SUFFIX,community.xbox.com
+  - DOMAIN-SUFFIX,communityteam.software.eu.playstation.com
   - DOMAIN-SUFFIX,comnergy.com
   - DOMAIN-SUFFIX,comnunidaddemadrid.solution.weborama.fr
   - DOMAIN-SUFFIX,comocloud.net
@@ -117946,7 +117947,6 @@ payload:
   - DOMAIN-SUFFIX,ytdaily.com
   - DOMAIN-SUFFIX,ytdcloud.com
   - DOMAIN-SUFFIX,yte1.com
-  - DOMAIN-SUFFIX,yteam.software.eu.playstation.com
   - DOMAIN-SUFFIX,ytecn.com
   - DOMAIN-SUFFIX,ytedi.com
   - DOMAIN-SUFFIX,yteng.net
