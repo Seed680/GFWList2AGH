@@ -2495,6 +2495,7 @@ payload:
   - DOMAIN-SUFFIX,1f371be461017.beer
   - DOMAIN-SUFFIX,1f6cd3ca611032.beer
   - DOMAIN-SUFFIX,1fangchan.com
+  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1fly.fun
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
@@ -22621,7 +22622,6 @@ payload:
   - DOMAIN-SUFFIX,chofn.net
   - DOMAIN-SUFFIX,chofn.org
   - DOMAIN-SUFFIX,chofnipr.com
-  - DOMAIN-SUFFIX,choi360.cn
   - DOMAIN-SUFFIX,choiceform.com
   - DOMAIN-SUFFIX,chomikuj.pl
   - DOMAIN-SUFFIX,chomixbiotech.com
@@ -26243,7 +26243,6 @@ payload:
   - DOMAIN-SUFFIX,cric.com
   - DOMAIN-SUFFIX,cric2009.com
   - DOMAIN-SUFFIX,cricbigdata.com
-  - DOMAIN-SUFFIX,cricbuzz.com
   - DOMAIN-SUFFIX,cricchina.com
   - DOMAIN-SUFFIX,crieasyfm.com
   - DOMAIN-SUFFIX,crienglish.com
@@ -113970,7 +113969,6 @@ payload:
   - DOMAIN-SUFFIX,zz-hh.com
   - DOMAIN-SUFFIX,zz-invest.com
   - DOMAIN-SUFFIX,zz.ci
-  - DOMAIN-SUFFIX,zz.com
   - DOMAIN-SUFFIX,zz.ee
   - DOMAIN-SUFFIX,zz123456789.xyz
   - DOMAIN-SUFFIX,zz2z.com

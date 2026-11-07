@@ -2567,6 +2567,7 @@ payload:
   - DOMAIN-SUFFIX,1f6cd3ca611032.beer
   - DOMAIN-SUFFIX,1fangchan.com
   - DOMAIN-SUFFIX,1fgqfml.oloadcdn.net
+  - DOMAIN-SUFFIX,1fichier.com
   - DOMAIN-SUFFIX,1fly.fun
   - DOMAIN-SUFFIX,1foo.com
   - DOMAIN-SUFFIX,1fooai.com
@@ -13583,7 +13584,7 @@ payload:
   - DOMAIN-SUFFIX,api.coinmarketcap.com
   - DOMAIN-SUFFIX,api.comm.miui.com
   - DOMAIN-SUFFIX,api.commerce.coinbase.com
-  - DOMAIN-SUFFIX,api.cricbu1fichier.com
+  - DOMAIN-SUFFIX,api.cricbuzz.com
   - DOMAIN-SUFFIX,api.crisp.chat
   - DOMAIN-SUFFIX,api.crowdin.com
   - DOMAIN-SUFFIX,api.crunchyroll.com
@@ -24897,9 +24898,9 @@ payload:
   - DOMAIN-SUFFIX,chofn.net
   - DOMAIN-SUFFIX,chofn.org
   - DOMAIN-SUFFIX,chofnipr.com
-  - DOMAIN-SUFFIX,choi360.cn
   - DOMAIN-SUFFIX,choice.microsoft.com
   - DOMAIN-SUFFIX,choiceform.com
+  - DOMAIN-SUFFIX,choices.truste.com
   - DOMAIN-SUFFIX,chomikuj.pl
   - DOMAIN-SUFFIX,chomixbiotech.com
   - DOMAIN-SUFFIX,chong4.net
@@ -25879,7 +25880,7 @@ payload:
   - DOMAIN-SUFFIX,cloud-xm.com
   - DOMAIN-SUFFIX,cloud-zhaoqing.com
   - DOMAIN-SUFFIX,cloud-zhongwei.com
-  - DOMAIN-SUFFIX,cloud.gsdk.com.tw
+  - DOMAIN-SUFFIX,cloud.gsdk.proximabeta.com
   - DOMAIN-SUFFIX,cloud.lg.com
   - DOMAIN-SUFFIX,cloud.rovio.com
   - DOMAIN-SUFFIX,cloud.typography.com
@@ -28905,7 +28906,6 @@ payload:
   - DOMAIN-SUFFIX,cric.com
   - DOMAIN-SUFFIX,cric2009.com
   - DOMAIN-SUFFIX,cricbigdata.com
-  - DOMAIN-SUFFIX,cricbuzz.com
   - DOMAIN-SUFFIX,cricchina.com
   - DOMAIN-SUFFIX,crieasyfm.com
   - DOMAIN-SUFFIX,crienglish.com
@@ -109477,7 +109477,7 @@ payload:
   - DOMAIN-SUFFIX,www.synology.com
   - DOMAIN-SUFFIX,www.szmgiptv.com
   - DOMAIN-SUFFIX,www.taboola.com
-  - DOMAIN-SUFFIX,www.taiwanlotteryces.truste.com
+  - DOMAIN-SUFFIX,www.taiwanlottery.com.tw
   - DOMAIN-SUFFIX,www.taobao.com
   - DOMAIN-SUFFIX,www.tawk.to
   - DOMAIN-SUFFIX,www.techcrunch.com
@@ -124111,7 +124111,6 @@ payload:
   - DOMAIN-SUFFIX,zz-hh.com
   - DOMAIN-SUFFIX,zz-invest.com
   - DOMAIN-SUFFIX,zz.ci
-  - DOMAIN-SUFFIX,zz.com
   - DOMAIN-SUFFIX,zz.ee
   - DOMAIN-SUFFIX,zz123456789.xyz
   - DOMAIN-SUFFIX,zz2z.com
